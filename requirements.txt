@@ -1,0 +1,12 @@
+# Essential AI/ML and Development libraries
+numpy
+pandas
+scikit-learn
+python-dotenv
+requests
+pytest
+loguru
+pypdf2
+python-docx
+openai
+langchain

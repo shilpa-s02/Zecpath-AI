@@ -1,0 +1,54 @@
+{
+  "job_title": "Software Architecture Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Software Architecture Lead provides strategic oversight of software design, ensuring quality, extensibility, and long-term maintainability across products.",
+  "responsibilities": [
+    "Define software architecture vision and standards",
+    "Guide teams on object-oriented and service-oriented design",
+    "Ensure consistency across software components",
+    "Evaluate new technologies and architectural approaches",
+    "Lead architecture governance and reviews"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Software design principles and patterns",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Microservices and monolithic architectures",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "DevOps and CI/CD alignment",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cross-platform software development",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 16,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "32"
+  }
+}

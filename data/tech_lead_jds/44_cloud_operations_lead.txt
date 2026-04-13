@@ -1,0 +1,18 @@
+44. Cloud Operations Lead 
+Role Overview 
+The Cloud Operations Lead manages day-to-day cloud operations, ensuring uptime, cost 
+efficiency, and operational excellence. 
+Key Responsibilities 
+• Oversee cloud operations and support teams 
+• Monitor system health and availability 
+• Manage incidents, escalations, and SLAs 
+• Optimize cloud costs and usage 
+• Enforce operational and security standards 
+Required Skills & Technologies 
+• Cloud platforms and operations tooling 
+• ITIL and operational best practices 
+• Monitoring, logging, and cost tools 
+• Incident and problem management 
+Experience & Qualifications 
+• 7–13 years of operations experience 
+• Experience managing cloud production systems

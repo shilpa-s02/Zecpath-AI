@@ -1,0 +1,49 @@
+{
+  "job_title": "Lead Platform Engineer",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Lead Platform Engineer builds and maintains internal platforms that enable scalable, secure, and efficient product development.",
+  "responsibilities": [
+    "Design and lead internal developer platforms",
+    "Build reusable infrastructure and platform services",
+    "Enable CI/CD, observability, and self-service tooling",
+    "Drive platform reliability and performance",
+    "Collaborate with product and SRE teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Kubernetes, cloud platforms, and automation tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Infrastructure as Code (Terraform, CloudFormation)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Platform observability and security best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "8"
+  }
+}

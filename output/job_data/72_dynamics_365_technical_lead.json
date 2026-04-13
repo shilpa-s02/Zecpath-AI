@@ -1,0 +1,59 @@
+{
+  "job_title": "Dynamics 365 Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Dynamics 365 Technical Lead is responsible for leading implementation, customization, and integration of Microsoft Dynamics 365 solutions.",
+  "responsibilities": [
+    "Design Dynamics 365 architecture and custom solutions",
+    "Develop plugins, workflows, and Power Platform solutions",
+    "Manage integrations using Azure services",
+    "Ensure performance, security, and scalability",
+    "Guide Dynamics developers and consultants"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Dynamics 365 CE / F&O",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "C#, .NET, Power Platform",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Azure Logic Apps, Functions",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "REST APIs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "72"
+  }
+}

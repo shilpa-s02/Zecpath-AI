@@ -1,0 +1,20 @@
+103. Low-Code / No-Code Technical Lead 
+Role Overview 
+The Low-Code / No-Code Technical Lead governs and scales enterprise low-code platforms 
+while ensuring security, quality, and maintainability. 
+Key Responsibilities 
+• Lead low-code/no-code platform strategy 
+• Define governance, standards, and guardrails 
+• Integrate low-code solutions with core systems 
+• Enable citizen developers while managing risk 
+• Monitor performance, security, and scalability 
+• Mentor teams on platform best practices 
+Required Skills 
+• Low-code platforms (Power Platform, Mendix, OutSystems) 
+• Integration and API design 
+• Security and governance frameworks 
+• Platform enablement 
+• Change management 
+Experience 
+• 8–12 years in enterprise systems 
+• 3+ years in low-code platform leadership

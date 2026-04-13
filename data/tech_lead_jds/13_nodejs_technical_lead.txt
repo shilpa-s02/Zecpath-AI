@@ -1,0 +1,18 @@
+13. Node.js Technical Lead 
+Role Overview 
+The Node.js Technical Lead leads high-performance backend services and APIs using 
+JavaScript/TypeScript, focusing on scalability and real-time systems. 
+Key Responsibilities 
+• Design and build scalable Node.js backend services 
+• Lead development using Express, NestJS, or similar frameworks 
+• Implement REST and GraphQL APIs 
+• Ensure performance, security, and reliability 
+• Mentor team members and review code 
+Required Skills & Technologies 
+• Node.js, JavaScript/TypeScript 
+• Express.js, NestJS 
+• MongoDB, PostgreSQL, Redis 
+• Microservices, Docker, Kubernetes 
+Experience & Qualifications 
+• 6–10 years of backend development experience 
+• Strong leadership in JavaScript-based ecosystems

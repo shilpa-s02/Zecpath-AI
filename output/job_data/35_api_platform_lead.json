@@ -1,0 +1,56 @@
+{
+  "job_title": "API Platform Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The API Platform Lead is responsible for designing, scaling, and governing enterprise-wide API platforms and developer ecosystems.",
+  "responsibilities": [
+    "Define API standards, guidelines, and governance",
+    "Design scalable and secure API platforms",
+    "Enable API monetization and developer portals",
+    "Ensure performance, reliability, and security of APIs",
+    "Collaborate with product, security, and integration teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "REST, GraphQL, gRPC",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "API gateways and management tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "OAuth, OpenID Connect, API security",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Observability and API analytics",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "35"
+  }
+}

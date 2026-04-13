@@ -1,0 +1,54 @@
+{
+  "job_title": "Security Testing Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Security Testing Lead is responsible for identifying vulnerabilities and ensuring secure application delivery through proactive testing.",
+  "responsibilities": [
+    "Lead security testing strategy (SAST, DAST, IAST)",
+    "Conduct vulnerability assessments and penetration testing",
+    "Integrate security testing into CI/CD pipelines",
+    "Collaborate with security and DevOps teams",
+    "Track remediation and compliance"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Security testing tools and methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "OWASP Top 10 and secure coding practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Application and API security testing",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Compliance and risk management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "58"
+  }
+}

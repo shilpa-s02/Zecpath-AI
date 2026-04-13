@@ -1,0 +1,54 @@
+{
+  "job_title": "Cloud Operations Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Cloud Operations Lead manages day-to-day cloud operations, ensuring uptime, cost efficiency, and operational excellence.",
+  "responsibilities": [
+    "Oversee cloud operations and support teams",
+    "Monitor system health and availability",
+    "Manage incidents, escalations, and SLAs",
+    "Optimize cloud costs and usage",
+    "Enforce operational and security standards"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Cloud platforms and operations tooling",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "ITIL and operational best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Monitoring, logging, and cost tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Incident and problem management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "44"
+  }
+}

@@ -1,0 +1,20 @@
+92. Lead Architect 
+Role Overview 
+The Lead Architect is responsible for defining and governing system architecture, ensuring 
+scalability, security, and alignment with business goals. 
+Key Responsibilities 
+• Design end-to-end system architectures 
+• Define architectural standards and principles 
+• Review and approve technical designs 
+• Guide teams on architecture implementation 
+• Evaluate new tools, platforms, and frameworks 
+• Ensure systems meet performance and security standards 
+Required Skills 
+• Enterprise and solution architecture 
+• Cloud and hybrid architectures 
+• Integration patterns and data design 
+• Security and compliance awareness 
+• Technical documentation and governance 
+Experience 
+• 12–18 years in software architecture 
+• 5+ years in architect or lead roles

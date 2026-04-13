@@ -1,0 +1,66 @@
+{
+  "personal_info": {
+    "full_name": "Alice Brown",
+    "email": "alice.brown@data-science.io",
+    "phone": "+1-415-555-0921",
+    "location": "Seattle, WA",
+    "linkedin_url": "https://www.linkedin.com/in/alicebrownds"
+  },
+  "summary": "Experienced Data Scientist specializing in NLP and predictive modeling. Passionate about extracting insights from complex datasets.",
+  "skills": [
+    { "name": "Python", "category": "Technical", "proficiency": "Expert", "years_of_experience": 5 },
+    { "name": "PyTorch", "category": "Technical", "proficiency": "Expert", "years_of_experience": 4 },
+    { "name": "SQL", "category": "Technical", "proficiency": "Expert", "years_of_experience": 6 },
+    { "name": "Machine Learning", "category": "Domain", "proficiency": "Expert", "years_of_experience": 5 },
+    { "name": "Scikit-Learn", "category": "Tool", "proficiency": "Expert", "years_of_experience": 5 }
+  ],
+  "experience": [
+    {
+      "job_title": "Data Scientist",
+      "company": "CloudStream",
+      "location": "Seattle, WA",
+      "start_date": "2020-08-01",
+      "end_date": "Present",
+      "is_current": true,
+      "description": "Developing machine learning models for customer churn prediction and recommendation engines.",
+      "key_achievements": [
+        "Built a recommendation engine that increased click-through rate by 15%.",
+        "Implemented automated data pipelines using Airflow.",
+        "Collaborated with data engineers to optimize data storage and retrieval."
+      ]
+    },
+    {
+      "job_title": "Junior Data Analyst",
+      "company": "Metrics Inc.",
+      "location": "Boston, MA",
+      "start_date": "2018-06-01",
+      "end_date": "2020-07-31",
+      "is_current": false,
+      "description": "Processed and analyzed large datasets to support business decision-making.",
+      "key_achievements": [
+        "Created dashboards in Tableau for real-time sales tracking.",
+        "Cleaned and pre-processed data from various sources."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Data Science",
+      "field_of_study": "Data Science",
+      "institution": "University of Washington",
+      "completion_date": "2018-05-15"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Professional Data Engineer",
+      "issuing_organization": "Google Cloud",
+      "issue_date": "2022-03-01"
+    }
+  ],
+  "metadata": {
+    "extraction_date": "2026-03-27T12:00:00Z",
+    "source_file": "alice_brown_resume.pdf",
+    "confidence_score": 0.97
+  }
+}

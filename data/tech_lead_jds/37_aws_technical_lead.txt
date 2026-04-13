@@ -1,0 +1,18 @@
+37. AWS Technical Lead 
+Role Overview 
+The AWS Technical Lead owns architecture and delivery of cloud solutions on AWS, 
+ensuring scalability, security, and operational excellence. 
+Key Responsibilities 
+• Design AWS-based architectures and services 
+• Lead teams on EC2, EKS, Lambda, RDS, S3, VPC 
+• Implement security, networking, and IAM best practices 
+• Optimize cost using AWS Well-Architected Framework 
+• Review cloud designs and production workloads 
+Required Skills & Technologies 
+• AWS core services and architecture patterns 
+• Terraform or CloudFormation 
+• CI/CD pipelines and container platforms 
+• Cloud monitoring and logging 
+Experience & Qualifications 
+• 7–13 years of experience 
+• AWS certifications (preferred)

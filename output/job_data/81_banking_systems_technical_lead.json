@@ -1,0 +1,59 @@
+{
+  "job_title": "Banking Systems Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Banking Systems Technical Lead leads development and modernization of core banking, digital banking, and financial transaction systems.",
+  "responsibilities": [
+    "Lead architecture of core banking platforms",
+    "Ensure transaction consistency and security",
+    "Integrate regulatory and reporting systems",
+    "Modernize legacy banking applications",
+    "Collaborate with compliance, audit, and business teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Core banking systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Java / COBOL / .NET",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "High-availability transaction systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security and compliance standards",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "API and integration platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 15,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "81"
+  }
+}

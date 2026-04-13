@@ -1,0 +1,54 @@
+{
+  "job_title": "Performance Testing Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Performance Testing Lead ensures applications meet performance, scalability, and reliability requirements under real-world load.",
+  "responsibilities": [
+    "Define performance testing strategy and benchmarks",
+    "Design load, stress, and endurance tests",
+    "Analyze performance bottlenecks and system behavior",
+    "Collaborate with developers and infrastructure teams",
+    "Provide performance recommendations and reports"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "JMeter, LoadRunner, Gatling",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Performance monitoring and APM tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "System and network performance analysis",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Capacity planning",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "57"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "job_title": "Onsite Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Onsite Technical Lead works directly at the client location to oversee technical execution, coordination, and communication between onsite and offshore teams.",
+  "responsibilities": [
+    "Represent technical leadership at client site",
+    "Coordinate requirements, clarifications, and feedback",
+    "Lead onsite technical discussions and planning",
+    "Ensure smooth collaboration with offshore teams",
+    "Track progress and report status to stakeholders",
+    "Resolve onsite technical challenges quickly"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Strong communication and interpersonal skills",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Technical leadership and problem-solving",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cross-cultural collaboration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile delivery experience",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Stakeholder management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "86"
+  }
+}

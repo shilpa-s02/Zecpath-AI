@@ -1,0 +1,20 @@
+75. FinTech Technical Lead 
+Role Overview 
+The FinTech Technical Lead leads the design and development of secure, scalable financial 
+technology systems including payments, digital banking, lending, and trading platforms. 
+Key Responsibilities 
+• Architect and lead FinTech platform development 
+• Ensure compliance with financial regulations and security standards 
+• Design high-availability and low-latency systems 
+• Integrate payment gateways, banking APIs, and third-party services 
+• Lead code reviews, technical decisions, and performance optimization 
+• Collaborate with compliance, product, and risk teams 
+Required Skills 
+• Payments, wallets, lending, or trading systems 
+• Java / Python / Node.js 
+• Microservices, event-driven systems 
+• PCI-DSS, SOX, GDPR 
+• Cloud platforms (AWS/Azure/GCP) 
+Experience 
+• 7–12 years in software engineering 
+• 3+ years in FinTech or financial systems leadership

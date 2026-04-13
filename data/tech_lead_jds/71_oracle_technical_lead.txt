@@ -1,0 +1,19 @@
+71. Oracle Technical Lead 
+Role Overview 
+The Oracle Technical Lead manages development and integration of Oracle enterprise 
+systems including databases, middleware, and Oracle ERP solutions. 
+Key Responsibilities 
+• Lead Oracle ERP and database architecture 
+• Develop PL/SQL packages, triggers, and reports 
+• Manage integrations and data pipelines 
+• Optimize performance and ensure system reliability 
+• Oversee upgrades and system enhancements 
+Required Skills 
+• Oracle ERP / EBS / Fusion 
+• PL/SQL, SQL, Oracle Forms & Reports 
+• Oracle Integration Cloud 
+• Performance tuning 
+• Security and compliance best practices 
+Experience 
+• 7–12 years with Oracle technologies 
+• 3+ years leading technical teams

@@ -1,0 +1,60 @@
+{
+  "job_title": "Senior Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Senior Technical Lead owns complex technical initiatives, mentors multiple teams, and ensures architecture, quality, and delivery align with business objectives.",
+  "responsibilities": [
+    "Lead design and development of complex systems",
+    "Guide and mentor Technical Leads and Senior Engineers",
+    "Review architecture decisions and critical code paths",
+    "Drive engineering best practices and standards",
+    "Collaborate with product, delivery, and architecture teams",
+    "Resolve high-impact technical issues and escalations"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Advanced system design and architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Deep expertise in one or more tech stacks",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Mentoring and leadership skills",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile delivery and DevOps practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong stakeholder communication",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "89"
+  }
+}

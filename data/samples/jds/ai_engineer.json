@@ -1,0 +1,44 @@
+{
+  "job_title": "AI Engineer",
+  "company": "DeepLogic AI",
+  "location": "Remote",
+  "job_type": "Full-time",
+  "description": "We are seeking a talented AI Engineer to join our team in building next-generation intelligent systems. You will work on cutting-edge research and transition it into production-ready products.",
+  "responsibilities": [
+    "Design and implement machine learning models and algorithms.",
+    "Collaborate with data scientists and engineers to integrate AI features into our platforms.",
+    "Optimize model performance and scalability.",
+    "Stay up-to-date with the latest advancements in AI/ML research."
+  ],
+  "requirements": {
+    "skills": [
+      { "name": "Python", "is_mandatory": true, "proficiency_level": "Expert", "min_years": 5 },
+      { "name": "PyTorch", "is_mandatory": true, "proficiency_level": "Expert", "min_years": 3 },
+      { "name": "Natural Language Processing", "is_mandatory": true, "proficiency_level": "Intermediate", "min_years": 2 },
+      { "name": "Docker", "is_mandatory": false, "proficiency_level": "Intermediate", "min_years": 2 },
+      { "name": "Kubernetes", "is_mandatory": false, "proficiency_level": "Intermediate", "min_years": 1 }
+    ],
+    "experience": {
+      "min_years": 5,
+      "preferred_years": 7,
+      "relevant_industries": ["Artificial Intelligence", "Software Engineering", "Research"]
+    },
+    "education": {
+      "degree_level": "Master's Degree",
+      "field_of_study": "Computer Science or related field",
+      "is_required": true
+    },
+    "certifications": ["Google Professional Machine Learning Engineer", "AWS Certified Machine Learning – Specialty"]
+  },
+  "benefits": [
+    "Competitive salary and equity package",
+    "Flexible working hours and remote options",
+    "Health, dental, and vision insurance",
+    "Professional development stipend"
+  ],
+  "meta": {
+    "posting_date": "2026-03-20T09:00:00Z",
+    "source": "DeepLogic AI Careers",
+    "internal_id": "DL-AI-2026-001"
+  }
+}

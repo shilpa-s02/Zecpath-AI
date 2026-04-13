@@ -1,0 +1,19 @@
+73. Enterprise Systems Lead 
+Role Overview 
+The Enterprise Systems Lead oversees large-scale enterprise applications ensuring reliability, 
+integration, and alignment with business strategy. 
+Key Responsibilities 
+• Lead enterprise application architecture 
+• Manage cross-platform system integrations 
+• Coordinate with IT, security, and business teams 
+• Ensure compliance, scalability, and availability 
+• Drive modernization and digital transformation initiatives 
+Required Skills 
+• Enterprise architecture frameworks 
+• Integration platforms & middleware 
+• Cloud and on-prem hybrid systems 
+• IT governance and compliance 
+• Stakeholder communication 
+Experience 
+• 10–15 years in enterprise IT 
+• 5+ years leading enterprise platforms

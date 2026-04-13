@@ -1,0 +1,18 @@
+12. .NET Technical Lead 
+Role Overview 
+The .NET Technical Lead is responsible for leading development of Microsoft-based 
+enterprise applications and cloud-native solutions. 
+Key Responsibilities 
+• Architect and lead .NET applications using modern frameworks 
+• Guide teams on .NET Core, ASP.NET, and microservices 
+• Ensure secure and scalable application design 
+• Collaborate with Azure, DevOps, and QA teams 
+• Conduct code reviews and mentor engineers 
+Required Skills & Technologies 
+• C#, .NET Core, ASP.NET MVC/Web API 
+• Azure services, Entity Framework 
+• SQL Server and database optimization 
+• CI/CD pipelines and DevOps practices 
+Experience & Qualifications 
+• 7–12 years of .NET development experience 
+• Experience leading enterprise application teams

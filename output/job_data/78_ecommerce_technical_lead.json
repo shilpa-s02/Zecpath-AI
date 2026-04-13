@@ -1,0 +1,59 @@
+{
+  "job_title": "E-Commerce Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The E-Commerce Technical Lead drives development of high-performance, scalable online commerce platforms handling traffic, payments, and order fulfillment.",
+  "responsibilities": [
+    "Lead architecture for e-commerce platforms",
+    "Optimize performance for high-traffic systems",
+    "Integrate payment gateways, logistics, and ERP",
+    "Implement security and fraud prevention",
+    "Support personalization and analytics features"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "E-commerce platforms (Magento, Shopify, custom)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Java / Node.js / PHP",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Payment gateways & APIs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Microservices and caching",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud scalability & DevOps",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "78"
+  }
+}

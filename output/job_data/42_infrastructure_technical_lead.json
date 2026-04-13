@@ -1,0 +1,56 @@
+{
+  "job_title": "Infrastructure Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Infrastructure Technical Lead oversees compute, storage, networking, and hybrid infrastructure environments.",
+  "responsibilities": [
+    "Design and manage on-prem and cloud infrastructure",
+    "Ensure system availability, capacity, and performance",
+    "Lead infrastructure automation and monitoring",
+    "Coordinate with security and operations teams",
+    "Manage upgrades, DR, and capacity planning"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Servers, networking, storage systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Virtualization and cloud infrastructure",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Automation and monitoring tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Infrastructure security best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 15,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "42"
+  }
+}

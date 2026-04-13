@@ -1,0 +1,19 @@
+45. Data Engineering Technical Lead 
+Role Overview 
+The Data Engineering Technical Lead is responsible for designing, building, and scaling 
+reliable data pipelines and platforms that power analytics, AI, and business intelligence. 
+Key Responsibilities 
+• Architect and lead end-to-end data pipelines (batch & streaming) 
+• Design scalable data lakes and data warehouses 
+• Ensure data quality, governance, and security standards 
+• Mentor data engineers and review pipeline designs 
+• Collaborate with analytics, AI, and business teams 
+• Optimize data performance, cost, and reliability 
+Required Skills & Technologies 
+• SQL, Python, Spark 
+• Data warehousing (BigQuery, Snowflake, Redshift) 
+• Streaming platforms (Kafka, Kinesis) 
+• Cloud data services and orchestration tools 
+Experience & Qualifications 
+• 8–14 years of data engineering experience 
+• Leadership in large-scale data platforms

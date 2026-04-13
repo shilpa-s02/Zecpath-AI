@@ -1,0 +1,19 @@
+79. Telecom Technical Lead 
+Role Overview 
+The Telecom Technical Lead oversees development of telecom platforms supporting billing, 
+OSS/BSS, network management, and customer services. 
+Key Responsibilities 
+• Design telecom system architectures 
+• Lead development of OSS/BSS platforms 
+• Integrate network APIs and legacy systems 
+• Ensure high availability and fault tolerance 
+• Collaborate with network and operations teams 
+Required Skills 
+• Telecom OSS/BSS systems 
+• Java / C++ / Python 
+• Distributed systems 
+• Messaging & event streaming 
+• Telecom protocols & APIs 
+Experience 
+• 8–14 years in telecom systems 
+• 4+ years in technical leadership roles

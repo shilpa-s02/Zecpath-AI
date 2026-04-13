@@ -1,0 +1,60 @@
+{
+  "job_title": "ERP Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The ERP Technical Lead is responsible for leading the technical design, development, integration, and optimization of enterprise ERP systems to support core business processes.",
+  "responsibilities": [
+    "Lead ERP system architecture and customization",
+    "Oversee module development, integrations, and data migration",
+    "Coordinate with functional consultants and business stakeholders",
+    "Ensure system performance, scalability, and security",
+    "Manage ERP upgrades, patches, and enhancements",
+    "Mentor ERP developers and technical consultants"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "ERP platforms (SAP, Oracle, Dynamics, NetSuite)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SQL, PL/SQL, ERP scripting",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "System integration (APIs, middleware)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Performance tuning & troubleshooting",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SDLC & Agile methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "68"
+  }
+}

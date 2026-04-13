@@ -1,0 +1,18 @@
+67. SOC Technical Lead (Security Operations Center) 
+Role Overview 
+The SOC Technical Lead leads security monitoring, detection, and incident response 
+operations. 
+Key Responsibilities 
+• Oversee SOC tools, processes, and analysts 
+• Lead incident detection, response, and forensics 
+• Improve threat intelligence and detection capabilities 
+• Ensure 24/7 security monitoring and SLA compliance 
+• Coordinate response to major security incidents 
+Required Skills & Technologies 
+• SIEM and SOAR platforms 
+• Threat detection and incident response 
+• Log analysis and forensics tools 
+• Security operations best practices 
+Experience & Qualifications 
+• 8–14 years of security operations experience 
+• Leadership in SOC or incident response teams

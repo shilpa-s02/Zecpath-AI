@@ -1,0 +1,18 @@
+59. Chaos Engineering Lead 
+Role Overview 
+The Chaos Engineering Lead improves system resilience by proactively testing systems 
+under failure conditions. 
+Key Responsibilities 
+• Design and execute chaos experiments 
+• Identify system weaknesses and failure points 
+• Collaborate with SRE and DevOps teams 
+• Improve system reliability and fault tolerance 
+• Establish chaos engineering practices and tooling 
+Required Skills & Technologies 
+• Chaos engineering tools (Chaos Monkey, Gremlin) 
+• Distributed systems and cloud platforms 
+• Observability and monitoring tools 
+• Incident management practices 
+Experience & Qualifications 
+• 8–14 years of experience 
+• Background in SRE, DevOps, or reliability engineering

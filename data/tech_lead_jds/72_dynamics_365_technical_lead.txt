@@ -1,0 +1,19 @@
+72. Dynamics 365 Technical Lead 
+Role Overview 
+The Dynamics 365 Technical Lead is responsible for leading implementation, customization, 
+and integration of Microsoft Dynamics 365 solutions. 
+Key Responsibilities 
+• Design Dynamics 365 architecture and custom solutions 
+• Develop plugins, workflows, and Power Platform solutions 
+• Manage integrations using Azure services 
+• Ensure performance, security, and scalability 
+• Guide Dynamics developers and consultants 
+Required Skills 
+• Dynamics 365 CE / F&O 
+• C#, .NET, Power Platform 
+• Azure Logic Apps, Functions 
+• REST APIs 
+• Agile methodologies 
+Experience 
+• 6–10 years with Microsoft ecosystem 
+• 3+ years in technical leadership

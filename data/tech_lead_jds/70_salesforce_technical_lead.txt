@@ -1,0 +1,20 @@
+70. Salesforce Technical Lead 
+Role Overview 
+The Salesforce Technical Lead drives design, development, and customization of Salesforce 
+solutions aligned with business goals. 
+Key Responsibilities 
+• Lead Salesforce architecture and development 
+• Customize Salesforce using Apex, LWC, and Flows 
+• Integrate Salesforce with external systems 
+• Ensure security, scalability, and performance 
+• Support DevOps pipelines and CI/CD 
+• Mentor Salesforce developers 
+Required Skills 
+• Salesforce Apex, LWC, Visualforce 
+• Salesforce APIs & integrations 
+• Sales Cloud, Service Cloud, Experience Cloud 
+• Salesforce security model 
+• Agile/Scrum 
+Experience 
+• 6–10 years in Salesforce development 
+• 3+ years in leadership roles

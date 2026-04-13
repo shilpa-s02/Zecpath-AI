@@ -1,0 +1,18 @@
+63. Cloud Security Lead 
+Role Overview 
+The Cloud Security Lead is responsible for securing cloud environments and enforcing 
+security governance across cloud platforms. 
+Key Responsibilities 
+• Design cloud security architectures and controls 
+• Implement IAM, network security, and encryption 
+• Monitor cloud security posture and compliance 
+• Lead incident response for cloud environments 
+• Collaborate with cloud, DevOps, and platform teams 
+Required Skills & Technologies 
+• AWS/Azure/GCP security services 
+• Cloud IAM, network security, encryption 
+• CSPM and cloud security tools 
+• Compliance and governance frameworks 
+Experience & Qualifications 
+• 7–14 years of security experience 
+• Strong expertise in cloud security

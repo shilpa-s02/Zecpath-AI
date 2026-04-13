@@ -1,0 +1,20 @@
+102. AI Platform Technical Lead 
+Role Overview 
+The AI Platform Technical Lead builds and governs scalable platforms that enable data 
+science and engineering teams to develop, deploy, and operate AI solutions efficiently. 
+Key Responsibilities 
+• Design AI/ML platform architecture 
+• Enable model training, deployment, and monitoring 
+• Standardize MLOps and GenAI workflows 
+• Ensure scalability, reliability, and cost efficiency 
+• Collaborate with data science and product teams 
+• Define AI platform standards and best practices 
+Required Skills 
+• ML platforms and pipelines 
+• MLOps and model lifecycle management 
+• Cloud AI services 
+• Kubernetes and workflow orchestration 
+• Platform engineering 
+Experience 
+• 8–14 years in data or platform engineering 
+• 3+ years leading AI platforms

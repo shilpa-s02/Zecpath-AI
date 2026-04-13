@@ -1,0 +1,20 @@
+105. Platform Governance Lead 
+Role Overview 
+The Platform Governance Lead ensures consistency, security, compliance, and scalability 
+across shared technology platforms. 
+Key Responsibilities 
+• Define platform governance frameworks 
+• Establish standards, policies, and controls 
+• Monitor compliance and platform usage 
+• Balance developer autonomy with governance 
+• Collaborate with security, compliance, and platform teams 
+• Drive continuous governance improvement 
+Required Skills 
+• Platform engineering 
+• Governance and compliance frameworks 
+• Security and risk management 
+• Metrics and reporting 
+• Cross-team influence 
+Experience 
+• 9–15 years in platform or enterprise systems 
+• 4+ years in governance or lead roles

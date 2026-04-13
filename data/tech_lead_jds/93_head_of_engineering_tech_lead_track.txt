@@ -1,0 +1,20 @@
+93. Head of Engineering (Tech Lead Track) 
+Role Overview 
+The Head of Engineering (Tech Lead Track) leads engineering execution while remaining 
+deeply involved in technical decisions and architecture. 
+Key Responsibilities 
+• Lead engineering teams and technical direction 
+• Own architecture, code quality, and engineering standards 
+• Partner with product and business leaders 
+• Scale teams, systems, and processes 
+• Mentor engineering managers and senior engineers 
+• Drive delivery excellence and innovation 
+Required Skills 
+• Strong hands-on technical background 
+• Engineering leadership and people management 
+• Architecture and system design 
+• Agile scaling frameworks 
+• Strategic planning and execution 
+Experience 
+• 14–20 years in engineering 
+• 6+ years in senior technical leadership roles

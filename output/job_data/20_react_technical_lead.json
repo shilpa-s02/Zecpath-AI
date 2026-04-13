@@ -1,0 +1,54 @@
+{
+  "job_title": "React Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The React Technical Lead leads development of scalable, high-performance React applications while mentoring frontend teams.",
+  "responsibilities": [
+    "Architect React applications and component structures",
+    "Guide teams on hooks, state management, and performance",
+    "Implement reusable components and design systems",
+    "Ensure best practices in testing and deployment",
+    "Collaborate with backend and UX teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "React, TypeScript",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Redux, Context API",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Jest, React Testing Library",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "REST/GraphQL APIs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "20"
+  }
+}

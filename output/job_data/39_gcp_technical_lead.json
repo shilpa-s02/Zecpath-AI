@@ -1,0 +1,54 @@
+{
+  "job_title": "GCP Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The GCP Technical Lead designs and leads cloud solutions on Google Cloud Platform, focusing on data-driven and cloud-native architectures.",
+  "responsibilities": [
+    "Design architectures using GCP services",
+    "Lead teams on GKE, Compute Engine, Cloud Run",
+    "Implement security and IAM best practices",
+    "Optimize performance and cloud costs",
+    "Collaborate with data and ML teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "GCP services and networking",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Kubernetes and container platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Terraform and CI/CD tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud monitoring and logging",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "39"
+  }
+}

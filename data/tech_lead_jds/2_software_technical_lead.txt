@@ -1,0 +1,17 @@
+2. Software Technical Lead 
+Role Overview 
+The Software Technical Lead oversees end-to-end software development, ensuring design 
+quality, maintainability, and alignment with business goals. 
+Key Responsibilities 
+• Own software architecture and technical roadmap 
+• Lead development activities across backend, frontend, and integrations 
+• Drive coding standards, testing strategies, and documentation 
+• Coordinate with QA, DevOps, and product teams 
+• Ensure secure, scalable, and high-performance software delivery 
+Required Skills & Technologies 
+• Expertise in software engineering principles and design patterns 
+• Experience with modern frameworks and cloud-native development 
+• CI/CD, automated testing, and version control 
+Experience & Qualifications 
+• 7–12 years of experience in software development 
+• Proven experience as a senior engineer or technical lead

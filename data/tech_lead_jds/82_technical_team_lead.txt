@@ -1,0 +1,20 @@
+82. Technical Team Lead 
+Role Overview 
+The Technical Team Lead manages a team of engineers while remaining hands-on with 
+design, coding, and technical decision-making to ensure high-quality delivery. 
+Key Responsibilities 
+• Lead day-to-day technical activities of the team 
+• Review code, enforce best practices, and maintain quality standards 
+• Break down requirements into technical tasks 
+• Mentor and guide engineers 
+• Collaborate with product managers and architects 
+• Track sprint progress and resolve technical blockers 
+Required Skills 
+• Strong hands-on development experience 
+• Team leadership and mentoring 
+• Agile/Scrum methodologies 
+• Code review and design skills 
+• Excellent communication 
+Experience 
+• 6–10 years in software development 
+• 2+ years leading engineering teams

@@ -1,0 +1,20 @@
+10. Java Technical Lead 
+Role Overview 
+The Java Technical Lead is responsible for designing, developing, and leading enterprise
+grade Java applications, ensuring scalability, security, and high performance while mentoring 
+development teams. 
+Key Responsibilities 
+• Lead architecture and design of Java-based applications 
+• Guide teams on Spring, Spring Boot, and microservices architecture 
+• Review code and enforce Java coding standards and best practices 
+• Optimize application performance and scalability 
+• Collaborate with product, QA, DevOps, and architecture teams 
+• Troubleshoot complex production issues 
+Required Skills & Technologies 
+• Core Java, Java 8+, Spring Boot, Hibernate/JPA 
+• Microservices, RESTful APIs, messaging systems (Kafka/RabbitMQ) 
+• SQL/NoSQL databases 
+• CI/CD, Docker, Kubernetes 
+Experience & Qualifications 
+• 7–12 years of Java development experience 
+• 2+ years in a technical leadership role

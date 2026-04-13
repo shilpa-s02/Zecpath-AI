@@ -1,0 +1,72 @@
+{
+  "personal_info": {
+    "full_name": "John Smith",
+    "email": "john.smith@gmail.com",
+    "phone": "+1-202-555-0143",
+    "location": "New York, NY",
+    "linkedin_url": "https://www.linkedin.com/in/johnsmithpm"
+  },
+  "summary": "Customer-focused Product Manager with 6+ years of experience in the Fintech industry. Proven track record of launching successful mobile applications.",
+  "skills": [
+    { "name": "Agile Methodology", "category": "Soft", "proficiency": "Expert", "years_of_experience": 6 },
+    { "name": "Strategic Planning", "category": "Soft", "proficiency": "Expert", "years_of_experience": 5 },
+    { "name": "SQL", "category": "Technical", "proficiency": "Intermediate", "years_of_experience": 3 },
+    { "name": "Jira", "category": "Tool", "proficiency": "Expert", "years_of_experience": 6 },
+    { "name": "Confluence", "category": "Tool", "proficiency": "Expert", "years_of_experience": 6 }
+  ],
+  "experience": [
+    {
+      "job_title": "Product Manager",
+      "company": "Bankify",
+      "location": "New York, NY",
+      "start_date": "2021-01-01",
+      "end_date": "Present",
+      "is_current": true,
+      "description": "Owning the product roadmap for the company's mobile banking app.",
+      "key_achievements": [
+        "Increased user retention by 20% through targeted feature improvements.",
+        "Launched a new peer-to-peer payment system within 6 months.",
+        "Collaborated with cross-functional teams (Design, Engineering, Marketing) to define product vision."
+      ]
+    },
+    {
+      "job_title": "Associate Product Manager",
+      "company": "QuickPay",
+      "location": "New York, NY",
+      "start_date": "2018-05-01",
+      "end_date": "2020-12-31",
+      "is_current": false,
+      "description": "Supported senior PMs in managing product lifecycle.",
+      "key_achievements": [
+        "Analyzed user feedback and market trends to identify product opportunities.",
+        "Coordinated product launches and user acceptance testing."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA in Marketing",
+      "field_of_study": "Business Administration",
+      "institution": "Columbia Business School",
+      "completion_date": "2018-05-15"
+    },
+    {
+      "degree": "Bachelor of Arts in Economics",
+      "field_of_study": "Economics",
+      "institution": "University of Michigan",
+      "completion_date": "2014-12-20"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Scrum Product Owner (CSPO)",
+      "issuing_organization": "Scrum Alliance",
+      "issue_date": "2019-10-10"
+    }
+  ],
+  "metadata": {
+    "extraction_date": "2026-03-27T12:00:00Z",
+    "source_file": "john_smith_resume.pdf",
+    "confidence_score": 0.95
+  }
+}

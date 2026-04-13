@@ -1,0 +1,55 @@
+{
+  "job_title": "QA Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The QA Technical Lead oversees quality assurance strategy, test execution, and continuous quality improvement across applications and platforms.",
+  "responsibilities": [
+    "Define QA strategy, test plans, and quality standards",
+    "Lead manual and automated testing efforts",
+    "Coordinate QA activities across teams and releases",
+    "Ensure defect tracking, reporting, and resolution",
+    "Collaborate with development, product, and DevOps teams",
+    "Mentor QA engineers and testers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Manual and automated testing methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Test management tools (JIRA, TestRail)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SDLC and Agile/Scrum processes",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD quality integration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "54"
+  }
+}

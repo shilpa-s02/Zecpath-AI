@@ -1,0 +1,54 @@
+{
+  "job_title": "Azure Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Azure Technical Lead leads Microsoft Azure cloud initiatives, focusing on enterprise workloads, hybrid cloud, and DevOps integration.",
+  "responsibilities": [
+    "Architect solutions using Azure services",
+    "Lead teams on Azure VMs, AKS, App Services",
+    "Implement Azure security, governance, and policies",
+    "Drive CI/CD using Azure DevOps",
+    "Support hybrid and enterprise cloud deployments"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Azure compute, networking, and identity services",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "ARM/Bicep/Terraform",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Azure DevOps pipelines",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Monitoring and security tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "38"
+  }
+}

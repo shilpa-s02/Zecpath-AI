@@ -1,0 +1,17 @@
+7. Lead Systems Engineer 
+Role Overview 
+The Lead Systems Engineer oversees system-level design, integration, and reliability of 
+large-scale platforms and infrastructure. 
+Key Responsibilities 
+• Design and maintain system architecture and integrations 
+• Ensure system availability, reliability, and performance 
+• Lead system troubleshooting and root cause analysis 
+• Collaborate with security and infrastructure teams 
+• Document system processes and standards 
+Required Skills & Technologies 
+• Deep understanding of system architecture and OS concepts 
+• Networking, storage, and infrastructure expertise 
+• Automation and monitoring tools 
+Experience & Qualifications 
+• 8–14 years of systems engineering experience 
+• Experience leading mission-critical systems

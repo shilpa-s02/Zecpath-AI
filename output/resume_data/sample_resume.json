@@ -1,0 +1,28 @@
+{
+  "personal_info": {
+    "full_name": "Sample Resume"
+  },
+  "summary": "",
+  "experience": [],
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "AWS"
+    }
+  ],
+  "education": [],
+  "projects": [],
+  "raw_sections": {
+    "personal_info": "John Doe",
+    "skills": "Python, SQL, AWS",
+    "experience": "[TABLE]\nCompany | Role\nTechCorp | Engineer\n[/TABLE]"
+  },
+  "metadata": {
+    "source_file": "sample_resume.docx"
+  }
+}

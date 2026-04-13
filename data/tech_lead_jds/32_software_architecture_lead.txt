@@ -1,0 +1,18 @@
+32. Software Architecture Lead 
+Role Overview 
+The Software Architecture Lead provides strategic oversight of software design, ensuring 
+quality, extensibility, and long-term maintainability across products. 
+Key Responsibilities 
+• Define software architecture vision and standards 
+• Guide teams on object-oriented and service-oriented design 
+• Ensure consistency across software components 
+• Evaluate new technologies and architectural approaches 
+• Lead architecture governance and reviews 
+Required Skills & Technologies 
+• Software design principles and patterns 
+• Microservices and monolithic architectures 
+• DevOps and CI/CD alignment 
+• Cross-platform software development 
+Experience & Qualifications 
+• 10–16 years of software engineering experience 
+• Strong background in architecture leadership

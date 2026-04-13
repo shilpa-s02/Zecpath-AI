@@ -1,0 +1,59 @@
+{
+  "job_title": "Oracle Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Oracle Technical Lead manages development and integration of Oracle enterprise systems including databases, middleware, and Oracle ERP solutions.",
+  "responsibilities": [
+    "Lead Oracle ERP and database architecture",
+    "Develop PL/SQL packages, triggers, and reports",
+    "Manage integrations and data pipelines",
+    "Optimize performance and ensure system reliability",
+    "Oversee upgrades and system enhancements"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Oracle ERP / EBS / Fusion",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "PL/SQL, SQL, Oracle Forms & Reports",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Oracle Integration Cloud",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Performance tuning",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security and compliance best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "71"
+  }
+}

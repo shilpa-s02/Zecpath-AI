@@ -1,0 +1,60 @@
+{
+  "job_title": "Staff Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Staff Technical Lead is a highly experienced hands-on leader who solves the most complex technical problems while guiding teams through influence rather than authority.",
+  "responsibilities": [
+    "Design and implement critical system components",
+    "Provide technical leadership across teams",
+    "Influence architecture and coding standards",
+    "Troubleshoot and resolve system-wide issues",
+    "Coach engineers through technical excellence",
+    "Contribute to long-term platform evolution"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Expert-level coding and design skills",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Cross-team collaboration and influence",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Deep debugging and performance tuning",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud-native and distributed systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong documentation and design communication",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 16,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "91"
+  }
+}

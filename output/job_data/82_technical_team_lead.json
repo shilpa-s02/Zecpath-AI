@@ -1,0 +1,60 @@
+{
+  "job_title": "Technical Team Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Technical Team Lead manages a team of engineers while remaining hands-on with design, coding, and technical decision-making to ensure high-quality delivery.",
+  "responsibilities": [
+    "Lead day-to-day technical activities of the team",
+    "Review code, enforce best practices, and maintain quality standards",
+    "Break down requirements into technical tasks",
+    "Mentor and guide engineers",
+    "Collaborate with product managers and architects",
+    "Track sprint progress and resolve technical blockers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Strong hands-on development experience",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Team leadership and mentoring",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile/Scrum methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Code review and design skills",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Excellent communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "82"
+  }
+}

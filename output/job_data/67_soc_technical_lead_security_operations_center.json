@@ -1,0 +1,54 @@
+{
+  "job_title": "SOC Technical Lead (Security Operations Center)",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The SOC Technical Lead leads security monitoring, detection, and incident response operations.",
+  "responsibilities": [
+    "Oversee SOC tools, processes, and analysts",
+    "Lead incident detection, response, and forensics",
+    "Improve threat intelligence and detection capabilities",
+    "Ensure 24/7 security monitoring and SLA compliance",
+    "Coordinate response to major security incidents"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "SIEM and SOAR platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Threat detection and incident response",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Log analysis and forensics tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security operations best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "67"
+  }
+}

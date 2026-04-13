@@ -1,0 +1,70 @@
+{
+  "job_title": "Technical Lead Consultant",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Technical Lead Consultant advises organizations on architecture, technology strategy, and execution while guiding teams through transformation or complex delivery.",
+  "responsibilities": [
+    "Assess existing systems and technical maturity",
+    "Propose architecture improvements and roadmaps",
+    "Lead technical workshops and design sessions",
+    "Support engineering teams during execution",
+    "Provide risk analysis and mitigation strategies",
+    "Act as trusted technical advisor to stakeholders"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Architecture and system design expertise",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Consulting and advisory mindset",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Technology evaluation and modernization",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Executive communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Documentation and presentation skills",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Engagement Type",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Consulting / Advisory / Hybrid",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 18,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "98"
+  }
+}

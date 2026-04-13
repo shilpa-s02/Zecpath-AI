@@ -1,0 +1,18 @@
+48. Machine Learning Technical Lead 
+Role Overview 
+The Machine Learning Technical Lead oversees end-to-end ML systems, from feature 
+engineering to production deployment and monitoring. 
+Key Responsibilities 
+• Design ML architectures and feature pipelines 
+• Guide model selection, training, and evaluation 
+• Ensure scalability, performance, and explainability 
+• Lead model deployment and monitoring strategies 
+• Mentor ML engineers and data scientists 
+Required Skills & Technologies 
+• ML algorithms and evaluation metrics 
+• Python, Scikit-learn, TensorFlow, PyTorch 
+• Feature stores and model monitoring tools 
+• Cloud-based ML platforms 
+Experience & Qualifications 
+• 7–13 years of ML experience 
+• Proven leadership in production ML systems

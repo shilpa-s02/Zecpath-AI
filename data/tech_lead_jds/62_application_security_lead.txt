@@ -1,0 +1,19 @@
+62. Application Security Lead 
+Role Overview 
+The Application Security Lead ensures applications are designed, developed, and deployed 
+securely throughout the SDLC. 
+Key Responsibilities 
+• Define application security strategy and standards 
+• Implement secure coding practices and reviews 
+• Lead SAST, DAST, and IAST initiatives 
+• Conduct threat modeling and risk assessments 
+• Collaborate with development and QA teams 
+• Track remediation of security vulnerabilities 
+Required Skills & Technologies 
+• Application security tools and techniques 
+• OWASP Top 10 and secure coding standards 
+• DevSecOps and CI/CD security integration 
+• API and microservices security 
+Experience & Qualifications 
+• 7–13 years of application security experience 
+• Strong background in software development or security

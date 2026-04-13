@@ -1,0 +1,18 @@
+47. AI Technical Lead 
+Role Overview 
+The AI Technical Lead drives development and deployment of AI-powered systems, ensuring 
+ethical, scalable, and business-aligned AI solutions. 
+Key Responsibilities 
+• Lead AI solution design and model integration 
+• Collaborate with data scientists and engineers 
+• Ensure responsible AI, fairness, and governance 
+• Translate business problems into AI use cases 
+• Oversee model deployment and lifecycle management 
+Required Skills & Technologies 
+• AI/ML fundamentals and frameworks 
+• Python, TensorFlow, PyTorch 
+• Data pipelines and cloud AI services 
+• AI ethics and governance practices 
+Experience & Qualifications 
+• 8–14 years of experience in AI/ML systems 
+• Leadership in AI product or platform delivery

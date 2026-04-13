@@ -1,0 +1,19 @@
+61. Security Technical Lead 
+Role Overview 
+The Security Technical Lead defines and drives the organization’s technical security strategy, 
+ensuring systems, applications, and infrastructure are protected against threats. 
+Key Responsibilities 
+• Lead security architecture and technical security initiatives 
+• Define security standards, policies, and best practices 
+• Identify and mitigate security risks across platforms 
+• Guide teams on secure design and threat modeling 
+• Review security controls and incident response plans 
+• Mentor security engineers and analysts 
+Required Skills & Technologies 
+• Cybersecurity architecture and frameworks 
+• Network, application, and cloud security 
+• Threat modeling and risk assessment 
+• Security monitoring and incident response 
+Experience & Qualifications 
+• 8–15 years of cybersecurity experience 
+• Leadership in enterprise security programs

@@ -1,0 +1,60 @@
+{
+  "job_title": "Head of Technology",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Head of Technology defines the organization\u2019s overall technology strategy, ensuring platforms, teams, and investments support business growth.",
+  "responsibilities": [
+    "Define and own technology vision and roadmap",
+    "Oversee architecture, platforms, and engineering practices",
+    "Align technology initiatives with business goals",
+    "Drive innovation, security, and scalability",
+    "Build and mentor senior technical leadership",
+    "Manage technology risks and governance"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Technology strategy and leadership",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Enterprise architecture knowledge",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Budgeting and resource planning",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Executive stakeholder communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Risk, security, and compliance management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 15,
+      "preferred_years": 22,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "94"
+  }
+}

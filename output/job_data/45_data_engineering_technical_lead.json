@@ -1,0 +1,55 @@
+{
+  "job_title": "Data Engineering Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Data Engineering Technical Lead is responsible for designing, building, and scaling reliable data pipelines and platforms that power analytics, AI, and business intelligence.",
+  "responsibilities": [
+    "Architect and lead end-to-end data pipelines (batch & streaming)",
+    "Design scalable data lakes and data warehouses",
+    "Ensure data quality, governance, and security standards",
+    "Mentor data engineers and review pipeline designs",
+    "Collaborate with analytics, AI, and business teams",
+    "Optimize data performance, cost, and reliability"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "SQL, Python, Spark",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Data warehousing (BigQuery, Snowflake, Redshift)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Streaming platforms (Kafka, Kinesis)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud data services and orchestration tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "45"
+  }
+}

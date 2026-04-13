@@ -1,0 +1,59 @@
+{
+  "job_title": "HealthTech Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The HealthTech Technical Lead is responsible for building compliant, secure, and scalable healthcare platforms such as EHR, telemedicine, and health analytics systems.",
+  "responsibilities": [
+    "Lead architecture of healthcare applications",
+    "Ensure compliance with healthcare regulations",
+    "Integrate medical devices and health data platforms",
+    "Oversee data security, privacy, and interoperability",
+    "Collaborate with clinicians, product, and compliance teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Healthcare systems (EHR, EMR, HIS)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "HL7, FHIR standards",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Java / Python / .NET",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud security and encryption",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "HIPAA, GDPR compliance",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "76"
+  }
+}

@@ -1,0 +1,18 @@
+65. IAM Technical Lead 
+Role Overview 
+The IAM Technical Lead designs and manages identity and access management solutions to 
+ensure secure and compliant access across systems. 
+Key Responsibilities 
+• Architect IAM solutions and access models 
+• Implement authentication, authorization, and SSO 
+• Manage user lifecycle and privileged access 
+• Ensure compliance with access policies 
+• Integrate IAM across cloud and enterprise systems 
+Required Skills & Technologies 
+• IAM platforms and protocols (OAuth, OIDC, SAML) 
+• Privileged access management (PAM) 
+• Directory services and identity federation 
+• Zero Trust security models 
+Experience & Qualifications 
+• 7–14 years of IAM experience 
+• Leadership in enterprise IAM implementations

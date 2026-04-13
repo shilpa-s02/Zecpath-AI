@@ -1,0 +1,80 @@
+{
+  "personal_info": {
+    "full_name": "Asna Resume Org"
+  },
+  "summary": "Electronics and Communication Engineering graduate with strong hands-on",
+  "experience": [],
+  "skills": [
+    {
+      "name": "Programming: Python"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SQL\nData Science: Pandas"
+    },
+    {
+      "name": "NumPy"
+    },
+    {
+      "name": "Matplotlib"
+    },
+    {
+      "name": "Seaborn"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "NLP"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "OpenCV\nWeb: Django"
+    },
+    {
+      "name": "Django ORM\nVisualization: Power BI"
+    },
+    {
+      "name": "Tableau"
+    },
+    {
+      "name": "Excel\nTools: GitHub"
+    },
+    {
+      "name": "Microsoft Word"
+    },
+    {
+      "name": "PowerPoint\nfrom job descriptions using basic NLP techniques.\nClassified jobs by domain and clustered regions using machine learning.\nVisualized job trends and skill demand using charts and dashboards.\n3. Multi-Shop E-Commerce Web Application\nDeveloped a Django-based multi-vendor e-commerce platform with user authentication and role-based\naccess.\nImplemented product listing"
+    },
+    {
+      "name": "category management"
+    },
+    {
+      "name": "shopping cart"
+    },
+    {
+      "name": "and order workflows using Django\nORM.\nDesigned backend logic and database models with relational database support for buyers and sellers.\nBuilt core e-commerce functionalities aligned with real-world online shopping systems"
+    }
+  ],
+  "education": [],
+  "projects": [],
+  "raw_sections": {
+    "personal_info": "--- Page 1 ---\nASNA MOL R\nasnaraseena02@gmail.com | 9207510369| Thiruvananthapuram, Kerala |\nlinkedin.com/in/asna-ami-861065280/ | github.com/Asnaami\nPROFESSIONAL",
+    "summary": "Electronics and Communication Engineering graduate with strong hands-on",
+    "experience": "in Python, data science,\nand Django-based web development. Skilled in data analysis, machine learning, and building end-to-end\napplications that combine backend logic, data processing, and visualization. Actively seeking entry-level roles in\nData Science, Python Development, or Software Engineering.\nPython with IoT Intern, KELTRON\nWorked on Python-based IoT applications involving sensors and real-time data processing.\nLEADERSHIP\nUniversity Union Council 2022-2024",
+    "education": "Bachelor of Technology - Electronics and Communication Engineering 2020 - 2024\nA. P. J. Abdul Kalam Technological University , Thiruvananthapuram",
+    "skills": "Programming: Python, JavaScript, SQL\nData Science: Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Deep Learning, NLP,\nComputer Vision, OpenCV\nWeb: Django, Django ORM\nVisualization: Power BI, Tableau, Excel\nTools: GitHub, Microsoft Word, PowerPoint\nfrom job descriptions using basic NLP techniques.\nClassified jobs by domain and clustered regions using machine learning.\nVisualized job trends and skill demand using charts and dashboards.\n3. Multi-Shop E-Commerce Web Application\nDeveloped a Django-based multi-vendor e-commerce platform with user authentication and role-based\naccess.\nImplemented product listing, category management, shopping cart, and order workflows using Django\nORM.\nDesigned backend logic and database models with relational database support for buyers and sellers.\nBuilt core e-commerce functionalities aligned with real-world online shopping systems",
+    "projects": "Development Of Intelligent Wheelchair for Disabled Persons with Body Movement 1.\nControl\nDesigned and developed a smart wheelchair system using an ESP32 microcontroller and wearable\ngesture sensors for hands-free navigation.\nImplemented gesture-based movement control (forward, backward, left, right) using accelerometer\nthreshold values.\nIntegrated ultrasonic sensors for obstacle detection and safety alerts using buzzer and LED indicators.\nEnabled real-time hardwaresoftware interaction to improve mobility assistance and user independence\n--- Page 2 ---\n2. Micro-Region Job Market Radar for Freshers\nAnalyzed job postings to identify district-level job demand and fresher hiring trends.\nCleaned and processed job market data using Python, Pandas, and NumPy.\nExtracted",
+    "certifications": "Python with IoT (Intern) | KELTRON 2023\nData Science and Artificial Intelligence 2025"
+  },
+  "metadata": {
+    "source_file": "ASNA Resume org.pdf"
+  }
+}

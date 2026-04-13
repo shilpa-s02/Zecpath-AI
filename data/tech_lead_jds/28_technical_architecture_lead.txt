@@ -1,0 +1,19 @@
+28. Technical Architecture Lead 
+Role Overview 
+The Technical Architecture Lead owns the overall technical architecture of products and 
+platforms, ensuring scalability, security, performance, and alignment with business strategy. 
+Key Responsibilities 
+• Define end-to-end system architecture and technical standards 
+• Evaluate and select technologies, frameworks, and platforms 
+• Guide development teams on architectural patterns and best practices 
+• Ensure non-functional requirements (scalability, availability, security) 
+• Review and approve high-level design documents 
+• Manage technical debt and long-term architecture roadmap 
+Required Skills & Technologies 
+• System architecture and design patterns 
+• Distributed systems and cloud architecture 
+• Microservices, APIs, and messaging systems 
+• Security, performance, and scalability principles 
+Experience & Qualifications 
+• 10–15 years of software engineering experience 
+• 3+ years in architecture or technical leadership roles

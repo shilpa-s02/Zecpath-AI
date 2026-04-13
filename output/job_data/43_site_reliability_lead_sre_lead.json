@@ -1,0 +1,54 @@
+{
+  "job_title": "Site Reliability Lead (SRE Lead)",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The SRE Lead ensures system reliability, availability, and performance using engineering principles and automation.",
+  "responsibilities": [
+    "Define SRE strategy, SLIs, SLOs, and error budgets",
+    "Lead incident management and root cause analysis",
+    "Automate operations and reliability practices",
+    "Improve observability and system resilience",
+    "Collaborate with development and platform teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Reliability engineering and automation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Monitoring, logging, and alerting tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Kubernetes and cloud platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Incident response and postmortems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "43"
+  }
+}

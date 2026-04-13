@@ -1,0 +1,56 @@
+{
+  "job_title": "Analytics Platform Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Analytics Platform Lead owns analytics infrastructure that enables BI, reporting, and self-service analytics across the organization.",
+  "responsibilities": [
+    "Design and manage analytics platforms and tools",
+    "Enable self-service dashboards and reporting",
+    "Ensure data governance, security, and access control",
+    "Optimize performance and scalability",
+    "Collaborate with business and analytics teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "BI tools (Power BI, Tableau, Looker)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Data modeling and semantic layers",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SQL and data warehousing",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Analytics governance frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 13,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "51"
+  }
+}

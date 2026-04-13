@@ -1,0 +1,18 @@
+25. iOS Technical Lead 
+Role Overview 
+The iOS Technical Lead is responsible for leading development of high-quality iOS 
+applications using Apple’s ecosystem and best practices. 
+Key Responsibilities 
+• Architect iOS applications using Swift 
+• Guide teams on UIKit / SwiftUI 
+• Ensure app performance, security, and stability 
+• Lead App Store submission and release processes 
+• Mentor iOS engineers 
+Required Skills & Technologies 
+• Swift, Objective-C (optional) 
+• iOS SDK, SwiftUI 
+• REST APIs, mobile security 
+• CI/CD for iOS 
+Experience & Qualifications 
+• 6–11 years of iOS development experience 
+• Leadership in consumer or enterprise iOS apps

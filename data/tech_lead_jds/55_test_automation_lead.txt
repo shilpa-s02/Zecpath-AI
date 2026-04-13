@@ -1,0 +1,18 @@
+55. Test Automation Lead 
+Role Overview 
+The Test Automation Lead drives automation strategy, framework development, and test 
+coverage to enable fast and reliable software delivery. 
+Key Responsibilities 
+• Design and maintain test automation frameworks 
+• Define automation standards and best practices 
+• Integrate automated tests into CI/CD pipelines 
+• Analyze automation ROI and test coverage 
+• Guide teams on automation tools and patterns 
+Required Skills & Technologies 
+• Selenium, Playwright, Cypress 
+• API and backend automation 
+• CI/CD tools and pipelines 
+• Programming/scripting languages 
+Experience & Qualifications 
+• 7–11 years of testing experience 
+• Strong background in test automation

@@ -1,0 +1,54 @@
+{
+  "job_title": "Application Architecture Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Application Architecture Lead defines the structure, patterns, and standards for application-level architecture, ensuring maintainable and scalable applications.",
+  "responsibilities": [
+    "Design application architecture and module structure",
+    "Define coding standards and application frameworks",
+    "Guide teams on application scalability and security",
+    "Review application design and implementation",
+    "Ensure alignment with enterprise architecture principles"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Application design patterns (MVC, Clean Architecture)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Backend and frontend architecture expertise",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Security, performance, and maintainability best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Application lifecycle management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "31"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "job_title": "Quality Engineering Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Quality Engineering Lead embeds quality into the entire SDLC, focusing on automation, reliability, and engineering excellence.",
+  "responsibilities": [
+    "Define quality engineering vision and standards",
+    "Promote shift-left and continuous testing practices",
+    "Drive automation-first quality strategies",
+    "Collaborate with development and platform teams",
+    "Measure and improve quality KPIs"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Quality engineering and automation frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD pipelines and DevOps practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile and continuous delivery",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Metrics-driven quality improvement",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "60"
+  }
+}

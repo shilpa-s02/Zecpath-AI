@@ -1,0 +1,54 @@
+{
+  "job_title": "Cloud Security Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Cloud Security Lead is responsible for securing cloud environments and enforcing security governance across cloud platforms.",
+  "responsibilities": [
+    "Design cloud security architectures and controls",
+    "Implement IAM, network security, and encryption",
+    "Monitor cloud security posture and compliance",
+    "Lead incident response for cloud environments",
+    "Collaborate with cloud, DevOps, and platform teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "AWS/Azure/GCP security services",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud IAM, network security, encryption",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CSPM and cloud security tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Compliance and governance frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "63"
+  }
+}

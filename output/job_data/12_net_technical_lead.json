@@ -1,0 +1,56 @@
+{
+  "job_title": ".NET Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The .NET Technical Lead is responsible for leading development of Microsoft-based enterprise applications and cloud-native solutions.",
+  "responsibilities": [
+    "Architect and lead .NET applications using modern frameworks",
+    "Guide teams on .NET Core, ASP.NET, and microservices",
+    "Ensure secure and scalable application design",
+    "Collaborate with Azure, DevOps, and QA teams",
+    "Conduct code reviews and mentor engineers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "C#, .NET Core, ASP.NET MVC/Web API",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Azure services, Entity Framework",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SQL Server and database optimization",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD pipelines and DevOps practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "12"
+  }
+}

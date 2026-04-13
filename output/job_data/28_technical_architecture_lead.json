@@ -1,0 +1,55 @@
+{
+  "job_title": "Technical Architecture Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Technical Architecture Lead owns the overall technical architecture of products and platforms, ensuring scalability, security, performance, and alignment with business strategy.",
+  "responsibilities": [
+    "Define end-to-end system architecture and technical standards",
+    "Evaluate and select technologies, frameworks, and platforms",
+    "Guide development teams on architectural patterns and best practices",
+    "Ensure non-functional requirements (scalability, availability, security)",
+    "Review and approve high-level design documents",
+    "Manage technical debt and long-term architecture roadmap"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "System architecture and design patterns",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Distributed systems and cloud architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Microservices, APIs, and messaging systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security, performance, and scalability principles",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 15,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "28"
+  }
+}

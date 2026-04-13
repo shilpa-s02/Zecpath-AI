@@ -1,0 +1,49 @@
+{
+  "job_title": "Engineering Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Engineering Technical Lead provides technical leadership across engineering teams, focusing on scalable architecture, innovation, and engineering excellence.",
+  "responsibilities": [
+    "Define and enforce engineering best practices",
+    "Guide teams on system scalability and performance",
+    "Review and approve technical designs and architecture",
+    "Support engineering managers in delivery planning",
+    "Resolve high-impact technical risks"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Strong engineering fundamentals and architecture expertise",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Experience with distributed systems and microservices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud infrastructure and observability knowledge",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "3"
+  }
+}

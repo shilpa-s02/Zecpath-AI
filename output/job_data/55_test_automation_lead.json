@@ -1,0 +1,54 @@
+{
+  "job_title": "Test Automation Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Test Automation Lead drives automation strategy, framework development, and test coverage to enable fast and reliable software delivery.",
+  "responsibilities": [
+    "Design and maintain test automation frameworks",
+    "Define automation standards and best practices",
+    "Integrate automated tests into CI/CD pipelines",
+    "Analyze automation ROI and test coverage",
+    "Guide teams on automation tools and patterns"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Selenium, Playwright, Cypress",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "API and backend automation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD tools and pipelines",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Programming/scripting languages",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 11,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "55"
+  }
+}

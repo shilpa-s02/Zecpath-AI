@@ -1,0 +1,60 @@
+{
+  "job_title": "AI Platform Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The AI Platform Technical Lead builds and governs scalable platforms that enable data science and engineering teams to develop, deploy, and operate AI solutions efficiently.",
+  "responsibilities": [
+    "Design AI/ML platform architecture",
+    "Enable model training, deployment, and monitoring",
+    "Standardize MLOps and GenAI workflows",
+    "Ensure scalability, reliability, and cost efficiency",
+    "Collaborate with data science and product teams",
+    "Define AI platform standards and best practices"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "ML platforms and pipelines",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "MLOps and model lifecycle management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud AI services",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Kubernetes and workflow orchestration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Platform engineering",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "102"
+  }
+}

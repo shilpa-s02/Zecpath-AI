@@ -1,0 +1,18 @@
+15. Golang Technical Lead 
+Role Overview 
+The Golang Technical Lead designs and leads high-performance, concurrent, and cloud
+native systems using Go. 
+Key Responsibilities 
+• Architect backend services using Go 
+• Design microservices and distributed systems 
+• Ensure high concurrency, reliability, and performance 
+• Lead code reviews and enforce Go best practices 
+• Collaborate with DevOps and SRE teams 
+Required Skills & Technologies 
+• Golang, goroutines, concurrency patterns 
+• gRPC, REST APIs 
+• Kubernetes, Docker 
+• Distributed systems and observability tools 
+Experience & Qualifications 
+• 6–10 years of backend engineering experience 
+• Strong hands-on experience with Golang in production

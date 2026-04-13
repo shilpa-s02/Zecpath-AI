@@ -1,0 +1,44 @@
+{
+  "job_title": "Marketing Lead",
+  "company": "GrowthFlow",
+  "location": "Boston, MA",
+  "job_type": "Full-time",
+  "description": "GrowthFlow is looking for a strategic Marketing Lead to drive our customer acquisition and brand awareness efforts. You will be responsible for developing and executing various marketing campaigns.",
+  "responsibilities": [
+    "Develop and manage marketing strategy for digital channels.",
+    "Collaborate with content, design, and product teams to create compelling messaging.",
+    "Track and analyze marketing metrics to optimize campaign performance.",
+    "Manage budget and vendor relationships."
+  ],
+  "requirements": {
+    "skills": [
+      { "name": "Content Marketing", "is_mandatory": true, "proficiency_level": "Expert", "min_years": 4 },
+      { "name": "Digital Advertising", "is_mandatory": true, "proficiency_level": "Expert", "min_years": 3 },
+      { "name": "SEO/SEM", "is_mandatory": true, "proficiency_level": "Intermediate", "min_years": 2 },
+      { "name": "Social Media Management", "is_mandatory": false, "proficiency_level": "Expert", "min_years": 3 },
+      { "name": "Project Management", "is_mandatory": false, "proficiency_level": "Intermediate", "min_years": 2 }
+    ],
+    "experience": {
+      "min_years": 5,
+      "preferred_years": 8,
+      "relevant_industries": ["Marketing", "E-commerce", "SaaS"]
+    },
+    "education": {
+      "degree_level": "Bachelor's Degree",
+      "field_of_study": "Marketing or related field",
+      "is_required": true
+    },
+    "certifications": ["Google Ads Certification", "HubSpot Content Marketing Certification"]
+  },
+  "benefits": [
+    "Competitive salary and performance-based bonus",
+    "Health and dental benefits",
+    "Paid time off and flexible scheduling",
+    "Office snacks and monthly team events"
+  ],
+  "meta": {
+    "posting_date": "2026-03-25T10:00:00Z",
+    "source": "GrowthFlow Careers",
+    "internal_id": "GF-MARK-2026-002"
+  }
+}

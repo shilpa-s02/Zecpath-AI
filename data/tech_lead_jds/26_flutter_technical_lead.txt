@@ -1,0 +1,18 @@
+26. Flutter Technical Lead 
+Role Overview 
+The Flutter Technical Lead leads cross-platform mobile development using Flutter, ensuring 
+high performance and reusable codebases. 
+Key Responsibilities 
+• Architect Flutter applications for Android and iOS 
+• Guide teams on Dart and Flutter widgets 
+• Ensure performance and native integrations 
+• Manage app testing and deployment 
+• Mentor cross-platform developers 
+Required Skills & Technologies 
+• Flutter, Dart 
+• State management (Provider, Bloc, Riverpod) 
+• REST APIs, platform channels 
+• CI/CD and app publishing 
+Experience & Qualifications 
+• 6–10 years of mobile development experience 
+• Strong Flutter production experience

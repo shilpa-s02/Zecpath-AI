@@ -1,0 +1,18 @@
+52. Computer Vision Lead 
+Role Overview 
+The Computer Vision Lead leads development of vision-based AI systems for image and 
+video analysis. 
+Key Responsibilities 
+• Design and deploy computer vision models 
+• Lead image/video processing pipelines 
+• Optimize models for accuracy and performance 
+• Manage datasets, labeling, and evaluation 
+• Collaborate with product and hardware teams 
+Required Skills & Technologies 
+• OpenCV, CNNs, vision transformers 
+• TensorFlow, PyTorch 
+• Image/video processing techniques 
+• GPU acceleration and optimization 
+Experience & Qualifications 
+• 7–13 years of CV experience 
+• Leadership in production vision systems

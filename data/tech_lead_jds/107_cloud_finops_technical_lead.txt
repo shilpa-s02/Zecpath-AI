@@ -1,0 +1,20 @@
+107. Cloud FinOps Technical Lead 
+Role Overview 
+The Cloud FinOps Technical Lead optimizes cloud cost, performance, and value through 
+engineering-driven financial accountability. 
+Key Responsibilities 
+• Lead cloud cost optimization initiatives 
+• Design cost-efficient architectures 
+• Implement FinOps tooling and metrics 
+• Collaborate with finance, engineering, and product teams 
+• Monitor usage, budgets, and forecasts 
+• Drive a culture of cost ownership 
+Required Skills 
+• Cloud cost management and FinOps practices 
+• Cloud architecture and optimization 
+• Monitoring and cost analytics tools 
+• Financial modeling basics 
+• Stakeholder communication 
+Experience 
+• 8–14 years in cloud engineering 
+• 3+ years in FinOps or cost optimization roles

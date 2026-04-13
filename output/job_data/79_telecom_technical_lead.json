@@ -1,0 +1,59 @@
+{
+  "job_title": "Telecom Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Telecom Technical Lead oversees development of telecom platforms supporting billing, OSS/BSS, network management, and customer services.",
+  "responsibilities": [
+    "Design telecom system architectures",
+    "Lead development of OSS/BSS platforms",
+    "Integrate network APIs and legacy systems",
+    "Ensure high availability and fault tolerance",
+    "Collaborate with network and operations teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Telecom OSS/BSS systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Java / C++ / Python",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Distributed systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Messaging & event streaming",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Telecom protocols & APIs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "79"
+  }
+}

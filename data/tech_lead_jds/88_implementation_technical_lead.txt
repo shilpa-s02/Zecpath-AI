@@ -1,0 +1,21 @@
+88. Implementation Technical Lead 
+Role Overview 
+The Implementation Technical Lead manages technical implementation, deployment, and 
+integration of enterprise solutions into customer environments. 
+Key Responsibilities 
+• Lead solution implementation and rollout 
+• Manage environment setup and configuration 
+• Oversee data migration and system integration 
+• Ensure smooth go-live and post-deployment support 
+• Coordinate with customer IT and operations teams 
+• Document implementation processes and best practices 
+Required Skills 
+• Deployment and integration experience 
+• Cloud and on-prem environments 
+• CI/CD and release management 
+• Troubleshooting and root-cause analysis 
+• Customer collaboration 
+Experience 
+• 6–10 years in implementation or delivery roles 
+• 3+ years in technical leadership 
+Senior, Principal & Head-Level Technical Leads

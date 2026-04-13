@@ -1,0 +1,17 @@
+6. Lead Application Engineer 
+Role Overview 
+The Lead Application Engineer focuses on designing, building, and maintaining enterprise
+grade applications while guiding application development teams. 
+Key Responsibilities 
+• Lead application architecture and design decisions 
+• Ensure application scalability, security, and performance 
+• Manage application lifecycle from development to production 
+• Guide developers on application frameworks and best practices 
+• Coordinate with infrastructure and DevOps teams 
+Required Skills & Technologies 
+• Strong experience in application frameworks and APIs 
+• Database design and performance tuning 
+• Cloud deployment and monitoring tools 
+Experience & Qualifications 
+• 7–12 years of application development experience 
+• Experience leading enterprise or SaaS applications

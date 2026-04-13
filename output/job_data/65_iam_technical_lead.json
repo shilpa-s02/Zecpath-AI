@@ -1,0 +1,56 @@
+{
+  "job_title": "IAM Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The IAM Technical Lead designs and manages identity and access management solutions to ensure secure and compliant access across systems.",
+  "responsibilities": [
+    "Architect IAM solutions and access models",
+    "Implement authentication, authorization, and SSO",
+    "Manage user lifecycle and privileged access",
+    "Ensure compliance with access policies",
+    "Integrate IAM across cloud and enterprise systems"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "IAM platforms and protocols (OAuth, OIDC, SAML)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Privileged access management (PAM)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Directory services and identity federation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Zero Trust security models",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 14,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "65"
+  }
+}

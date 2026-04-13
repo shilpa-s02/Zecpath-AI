@@ -1,0 +1,54 @@
+{
+  "job_title": "Microservices Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Microservices Lead owns the design, implementation, and governance of microservices based architectures across the organization.",
+  "responsibilities": [
+    "Define microservices architecture and service boundaries",
+    "Guide teams on service communication and data ownership",
+    "Implement resilience, observability, and fault tolerance",
+    "Ensure secure and scalable microservices deployment",
+    "Manage service versioning and lifecycle"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Microservices architecture patterns",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Kubernetes, Docker, and cloud platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Service meshes and observability tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Distributed tracing and monitoring",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "34"
+  }
+}

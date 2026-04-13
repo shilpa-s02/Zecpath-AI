@@ -1,0 +1,54 @@
+{
+  "job_title": "Node.js Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Node.js Technical Lead leads high-performance backend services and APIs using JavaScript/TypeScript, focusing on scalability and real-time systems.",
+  "responsibilities": [
+    "Design and build scalable Node.js backend services",
+    "Lead development using Express, NestJS, or similar frameworks",
+    "Implement REST and GraphQL APIs",
+    "Ensure performance, security, and reliability",
+    "Mentor team members and review code"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Node.js, JavaScript/TypeScript",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Express.js, NestJS",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "MongoDB, PostgreSQL, Redis",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Microservices, Docker, Kubernetes",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "13"
+  }
+}

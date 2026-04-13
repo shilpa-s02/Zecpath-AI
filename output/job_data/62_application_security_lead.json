@@ -1,0 +1,55 @@
+{
+  "job_title": "Application Security Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Application Security Lead ensures applications are designed, developed, and deployed securely throughout the SDLC.",
+  "responsibilities": [
+    "Define application security strategy and standards",
+    "Implement secure coding practices and reviews",
+    "Lead SAST, DAST, and IAST initiatives",
+    "Conduct threat modeling and risk assessments",
+    "Collaborate with development and QA teams",
+    "Track remediation of security vulnerabilities"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Application security tools and techniques",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "OWASP Top 10 and secure coding standards",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "DevSecOps and CI/CD security integration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "API and microservices security",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "62"
+  }
+}

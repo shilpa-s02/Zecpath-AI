@@ -1,0 +1,19 @@
+16. Ruby on Rails Technical Lead 
+Role Overview 
+The Ruby on Rails Technical Lead leads rapid application development while maintaining 
+clean architecture, performance, and scalability. 
+Key Responsibilities 
+• Lead Rails application design and development 
+• Ensure MVC best practices and clean code 
+• Optimize performance and database queries 
+• Mentor developers and conduct code reviews 
+• Collaborate with product and UX teams 
+Required Skills & Technologies 
+• Ruby, Ruby on Rails 
+• ActiveRecord, REST APIs 
+• PostgreSQL/MySQL 
+• CI/CD and cloud deployment 
+Experience & Qualifications 
+• 6–10 years of Ruby on Rails experience 
+• Experience leading SaaS or product teams 
+Frontend Technology-Specific Technical Leads

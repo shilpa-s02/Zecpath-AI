@@ -1,0 +1,18 @@
+20. React Technical Lead 
+Role Overview 
+The React Technical Lead leads development of scalable, high-performance React 
+applications while mentoring frontend teams. 
+Key Responsibilities 
+• Architect React applications and component structures 
+• Guide teams on hooks, state management, and performance 
+• Implement reusable components and design systems 
+• Ensure best practices in testing and deployment 
+• Collaborate with backend and UX teams 
+Required Skills & Technologies 
+• React, TypeScript 
+• Redux, Context API 
+• Jest, React Testing Library 
+• REST/GraphQL APIs 
+Experience & Qualifications 
+• 6–10 years of frontend experience 
+• Strong hands-on React leadership

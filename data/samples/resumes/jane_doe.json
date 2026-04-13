@@ -1,0 +1,68 @@
+{
+  "personal_info": {
+    "full_name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+1-555-010-9988",
+    "location": "San Francisco, CA",
+    "linkedin_url": "https://www.linkedin.com/in/janedoe",
+    "portfolio_url": "https://janedoe.dev"
+  },
+  "summary": "Innovative Senior Software Engineer with 8+ years of experience in building scalable web applications. Expert in Python, React, and cloud-native architectures.",
+  "skills": [
+    { "name": "Python", "category": "Technical", "proficiency": "Expert", "years_of_experience": 8 },
+    { "name": "React", "category": "Technical", "proficiency": "Expert", "years_of_experience": 6 },
+    { "name": "Docker", "category": "Tool", "proficiency": "Intermediate", "years_of_experience": 4 },
+    { "name": "AWS", "category": "Tool", "proficiency": "Intermediate", "years_of_experience": 5 },
+    { "name": "Agile Methodology", "category": "Soft", "proficiency": "Expert", "years_of_experience": 10 }
+  ],
+  "experience": [
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "TechCorp Solutions",
+      "location": "San Francisco, CA",
+      "start_date": "2019-03-01",
+      "end_date": "Present",
+      "is_current": true,
+      "description": "Leading the backend development team for a high-traffic e-commerce platform.",
+      "key_achievements": [
+        "Reduced API latency by 45% through database optimization.",
+        "Migrated legacy monolithic architecture to microservices.",
+        "Mentored 5 junior developers and improved team code review speed by 30%."
+      ]
+    },
+    {
+      "job_title": "Software Engineer",
+      "company": "Startup Hub",
+      "location": "Palo Alto, CA",
+      "start_date": "2015-06-01",
+      "end_date": "2019-02-28",
+      "is_current": false,
+      "description": "Developed features for a social media discovery tool.",
+      "key_achievements": [
+        "Implemented real-time notification system using WebSockets.",
+        "Integrated third-party APIs for social authentication."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Software Engineering",
+      "institution": "Stanford University",
+      "completion_date": "2015-05-20",
+      "gpa": "3.9/4.0"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuing_organization": "Amazon Web Services",
+      "issue_date": "2021-08-15"
+    }
+  ],
+  "metadata": {
+    "extraction_date": "2026-03-27T12:00:00Z",
+    "source_file": "jane_doe_resume.pdf",
+    "confidence_score": 0.98
+  }
+}

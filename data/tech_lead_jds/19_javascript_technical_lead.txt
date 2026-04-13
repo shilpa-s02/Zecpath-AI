@@ -1,0 +1,18 @@
+19. JavaScript Technical Lead 
+Role Overview 
+The JavaScript Technical Lead owns the JavaScript ecosystem across frontend applications, 
+ensuring maintainability, performance, and best practices. 
+Key Responsibilities 
+• Lead JavaScript architecture across projects 
+• Standardize coding practices and tooling 
+• Guide teams on asynchronous programming and state management 
+• Optimize frontend performance and scalability 
+• Review code and resolve complex JS issues 
+Required Skills & Technologies 
+• JavaScript (ES6+), TypeScript 
+• Frontend frameworks (React, Angular, Vue) 
+• State management (Redux, Vuex, NgRx) 
+• Build tools (Webpack, Vite) 
+Experience & Qualifications 
+• 6–10 years of JavaScript development experience 
+• Proven experience leading JS-heavy applications

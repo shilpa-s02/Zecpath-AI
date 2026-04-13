@@ -1,0 +1,54 @@
+{
+  "job_title": "Computer Vision Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Computer Vision Lead leads development of vision-based AI systems for image and video analysis.",
+  "responsibilities": [
+    "Design and deploy computer vision models",
+    "Lead image/video processing pipelines",
+    "Optimize models for accuracy and performance",
+    "Manage datasets, labeling, and evaluation",
+    "Collaborate with product and hardware teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "OpenCV, CNNs, vision transformers",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "TensorFlow, PyTorch",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Image/video processing techniques",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "GPU acceleration and optimization",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "52"
+  }
+}

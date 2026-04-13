@@ -1,0 +1,54 @@
+{
+  "job_title": "DevOps Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The DevOps Technical Lead drives automation, CI/CD, and DevOps culture to enable fast, reliable, and secure software delivery.",
+  "responsibilities": [
+    "Design and manage CI/CD pipelines",
+    "Automate infrastructure and application deployments",
+    "Lead DevOps best practices and tooling standards",
+    "Integrate security into pipelines (DevSecOps)",
+    "Improve release reliability and deployment frequency"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "CI/CD tools (Jenkins, GitHub Actions, GitLab)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Infrastructure as Code",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Containers and orchestration (Docker, Kubernetes)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Monitoring and logging platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "40"
+  }
+}

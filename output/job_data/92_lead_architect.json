@@ -1,0 +1,60 @@
+{
+  "job_title": "Lead Architect",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Lead Architect is responsible for defining and governing system architecture, ensuring scalability, security, and alignment with business goals.",
+  "responsibilities": [
+    "Design end-to-end system architectures",
+    "Define architectural standards and principles",
+    "Review and approve technical designs",
+    "Guide teams on architecture implementation",
+    "Evaluate new tools, platforms, and frameworks",
+    "Ensure systems meet performance and security standards"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Enterprise and solution architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud and hybrid architectures",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Integration patterns and data design",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security and compliance awareness",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Technical documentation and governance",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 12,
+      "preferred_years": 18,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "92"
+  }
+}

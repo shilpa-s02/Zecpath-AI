@@ -1,0 +1,56 @@
+{
+  "job_title": "Ruby on Rails Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Ruby on Rails Technical Lead leads rapid application development while maintaining clean architecture, performance, and scalability.",
+  "responsibilities": [
+    "Lead Rails application design and development",
+    "Ensure MVC best practices and clean code",
+    "Optimize performance and database queries",
+    "Mentor developers and conduct code reviews",
+    "Collaborate with product and UX teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Ruby, Ruby on Rails",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "ActiveRecord, REST APIs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "PostgreSQL/MySQL",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD and cloud deployment",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": [
+        "SaaS"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "16"
+  }
+}

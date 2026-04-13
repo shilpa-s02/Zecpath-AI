@@ -1,0 +1,20 @@
+84. Delivery Technical Lead 
+Role Overview 
+The Delivery Technical Lead ensures successful end-to-end technical delivery across 
+projects, balancing quality, timelines, and customer expectations. 
+Key Responsibilities 
+• Lead technical delivery across multiple teams or projects 
+• Align architecture and development with delivery commitments 
+• Monitor progress, quality metrics, and risks 
+• Coordinate with delivery managers and PMOs 
+• Drive continuous improvement in delivery processes 
+• Handle escalation of complex technical issues 
+Required Skills 
+• Multi-project delivery management 
+• Technical architecture understanding 
+• Process optimization 
+• Risk and dependency management 
+• Strong leadership and communication 
+Experience 
+• 8–14 years in engineering 
+• 4+ years in delivery or lead roles

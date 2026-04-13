@@ -1,0 +1,55 @@
+{
+  "job_title": "Solution Design Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Solution Design Lead translates business requirements into end-to-end technical solutions, ensuring feasibility, scalability, and alignment with enterprise architecture.",
+  "responsibilities": [
+    "Analyze business and functional requirements",
+    "Design complete technical solutions across systems",
+    "Create solution architecture diagrams and documentation",
+    "Coordinate with enterprise architects and delivery teams",
+    "Evaluate risks, trade-offs, and cost implications",
+    "Support pre-sales, RFPs, and client discussions"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Solution architecture and system integration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud platforms and enterprise systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "API-led connectivity and integration patterns",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong stakeholder communication skills",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 9,
+      "preferred_years": 15,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "30"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "job_title": "Autonomous Systems Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Autonomous Systems Technical Lead leads design and deployment of self-managing, self-healing, and decision-making systems powered by AI, automation, and real-time data.",
+  "responsibilities": [
+    "Architect autonomous and self-adaptive systems",
+    "Lead development of event-driven and feedback-loop architectures",
+    "Implement self-healing, auto-scaling, and autonomous decision engines",
+    "Integrate AI models with operational systems",
+    "Ensure safety, reliability, and observability of autonomous behavior",
+    "Collaborate with AI, SRE, and platform teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Distributed and autonomous systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "AI/ML integration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Event-driven architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Observability and control loops",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud-native platforms (Kubernetes, serverless)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 16,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "101"
+  }
+}

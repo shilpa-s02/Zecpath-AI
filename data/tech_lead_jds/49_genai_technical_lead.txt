@@ -1,0 +1,18 @@
+49. GenAI Technical Lead 
+Role Overview 
+The GenAI Technical Lead leads development of generative AI systems such as LLM-based 
+applications, copilots, and autonomous agents. 
+Key Responsibilities 
+• Design GenAI architectures using LLMs 
+• Implement prompt engineering and RAG pipelines 
+• Ensure security, privacy, and hallucination mitigation 
+• Lead GenAI deployment, monitoring, and optimization 
+• Collaborate with product, legal, and compliance teams 
+Required Skills & Technologies 
+• LLMs (OpenAI, open-source models) 
+• Prompt engineering and vector databases 
+• RAG, embeddings, model evaluation 
+• AI safety and responsible AI practices 
+Experience & Qualifications 
+• 7–12 years of experience 
+• Hands-on leadership in GenAI production systems

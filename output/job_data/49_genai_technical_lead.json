@@ -1,0 +1,54 @@
+{
+  "job_title": "GenAI Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The GenAI Technical Lead leads development of generative AI systems such as LLM-based applications, copilots, and autonomous agents.",
+  "responsibilities": [
+    "Design GenAI architectures using LLMs",
+    "Implement prompt engineering and RAG pipelines",
+    "Ensure security, privacy, and hallucination mitigation",
+    "Lead GenAI deployment, monitoring, and optimization",
+    "Collaborate with product, legal, and compliance teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "LLMs (OpenAI, open-source models)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Prompt engineering and vector databases",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "RAG, embeddings, model evaluation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "AI safety and responsible AI practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "49"
+  }
+}

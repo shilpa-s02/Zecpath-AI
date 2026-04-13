@@ -1,0 +1,57 @@
+{
+  "job_title": "Security Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Security Technical Lead defines and drives the organization\u2019s technical security strategy, ensuring systems, applications, and infrastructure are protected against threats.",
+  "responsibilities": [
+    "Lead security architecture and technical security initiatives",
+    "Define security standards, policies, and best practices",
+    "Identify and mitigate security risks across platforms",
+    "Guide teams on secure design and threat modeling",
+    "Review security controls and incident response plans",
+    "Mentor security engineers and analysts"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Cybersecurity architecture and frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Network, application, and cloud security",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Threat modeling and risk assessment",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security monitoring and incident response",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 15,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "61"
+  }
+}

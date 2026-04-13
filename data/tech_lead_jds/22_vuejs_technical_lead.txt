@@ -1,0 +1,19 @@
+22. Vue.js Technical Lead 
+Role Overview 
+The Vue.js Technical Lead leads lightweight, performant frontend applications using Vue.js 
+while ensuring clean and maintainable code. 
+Key Responsibilities 
+• Design and develop Vue.js application architecture 
+• Guide teams on Vue 3, Composition API 
+• Implement state management and reusable components 
+• Optimize performance and SEO 
+• Mentor frontend developers 
+Required Skills & Technologies 
+• Vue.js, JavaScript/TypeScript 
+• Vuex / Pinia 
+• REST APIs, frontend build tools 
+• Testing and CI/CD 
+Experience & Qualifications 
+• 6–10 years of frontend experience 
+• Hands-on Vue.js leadership 
+Mobile Technology-Specific Technical Leads

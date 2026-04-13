@@ -1,0 +1,20 @@
+83. Project Technical Lead 
+Role Overview 
+The Project Technical Lead is responsible for technical execution of a specific project, 
+ensuring architecture, delivery timelines, and quality align with project goals. 
+Key Responsibilities 
+• Own technical planning and execution for assigned projects 
+• Translate business requirements into technical solutions 
+• Coordinate tasks across multiple engineers 
+• Ensure adherence to project timelines and scope 
+• Identify technical risks and mitigation strategies 
+• Support project management activities 
+Required Skills 
+• System design and implementation 
+• Project-based delivery experience 
+• Risk management 
+• Agile / Waterfall methodologies 
+• Stakeholder coordination 
+Experience 
+• 7–12 years in engineering 
+• 3+ years leading project-based delivery

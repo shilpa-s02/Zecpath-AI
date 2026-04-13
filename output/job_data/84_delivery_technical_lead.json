@@ -1,0 +1,60 @@
+{
+  "job_title": "Delivery Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Delivery Technical Lead ensures successful end-to-end technical delivery across projects, balancing quality, timelines, and customer expectations.",
+  "responsibilities": [
+    "Lead technical delivery across multiple teams or projects",
+    "Align architecture and development with delivery commitments",
+    "Monitor progress, quality metrics, and risks",
+    "Coordinate with delivery managers and PMOs",
+    "Drive continuous improvement in delivery processes",
+    "Handle escalation of complex technical issues"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Multi-project delivery management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Technical architecture understanding",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Process optimization",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Risk and dependency management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong leadership and communication",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "84"
+  }
+}

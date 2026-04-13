@@ -1,0 +1,20 @@
+89. Senior Technical Lead 
+Role Overview 
+The Senior Technical Lead owns complex technical initiatives, mentors multiple teams, and 
+ensures architecture, quality, and delivery align with business objectives. 
+Key Responsibilities 
+• Lead design and development of complex systems 
+• Guide and mentor Technical Leads and Senior Engineers 
+• Review architecture decisions and critical code paths 
+• Drive engineering best practices and standards 
+• Collaborate with product, delivery, and architecture teams 
+• Resolve high-impact technical issues and escalations 
+Required Skills 
+• Advanced system design and architecture 
+• Deep expertise in one or more tech stacks 
+• Mentoring and leadership skills 
+• Agile delivery and DevOps practices 
+• Strong stakeholder communication 
+Experience 
+• 10–14 years in software engineering 
+• 4+ years in technical leadership roles

@@ -1,0 +1,18 @@
+43. Site Reliability Lead (SRE Lead) 
+Role Overview 
+The SRE Lead ensures system reliability, availability, and performance using engineering 
+principles and automation. 
+Key Responsibilities 
+• Define SRE strategy, SLIs, SLOs, and error budgets 
+• Lead incident management and root cause analysis 
+• Automate operations and reliability practices 
+• Improve observability and system resilience 
+• Collaborate with development and platform teams 
+Required Skills & Technologies 
+• Reliability engineering and automation 
+• Monitoring, logging, and alerting tools 
+• Kubernetes and cloud platforms 
+• Incident response and postmortems 
+Experience & Qualifications 
+• 8–14 years of experience 
+• Strong background in SRE or DevOps

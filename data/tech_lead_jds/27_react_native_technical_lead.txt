@@ -1,0 +1,18 @@
+27. React Native Technical Lead 
+Role Overview 
+The React Native Technical Lead leads development of cross-platform mobile apps using 
+React Native, balancing native performance with code reuse. 
+Key Responsibilities 
+• Architect React Native applications 
+• Guide teams on performance optimization and native modules 
+• Ensure secure, scalable mobile solutions 
+• Collaborate with frontend and backend teams 
+• Review code and mentor developers 
+Required Skills & Technologies 
+• React Native, JavaScript/TypeScript 
+• Native Android & iOS integration 
+• Redux, React Hooks 
+• CI/CD and mobile testing tools 
+Experience & Qualifications 
+• 6–10 years of mobile development experience 
+• Strong leadership in React Native projects

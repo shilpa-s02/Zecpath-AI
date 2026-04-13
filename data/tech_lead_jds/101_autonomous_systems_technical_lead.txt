@@ -1,0 +1,20 @@
+101. Autonomous Systems Technical Lead 
+Role Overview 
+The Autonomous Systems Technical Lead leads design and deployment of self-managing, 
+self-healing, and decision-making systems powered by AI, automation, and real-time data. 
+Key Responsibilities 
+• Architect autonomous and self-adaptive systems 
+• Lead development of event-driven and feedback-loop architectures 
+• Implement self-healing, auto-scaling, and autonomous decision engines 
+• Integrate AI models with operational systems 
+• Ensure safety, reliability, and observability of autonomous behavior 
+• Collaborate with AI, SRE, and platform teams 
+Required Skills 
+• Distributed and autonomous systems 
+• AI/ML integration 
+• Event-driven architecture 
+• Observability and control loops 
+• Cloud-native platforms (Kubernetes, serverless) 
+Experience 
+• 10–16 years in systems engineering 
+• 4+ years in AI-driven or autonomous platforms

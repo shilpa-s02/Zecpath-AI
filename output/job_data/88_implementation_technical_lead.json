@@ -1,0 +1,60 @@
+{
+  "job_title": "Implementation Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Implementation Technical Lead manages technical implementation, deployment, and integration of enterprise solutions into customer environments.",
+  "responsibilities": [
+    "Lead solution implementation and rollout",
+    "Manage environment setup and configuration",
+    "Oversee data migration and system integration",
+    "Ensure smooth go-live and post-deployment support",
+    "Coordinate with customer IT and operations teams",
+    "Document implementation processes and best practices"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Deployment and integration experience",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud and on-prem environments",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD and release management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Troubleshooting and root-cause analysis",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Customer collaboration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "88"
+  }
+}

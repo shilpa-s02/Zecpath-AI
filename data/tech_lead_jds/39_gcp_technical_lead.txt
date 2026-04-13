@@ -1,0 +1,18 @@
+39. GCP Technical Lead 
+Role Overview 
+The GCP Technical Lead designs and leads cloud solutions on Google Cloud Platform, 
+focusing on data-driven and cloud-native architectures. 
+Key Responsibilities 
+• Design architectures using GCP services 
+• Lead teams on GKE, Compute Engine, Cloud Run 
+• Implement security and IAM best practices 
+• Optimize performance and cloud costs 
+• Collaborate with data and ML teams 
+Required Skills & Technologies 
+• GCP services and networking 
+• Kubernetes and container platforms 
+• Terraform and CI/CD tools 
+• Cloud monitoring and logging 
+Experience & Qualifications 
+• 7–12 years of experience 
+• GCP certifications (preferred)

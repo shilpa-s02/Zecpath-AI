@@ -1,0 +1,19 @@
+54. QA Technical Lead 
+Role Overview 
+The QA Technical Lead oversees quality assurance strategy, test execution, and continuous 
+quality improvement across applications and platforms. 
+Key Responsibilities 
+• Define QA strategy, test plans, and quality standards 
+• Lead manual and automated testing efforts 
+• Coordinate QA activities across teams and releases 
+• Ensure defect tracking, reporting, and resolution 
+• Collaborate with development, product, and DevOps teams 
+• Mentor QA engineers and testers 
+Required Skills & Technologies 
+• Manual and automated testing methodologies 
+• Test management tools (JIRA, TestRail) 
+• SDLC and Agile/Scrum processes 
+• CI/CD quality integration 
+Experience & Qualifications 
+• 7–12 years of QA experience 
+• Prior experience in QA leadership roles

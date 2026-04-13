@@ -1,0 +1,20 @@
+74. CRM Technical Lead 
+Role Overview 
+The CRM Technical Lead leads the design and development of CRM systems that support 
+sales, marketing, and customer service operations. 
+Key Responsibilities 
+• Design CRM technical architecture 
+• Customize CRM workflows and automations 
+• Manage integrations with ERP, analytics, and marketing tools 
+• Ensure data integrity and security 
+• Mentor CRM developers and administrators 
+Required Skills 
+• CRM platforms (Salesforce, Dynamics, Zoho, HubSpot) 
+• API integrations 
+• Automation and workflow tools 
+• SQL and data modeling 
+• Security best practices 
+Experience 
+• 6–10 years in CRM development 
+• 3+ years in leadership roles 
+Domain-Specific Technical Leads

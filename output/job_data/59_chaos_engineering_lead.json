@@ -1,0 +1,54 @@
+{
+  "job_title": "Chaos Engineering Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Chaos Engineering Lead improves system resilience by proactively testing systems under failure conditions.",
+  "responsibilities": [
+    "Design and execute chaos experiments",
+    "Identify system weaknesses and failure points",
+    "Collaborate with SRE and DevOps teams",
+    "Improve system reliability and fault tolerance",
+    "Establish chaos engineering practices and tooling"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Chaos engineering tools (Chaos Monkey, Gremlin)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Distributed systems and cloud platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Observability and monitoring tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Incident management practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "59"
+  }
+}

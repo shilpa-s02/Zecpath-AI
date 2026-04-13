@@ -1,0 +1,17 @@
+4. Development Lead 
+Role Overview 
+The Development Lead manages daily development activities, ensures sprint commitments, 
+and provides hands-on technical guidance to developers. 
+Key Responsibilities 
+• Plan and execute development sprints and releases 
+• Assign tasks and monitor progress 
+• Review code and ensure adherence to standards 
+• Collaborate with product owners and QA teams 
+• Support issue resolution and production fixes 
+Required Skills & Technologies 
+• Strong coding skills and debugging expertise 
+• Agile/Scrum delivery experience 
+• Familiarity with CI/CD and version control systems 
+Experience & Qualifications 
+• 6–10 years of development experience 
+• Prior experience as a senior developer or module lead

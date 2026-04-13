@@ -1,0 +1,60 @@
+{
+  "job_title": "Digital Transformation Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Digital Transformation Technical Lead drives modernization initiatives, enabling organizations to adopt cloud, AI, automation, and agile delivery models.",
+  "responsibilities": [
+    "Lead modernization and transformation programs",
+    "Migrate legacy systems to modern architectures",
+    "Enable cloud-native and AI-driven solutions",
+    "Align technology with business transformation goals",
+    "Drive DevOps, automation, and agile adoption",
+    "Measure and report transformation outcomes"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Legacy modernization",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud and platform engineering",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Automation and AI adoption",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Enterprise architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Change and transformation leadership",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 18,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "104"
+  }
+}

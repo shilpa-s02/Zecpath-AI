@@ -1,0 +1,18 @@
+38. Azure Technical Lead 
+Role Overview 
+The Azure Technical Lead leads Microsoft Azure cloud initiatives, focusing on enterprise 
+workloads, hybrid cloud, and DevOps integration. 
+Key Responsibilities 
+• Architect solutions using Azure services 
+• Lead teams on Azure VMs, AKS, App Services 
+• Implement Azure security, governance, and policies 
+• Drive CI/CD using Azure DevOps 
+• Support hybrid and enterprise cloud deployments 
+Required Skills & Technologies 
+• Azure compute, networking, and identity services 
+• ARM/Bicep/Terraform 
+• Azure DevOps pipelines 
+• Monitoring and security tools 
+Experience & Qualifications 
+• 7–13 years of experience 
+• Azure certifications (preferred)

@@ -1,0 +1,18 @@
+18. UI Technical Lead 
+Role Overview 
+The UI Technical Lead focuses on building visually consistent, accessible, and scalable user 
+interfaces while leading UI engineering teams. 
+Key Responsibilities 
+• Define UI architecture, component libraries, and design systems 
+• Collaborate closely with UX designers and product managers 
+• Ensure pixel-perfect implementation of designs 
+• Enforce UI standards, accessibility (WCAG), and branding 
+• Conduct UI code reviews and mentoring 
+Required Skills & Technologies 
+• HTML, CSS, JavaScript 
+• Design systems, UI libraries, Storybook 
+• Accessibility standards (WCAG) 
+• CSS frameworks and preprocessors 
+Experience & Qualifications 
+• 6–9 years of UI engineering experience 
+• Strong collaboration with design teams

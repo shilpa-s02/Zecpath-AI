@@ -1,0 +1,54 @@
+{
+  "job_title": "Flutter Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Flutter Technical Lead leads cross-platform mobile development using Flutter, ensuring high performance and reusable codebases.",
+  "responsibilities": [
+    "Architect Flutter applications for Android and iOS",
+    "Guide teams on Dart and Flutter widgets",
+    "Ensure performance and native integrations",
+    "Manage app testing and deployment",
+    "Mentor cross-platform developers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Flutter, Dart",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "State management (Provider, Bloc, Riverpod)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "REST APIs, platform channels",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD and app publishing",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "26"
+  }
+}

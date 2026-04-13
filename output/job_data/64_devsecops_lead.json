@@ -1,0 +1,54 @@
+{
+  "job_title": "DevSecOps Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The DevSecOps Lead integrates security into CI/CD pipelines and development workflows, enabling secure and rapid software delivery.",
+  "responsibilities": [
+    "Embed security tools into CI/CD pipelines",
+    "Automate security testing and policy enforcement",
+    "Promote shift-left security practices",
+    "Collaborate with DevOps and development teams",
+    "Monitor and improve security posture continuously"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "CI/CD pipelines and automation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SAST, DAST, container and dependency scanning",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud-native security tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "DevSecOps practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "64"
+  }
+}

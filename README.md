@@ -4,7 +4,9 @@ A modular, scalable AI repository designed for efficient developer workflows and
 
 ## Project Structure
 
-- `data/`: Raw and processed candidate data, resumes, and interview transcripts.
+- `data/`: Core data layer containing:
+  - `schemas/`: JSON Schemas for Resume and JD data.
+  - `samples/`: Structured sample data for testing and AI training.
 - `parsers/`: Document processing logic (PDF, Docx, etc.) for extracting text from resumes.
 - `ats_engine/`: Core logic for the Applicant Tracking System, including candidate management.
 - `screening_ai/`: AI models and scripts for automated screening of resumes against job descriptions.
@@ -12,6 +14,17 @@ A modular, scalable AI repository designed for efficient developer workflows and
 - `scoring/`: Quantitative scoring algorithms and evaluation metrics for candidate ranking.
 - `utils/`: Common utilities including logging, configuration management, and API clients.
 - `tests/`: Automated unit and integration tests using `pytest`.
+- `docs/`: System design documents and technical specifications.
+
+## Data Architecture
+
+The system uses a standardized data model for AI-driven hiring intelligence.
+
+- **Candidate Profile**: Structured JSON representation of resumes.
+- **Job Profile**: Structured JSON representation of job descriptions.
+- **Schemas**: Validated using JSON Schema (v7) located in `data/schemas/`.
+
+For detailed entity relationships and design rationale, see [Data Entity Design](docs/data_entity_design.md).
 
 ## Getting Started
 

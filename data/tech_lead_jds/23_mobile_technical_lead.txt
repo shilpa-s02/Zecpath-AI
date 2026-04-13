@@ -1,0 +1,18 @@
+23. Mobile Technical Lead 
+Role Overview 
+The Mobile Technical Lead oversees end-to-end mobile application development across 
+platforms, ensuring performance, security, and scalability. 
+Key Responsibilities 
+• Lead mobile architecture and platform decisions 
+• Coordinate Android and iOS development teams 
+• Define mobile coding standards and best practices 
+• Optimize app performance and security 
+• Manage app releases and store deployments 
+Required Skills & Technologies 
+• Mobile app architecture 
+• Android & iOS ecosystems 
+• REST APIs, CI/CD for mobile 
+• App security and performance optimization 
+Experience & Qualifications 
+• 7–12 years of mobile development experience 
+• Experience leading cross-platform teams

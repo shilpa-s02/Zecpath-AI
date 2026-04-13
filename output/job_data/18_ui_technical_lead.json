@@ -1,0 +1,54 @@
+{
+  "job_title": "UI Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The UI Technical Lead focuses on building visually consistent, accessible, and scalable user interfaces while leading UI engineering teams.",
+  "responsibilities": [
+    "Define UI architecture, component libraries, and design systems",
+    "Collaborate closely with UX designers and product managers",
+    "Ensure pixel-perfect implementation of designs",
+    "Enforce UI standards, accessibility (WCAG), and branding",
+    "Conduct UI code reviews and mentoring"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "HTML, CSS, JavaScript",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Design systems, UI libraries, Storybook",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Accessibility standards (WCAG)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CSS frameworks and preprocessors",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 9,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "18"
+  }
+}

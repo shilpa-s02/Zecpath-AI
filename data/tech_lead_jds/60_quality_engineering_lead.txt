@@ -1,0 +1,18 @@
+60. Quality Engineering Lead 
+Role Overview 
+The Quality Engineering Lead embeds quality into the entire SDLC, focusing on automation, 
+reliability, and engineering excellence. 
+Key Responsibilities 
+• Define quality engineering vision and standards 
+• Promote shift-left and continuous testing practices 
+• Drive automation-first quality strategies 
+• Collaborate with development and platform teams 
+• Measure and improve quality KPIs 
+Required Skills & Technologies 
+• Quality engineering and automation frameworks 
+• CI/CD pipelines and DevOps practices 
+• Agile and continuous delivery 
+• Metrics-driven quality improvement 
+Experience & Qualifications 
+• 8–14 years of experience 
+• Leadership in quality transformation initiatives

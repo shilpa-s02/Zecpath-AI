@@ -1,0 +1,49 @@
+{
+  "job_title": "Lead Software Engineer",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Lead Software Engineer is a senior hands-on role combining advanced coding expertise with technical leadership responsibilities.",
+  "responsibilities": [
+    "Design and develop complex software components",
+    "Lead technical discussions and design reviews",
+    "Mentor junior and mid-level engineers",
+    "Ensure performance optimization and code quality",
+    "Collaborate closely with architects and product teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Advanced programming and software design skills",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong knowledge of data structures and algorithms",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Experience with scalable application development",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 11,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "5"
+  }
+}

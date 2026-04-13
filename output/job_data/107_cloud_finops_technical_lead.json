@@ -1,0 +1,60 @@
+{
+  "job_title": "Cloud FinOps Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Cloud FinOps Technical Lead optimizes cloud cost, performance, and value through engineering-driven financial accountability.",
+  "responsibilities": [
+    "Lead cloud cost optimization initiatives",
+    "Design cost-efficient architectures",
+    "Implement FinOps tooling and metrics",
+    "Collaborate with finance, engineering, and product teams",
+    "Monitor usage, budgets, and forecasts",
+    "Drive a culture of cost ownership"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Cloud cost management and FinOps practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud architecture and optimization",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Monitoring and cost analytics tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Financial modeling basics",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Stakeholder communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "107"
+  }
+}

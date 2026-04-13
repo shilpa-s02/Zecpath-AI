@@ -1,0 +1,20 @@
+17. Frontend Technical Lead 
+Role Overview 
+The Frontend Technical Lead is responsible for leading the design, development, and 
+performance of user-facing web applications, ensuring exceptional user experience and 
+scalable frontend architecture. 
+Key Responsibilities 
+• Lead frontend architecture and UI strategy 
+• Guide teams on modern frontend frameworks and best practices 
+• Ensure cross-browser compatibility and responsive design 
+• Review code and enforce UI performance standards 
+• Collaborate with backend, UX, and product teams 
+• Optimize applications for speed and accessibility 
+Required Skills & Technologies 
+• HTML5, CSS3, JavaScript (ES6+) 
+• React / Angular / Vue 
+• Responsive design, web performance optimization 
+• REST APIs, CI/CD pipelines 
+Experience & Qualifications 
+• 6–10 years of frontend development experience 
+• 2+ years in a leadership or senior role

@@ -1,0 +1,67 @@
+{
+  "personal_info": {
+    "full_name": "Shilpa S Nair Org"
+  },
+  "summary": "Postgraduate Computer Science student with a BSc in Physics and Computer Applications and a Diploma in\nData Science and AI. Eager to learn, adapt, and apply data science and machine learning concepts in a practical\nenvironment through an internship or entry-level role.",
+  "experience": [],
+  "skills": [
+    {
+      "name": "Programming: Python"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SQL\nData Science: Pandas"
+    },
+    {
+      "name": "NumPy"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "NLP"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "OpenCV Web:\nDjango\nVisualization: Power BI"
+    },
+    {
+      "name": "Tableau"
+    },
+    {
+      "name": "Excel"
+    },
+    {
+      "name": "Matplotlib"
+    },
+    {
+      "name": "Seaborn Tools:\nGitHub"
+    },
+    {
+      "name": "MS Office"
+    },
+    {
+      "name": "Visual Studio"
+    }
+  ],
+  "education": [],
+  "projects": [],
+  "raw_sections": {
+    "personal_info": "--- Page 1 ---\nSHILPA S NAIR\n+91 9061070735 | shilpasankaran30@gmail.com | Thiruvananthapuram , Kerala\nlinkedin.com/in/shilpa-s-nair-07 | https://github.com/shilpa-s02\nPROFESSIONAL",
+    "summary": "Postgraduate Computer Science student with a BSc in Physics and Computer Applications and a Diploma in\nData Science and AI. Eager to learn, adapt, and apply data science and machine learning concepts in a practical\nenvironment through an internship or entry-level role.",
+    "skills": "Programming: Python, JavaScript, SQL\nData Science: Pandas, NumPy, Machine Learning, Deep Learning, NLP, Computer Vision, OpenCV Web:\nDjango\nVisualization: Power BI, Tableau, Excel , Matplotlib, Seaborn Tools:\nGitHub, MS Office , Visual Studio",
+    "education": "Master of Science in Computer Science 2025 - present\nKerala University , Thiruvananthapuram , Kerala\nBachelor of Science in Physics and Computer Application 2020 2023\nKerala University , Thiruvananthapuram , Kerala",
+    "projects": "1. Medical Crisis Management and Support System with Geo-Position Communication\n(Website Development Project)\nDeveloped a web-based emergency response system connecting hospitals, ambulances, and users.\nImplemented real-time tracking of ICU beds, ventilators, and blood bank availability.\nEnabled ambulance tracking and instant alerts for doctors.\nTechnologies Used: PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, AJAX, jQuery\n2. Multi-Modal Medical Imaging Diagnosis System\nDeveloped an AI-based clinical decision support system for medical image analysis.\nImplemented CNN models to analyze X-ray, MRI, and skin lesion images.\nBuilt a secure web platform using Django and MySQL for image upload and management.\nGenerated disease predictions with confidence scores to assist diagnosis.\n--- Page 2 ---",
+    "certifications": "Data Science and Artificial Intelligence"
+  },
+  "metadata": {
+    "source_file": "Shilpa S Nair org.pdf"
+  }
+}

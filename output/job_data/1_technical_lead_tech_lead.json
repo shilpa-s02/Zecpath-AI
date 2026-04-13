@@ -1,0 +1,55 @@
+{
+  "job_title": "Technical Lead (Tech Lead)",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Technical Lead is responsible for leading the technical direction of projects, mentoring developers, ensuring code quality, and translating business requirements into scalable technical solutions.",
+  "responsibilities": [
+    "Lead system design, architecture decisions, and technical planning",
+    "Review code, enforce best practices, and maintain high engineering standards",
+    "Mentor and guide development team members",
+    "Collaborate with product managers, architects, and stakeholders",
+    "Troubleshoot complex technical issues and ensure timely delivery",
+    "Ensure performance, scalability, security, and reliability of systems"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Strong expertise in one or more programming languages",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Solid understanding of system design, databases, and APIs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Experience with cloud platforms and DevOps practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Knowledge of Agile/Scrum methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "1"
+  }
+}

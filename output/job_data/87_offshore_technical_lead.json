@@ -1,0 +1,60 @@
+{
+  "job_title": "Offshore Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Offshore Technical Lead leads offshore engineering teams, ensuring productivity, quality, and alignment with onsite and client expectations.",
+  "responsibilities": [
+    "Lead offshore technical teams",
+    "Translate client requirements into technical tasks",
+    "Ensure code quality and delivery timelines",
+    "Coordinate with onsite leads and delivery managers",
+    "Mentor offshore engineers",
+    "Manage dependencies and technical risks"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Distributed team leadership",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong hands-on technical skills",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Agile development practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Communication across time zones",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Quality assurance and review processes",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "87"
+  }
+}

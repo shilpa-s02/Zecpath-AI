@@ -1,0 +1,20 @@
+68. ERP Technical Lead 
+Role Overview 
+The ERP Technical Lead is responsible for leading the technical design, development, 
+integration, and optimization of enterprise ERP systems to support core business processes. 
+Key Responsibilities 
+• Lead ERP system architecture and customization 
+• Oversee module development, integrations, and data migration 
+• Coordinate with functional consultants and business stakeholders 
+• Ensure system performance, scalability, and security 
+• Manage ERP upgrades, patches, and enhancements 
+• Mentor ERP developers and technical consultants 
+Required Skills 
+• ERP platforms (SAP, Oracle, Dynamics, NetSuite) 
+• SQL, PL/SQL, ERP scripting 
+• System integration (APIs, middleware) 
+• Performance tuning & troubleshooting 
+• SDLC & Agile methodologies 
+Experience 
+• 7–12 years in ERP development 
+• 3+ years in technical leadership roles

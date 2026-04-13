@@ -1,0 +1,19 @@
+78. E-Commerce Technical Lead 
+Role Overview 
+The E-Commerce Technical Lead drives development of high-performance, scalable online 
+commerce platforms handling traffic, payments, and order fulfillment. 
+Key Responsibilities 
+• Lead architecture for e-commerce platforms 
+• Optimize performance for high-traffic systems 
+• Integrate payment gateways, logistics, and ERP 
+• Implement security and fraud prevention 
+• Support personalization and analytics features 
+Required Skills 
+• E-commerce platforms (Magento, Shopify, custom) 
+• Java / Node.js / PHP 
+• Payment gateways & APIs 
+• Microservices and caching 
+• Cloud scalability & DevOps 
+Experience 
+• 7–12 years in software engineering 
+• 3+ years leading e-commerce platforms

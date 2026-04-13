@@ -1,0 +1,54 @@
+{
+  "job_title": "MLOps Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The MLOps Technical Lead ensures reliable deployment, monitoring, and scaling of machine learning models in production environments.",
+  "responsibilities": [
+    "Design ML CI/CD and automation pipelines",
+    "Manage model versioning, monitoring, and retraining",
+    "Ensure reproducibility and governance",
+    "Collaborate with DevOps, data, and ML teams",
+    "Improve ML system reliability and performance"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "ML pipelines and orchestration tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Kubernetes, Docker, CI/CD",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Model monitoring and drift detection",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud ML platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "50"
+  }
+}

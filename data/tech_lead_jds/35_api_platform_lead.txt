@@ -1,0 +1,18 @@
+35. API Platform Lead 
+Role Overview 
+The API Platform Lead is responsible for designing, scaling, and governing enterprise-wide 
+API platforms and developer ecosystems. 
+Key Responsibilities 
+• Define API standards, guidelines, and governance 
+• Design scalable and secure API platforms 
+• Enable API monetization and developer portals 
+• Ensure performance, reliability, and security of APIs 
+• Collaborate with product, security, and integration teams 
+Required Skills & Technologies 
+• REST, GraphQL, gRPC 
+• API gateways and management tools 
+• OAuth, OpenID Connect, API security 
+• Observability and API analytics 
+Experience & Qualifications 
+• 8–14 years of experience in API or platform engineering 
+• Leadership in enterprise API programs

@@ -1,0 +1,56 @@
+{
+  "job_title": "Integration Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Integration Technical Lead is responsible for designing and managing system integrations across internal and external platforms.",
+  "responsibilities": [
+    "Design integration architectures and data exchange models",
+    "Lead API, event-driven, and middleware integrations",
+    "Ensure data consistency, security, and reliability",
+    "Troubleshoot complex integration issues",
+    "Coordinate with third-party vendors and partners"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "API management platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Messaging systems (Kafka, RabbitMQ)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "ESB, iPaaS, and middleware solutions",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security and data governance",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "33"
+  }
+}

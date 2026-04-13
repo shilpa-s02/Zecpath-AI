@@ -1,0 +1,18 @@
+24. Android Technical Lead 
+Role Overview 
+The Android Technical Lead leads development of native Android applications with focus on 
+performance, stability, and modern Android architecture. 
+Key Responsibilities 
+• Architect Android applications using modern frameworks 
+• Guide teams on Kotlin, Jetpack components 
+• Ensure best practices in app performance and security 
+• Review code and mentor developers 
+• Collaborate with backend and product teams 
+Required Skills & Technologies 
+• Kotlin, Java 
+• Android SDK, Jetpack 
+• MVVM, Clean Architecture 
+• CI/CD and Play Store deployment 
+Experience & Qualifications 
+• 6–11 years of Android development experience 
+• Experience leading Android app teams

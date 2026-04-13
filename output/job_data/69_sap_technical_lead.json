@@ -1,0 +1,60 @@
+{
+  "job_title": "SAP Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The SAP Technical Lead leads SAP system development, customization, and integration across modules while ensuring performance, compliance, and scalability.",
+  "responsibilities": [
+    "Design SAP technical architecture (ECC / S/4HANA)",
+    "Lead ABAP, Fiori, BTP, and integration development",
+    "Manage SAP enhancements, workflows, and reports",
+    "Coordinate with SAP functional leads (FI, CO, MM, SD, HCM)",
+    "Ensure system security and compliance",
+    "Support SAP upgrades and migrations"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "SAP ABAP, CDS Views, OData",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SAP Fiori/UI5",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SAP BTP, PI/PO, CPI",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "S/4HANA migration experience",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong debugging and performance tuning skills",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 15,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "69"
+  }
+}

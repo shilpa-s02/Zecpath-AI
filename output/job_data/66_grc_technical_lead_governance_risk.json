@@ -1,0 +1,54 @@
+{
+  "job_title": "GRC Technical Lead (Governance, Risk &",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The GRC Technical Lead ensures security governance, risk management, and regulatory compliance across technology systems.",
+  "responsibilities": [
+    "Define and enforce security governance frameworks",
+    "Conduct risk assessments and compliance audits",
+    "Map technical controls to regulatory requirements",
+    "Collaborate with legal, audit, and IT teams",
+    "Manage compliance reporting and remediation"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "GRC frameworks (ISO 27001, NIST, SOC 2)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Risk assessment and compliance tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Regulatory standards (GDPR, HIPAA, PCI-DSS)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Policy and control management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 15,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "66"
+  }
+}

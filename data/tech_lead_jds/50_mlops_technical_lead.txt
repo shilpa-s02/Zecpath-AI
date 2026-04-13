@@ -1,0 +1,18 @@
+50. MLOps Technical Lead 
+Role Overview 
+The MLOps Technical Lead ensures reliable deployment, monitoring, and scaling of machine 
+learning models in production environments. 
+Key Responsibilities 
+• Design ML CI/CD and automation pipelines 
+• Manage model versioning, monitoring, and retraining 
+• Ensure reproducibility and governance 
+• Collaborate with DevOps, data, and ML teams 
+• Improve ML system reliability and performance 
+Required Skills & Technologies 
+• ML pipelines and orchestration tools 
+• Kubernetes, Docker, CI/CD 
+• Model monitoring and drift detection 
+• Cloud ML platforms 
+Experience & Qualifications 
+• 8–14 years of experience 
+• Strong background in MLOps or DevOps for ML

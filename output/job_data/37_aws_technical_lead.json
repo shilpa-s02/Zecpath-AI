@@ -1,0 +1,54 @@
+{
+  "job_title": "AWS Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The AWS Technical Lead owns architecture and delivery of cloud solutions on AWS, ensuring scalability, security, and operational excellence.",
+  "responsibilities": [
+    "Design AWS-based architectures and services",
+    "Lead teams on EC2, EKS, Lambda, RDS, S3, VPC",
+    "Implement security, networking, and IAM best practices",
+    "Optimize cost using AWS Well-Architected Framework",
+    "Review cloud designs and production workloads"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "AWS core services and architecture patterns",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Terraform or CloudFormation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD pipelines and container platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud monitoring and logging",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "37"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "job_title": "Director of Engineering (Hands-on Track)",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Director of Engineering (Hands-on Track) leads multiple engineering teams while remaining involved in architecture, design, and critical technical decisions.",
+  "responsibilities": [
+    "Lead engineering managers and technical leads",
+    "Oversee delivery, architecture, and technical quality",
+    "Guide long-term platform and system evolution",
+    "Balance execution speed with technical excellence",
+    "Partner with executives on product and technology strategy",
+    "Drive talent growth and engineering culture"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Large-scale system architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Engineering management and leadership",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cross-functional collaboration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Metrics-driven delivery management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong technical judgment",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 15,
+      "preferred_years": 22,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "95"
+  }
+}

@@ -1,0 +1,18 @@
+58. Security Testing Lead 
+Role Overview 
+The Security Testing Lead is responsible for identifying vulnerabilities and ensuring secure 
+application delivery through proactive testing. 
+Key Responsibilities 
+• Lead security testing strategy (SAST, DAST, IAST) 
+• Conduct vulnerability assessments and penetration testing 
+• Integrate security testing into CI/CD pipelines 
+• Collaborate with security and DevOps teams 
+• Track remediation and compliance 
+Required Skills & Technologies 
+• Security testing tools and methodologies 
+• OWASP Top 10 and secure coding practices 
+• Application and API security testing 
+• Compliance and risk management 
+Experience & Qualifications 
+• 7–13 years of security testing experience 
+• Strong understanding of cybersecurity principles

@@ -1,0 +1,18 @@
+42. Infrastructure Technical Lead 
+Role Overview 
+The Infrastructure Technical Lead oversees compute, storage, networking, and hybrid 
+infrastructure environments. 
+Key Responsibilities 
+• Design and manage on-prem and cloud infrastructure 
+• Ensure system availability, capacity, and performance 
+• Lead infrastructure automation and monitoring 
+• Coordinate with security and operations teams 
+• Manage upgrades, DR, and capacity planning 
+Required Skills & Technologies 
+• Servers, networking, storage systems 
+• Virtualization and cloud infrastructure 
+• Automation and monitoring tools 
+• Infrastructure security best practices 
+Experience & Qualifications 
+• 8–15 years of infrastructure experience 
+• Leadership in enterprise infrastructure operations

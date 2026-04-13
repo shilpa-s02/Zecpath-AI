@@ -1,0 +1,19 @@
+77. EdTech Technical Lead 
+Role Overview 
+The EdTech Technical Lead leads development of scalable learning platforms, digital 
+classrooms, assessment systems, and AI-driven education tools. 
+Key Responsibilities 
+• Architect LMS and learning platforms 
+• Lead backend, frontend, and mobile teams 
+• Implement content delivery and assessment systems 
+• Integrate video streaming, analytics, and AI tools 
+• Ensure platform scalability during peak usage 
+Required Skills 
+• LMS platforms, content delivery systems 
+• JavaScript, React, Node.js, Python 
+• Cloud scaling & CDN 
+• Data analytics & AI integration 
+• Agile product development 
+Experience 
+• 6–10 years in software development 
+• 2+ years in EdTech or platform leadership

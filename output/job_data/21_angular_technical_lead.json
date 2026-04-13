@@ -1,0 +1,56 @@
+{
+  "job_title": "Angular Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Angular Technical Lead is responsible for leading enterprise-scale Angular applications, focusing on modularity, performance, and maintainability.",
+  "responsibilities": [
+    "Lead Angular application architecture",
+    "Guide teams on RxJS, NgRx, and Angular best practices",
+    "Ensure secure and scalable frontend solutions",
+    "Review code and mentor developers",
+    "Collaborate with backend and DevOps teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Angular, TypeScript",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "RxJS, NgRx",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Angular Material",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD and testing frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 11,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "21"
+  }
+}

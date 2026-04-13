@@ -1,0 +1,54 @@
+{
+  "job_title": "PHP Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The PHP Technical Lead oversees development of web and backend systems using PHP, ensuring maintainability, performance, and secure coding practices.",
+  "responsibilities": [
+    "Lead PHP application development and architecture",
+    "Guide teams on Laravel, Symfony, or CodeIgniter",
+    "Review code and ensure best practices",
+    "Optimize application performance and scalability",
+    "Coordinate with frontend, QA, and DevOps teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "PHP 7/8, Laravel/Symfony",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "RESTful APIs, MVC architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "MySQL/PostgreSQL",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD and cloud hosting platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 11,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "14"
+  }
+}

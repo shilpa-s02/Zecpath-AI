@@ -1,0 +1,55 @@
+{
+  "job_title": "Cloud Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Cloud Technical Lead is responsible for defining and leading cloud architecture, migration, and optimization strategies across applications and infrastructure.",
+  "responsibilities": [
+    "Design and govern cloud architecture across platforms",
+    "Lead cloud migration and modernization initiatives",
+    "Define cloud security, networking, and cost-optimization standards",
+    "Collaborate with development, DevOps, and security teams",
+    "Ensure high availability, scalability, and disaster recovery",
+    "Mentor cloud engineers and review designs"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Public cloud platforms (AWS/Azure/GCP)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud networking, IAM, and security best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Infrastructure as Code (Terraform, ARM, CloudFormation)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Monitoring and cost management tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "36"
+  }
+}

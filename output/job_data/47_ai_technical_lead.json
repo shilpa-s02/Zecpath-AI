@@ -1,0 +1,54 @@
+{
+  "job_title": "AI Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The AI Technical Lead drives development and deployment of AI-powered systems, ensuring ethical, scalable, and business-aligned AI solutions.",
+  "responsibilities": [
+    "Lead AI solution design and model integration",
+    "Collaborate with data scientists and engineers",
+    "Ensure responsible AI, fairness, and governance",
+    "Translate business problems into AI use cases",
+    "Oversee model deployment and lifecycle management"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "AI/ML fundamentals and frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Python, TensorFlow, PyTorch",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Data pipelines and cloud AI services",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "AI ethics and governance practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "47"
+  }
+}

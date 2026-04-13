@@ -1,0 +1,18 @@
+64. DevSecOps Lead 
+Role Overview 
+The DevSecOps Lead integrates security into CI/CD pipelines and development workflows, 
+enabling secure and rapid software delivery. 
+Key Responsibilities 
+• Embed security tools into CI/CD pipelines 
+• Automate security testing and policy enforcement 
+• Promote shift-left security practices 
+• Collaborate with DevOps and development teams 
+• Monitor and improve security posture continuously 
+Required Skills & Technologies 
+• CI/CD pipelines and automation 
+• SAST, DAST, container and dependency scanning 
+• Cloud-native security tools 
+• DevSecOps practices 
+Experience & Qualifications 
+• 7–13 years of experience 
+• Background in DevOps or security engineering

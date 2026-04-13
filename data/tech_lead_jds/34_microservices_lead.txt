@@ -1,0 +1,18 @@
+34. Microservices Lead 
+Role Overview 
+The Microservices Lead owns the design, implementation, and governance of microservices
+based architectures across the organization. 
+Key Responsibilities 
+• Define microservices architecture and service boundaries 
+• Guide teams on service communication and data ownership 
+• Implement resilience, observability, and fault tolerance 
+• Ensure secure and scalable microservices deployment 
+• Manage service versioning and lifecycle 
+Required Skills & Technologies 
+• Microservices architecture patterns 
+• Kubernetes, Docker, and cloud platforms 
+• Service meshes and observability tools 
+• Distributed tracing and monitoring 
+Experience & Qualifications 
+• 8–13 years of backend or platform experience 
+• Deep hands-on experience with microservices at scale

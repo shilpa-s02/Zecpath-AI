@@ -1,0 +1,17 @@
+8. Lead Platform Engineer 
+Role Overview 
+The Lead Platform Engineer builds and maintains internal platforms that enable scalable, 
+secure, and efficient product development. 
+Key Responsibilities 
+• Design and lead internal developer platforms 
+• Build reusable infrastructure and platform services 
+• Enable CI/CD, observability, and self-service tooling 
+• Drive platform reliability and performance 
+• Collaborate with product and SRE teams 
+Required Skills & Technologies 
+• Kubernetes, cloud platforms, and automation tools 
+• Infrastructure as Code (Terraform, CloudFormation) 
+• Platform observability and security best practices 
+Experience & Qualifications 
+• 8–13 years of engineering experience 
+• Strong background in DevOps or SRE practices

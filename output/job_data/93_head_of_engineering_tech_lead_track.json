@@ -1,0 +1,60 @@
+{
+  "job_title": "Head of Engineering (Tech Lead Track)",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Head of Engineering (Tech Lead Track) leads engineering execution while remaining deeply involved in technical decisions and architecture.",
+  "responsibilities": [
+    "Lead engineering teams and technical direction",
+    "Own architecture, code quality, and engineering standards",
+    "Partner with product and business leaders",
+    "Scale teams, systems, and processes",
+    "Mentor engineering managers and senior engineers",
+    "Drive delivery excellence and innovation"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Strong hands-on technical background",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Engineering leadership and people management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Architecture and system design",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile scaling frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strategic planning and execution",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 14,
+      "preferred_years": 20,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "93"
+  }
+}

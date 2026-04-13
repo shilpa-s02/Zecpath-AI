@@ -1,0 +1,18 @@
+56. SDET Lead (Software Development Engineer in Test) 
+Role Overview 
+The SDET Lead blends software engineering and testing to build scalable, maintainable test 
+systems and ensure product quality. 
+Key Responsibilities 
+• Develop automated test frameworks and utilities 
+• Collaborate closely with developers on testability 
+• Lead shift-left testing and test-driven approaches 
+• Perform code reviews for test and production code 
+• Mentor SDETs and QA engineers 
+Required Skills & Technologies 
+• Strong programming skills (Java, Python, JavaScript) 
+• Test frameworks and automation tools 
+• CI/CD integration and test data management 
+• Debugging and code analysis 
+Experience & Qualifications 
+• 7–12 years of experience 
+• Strong software engineering background

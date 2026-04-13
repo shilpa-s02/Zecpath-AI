@@ -1,0 +1,61 @@
+{
+  "job_title": "Enterprise Systems Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Enterprise Systems Lead oversees large-scale enterprise applications ensuring reliability, integration, and alignment with business strategy.",
+  "responsibilities": [
+    "Lead enterprise application architecture",
+    "Manage cross-platform system integrations",
+    "Coordinate with IT, security, and business teams",
+    "Ensure compliance, scalability, and availability",
+    "Drive modernization and digital transformation initiatives"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Enterprise architecture frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Integration platforms & middleware",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud and on-prem hybrid systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "IT governance and compliance",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Stakeholder communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 10,
+      "preferred_years": 15,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "73"
+  }
+}

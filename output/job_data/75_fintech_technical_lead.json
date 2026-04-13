@@ -1,0 +1,60 @@
+{
+  "job_title": "FinTech Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The FinTech Technical Lead leads the design and development of secure, scalable financial technology systems including payments, digital banking, lending, and trading platforms.",
+  "responsibilities": [
+    "Architect and lead FinTech platform development",
+    "Ensure compliance with financial regulations and security standards",
+    "Design high-availability and low-latency systems",
+    "Integrate payment gateways, banking APIs, and third-party services",
+    "Lead code reviews, technical decisions, and performance optimization",
+    "Collaborate with compliance, product, and risk teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Payments, wallets, lending, or trading systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Java / Python / Node.js",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Microservices, event-driven systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "PCI-DSS, SOX, GDPR",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud platforms (AWS/Azure/GCP)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "75"
+  }
+}

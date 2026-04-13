@@ -1,0 +1,17 @@
+3. Engineering Technical Lead 
+Role Overview 
+The Engineering Technical Lead provides technical leadership across engineering teams, 
+focusing on scalable architecture, innovation, and engineering excellence. 
+Key Responsibilities 
+• Define and enforce engineering best practices 
+• Guide teams on system scalability and performance 
+• Review and approve technical designs and architecture 
+• Support engineering managers in delivery planning 
+• Resolve high-impact technical risks 
+Required Skills & Technologies 
+• Strong engineering fundamentals and architecture expertise 
+• Experience with distributed systems and microservices 
+• Cloud infrastructure and observability knowledge 
+Experience & Qualifications 
+• 8–14 years of engineering experience 
+• Experience leading cross-functional engineering teams

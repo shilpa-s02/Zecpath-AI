@@ -1,0 +1,56 @@
+{
+  "job_title": "iOS Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The iOS Technical Lead is responsible for leading development of high-quality iOS applications using Apple\u2019s ecosystem and best practices.",
+  "responsibilities": [
+    "Architect iOS applications using Swift",
+    "Guide teams on UIKit / SwiftUI",
+    "Ensure app performance, security, and stability",
+    "Lead App Store submission and release processes",
+    "Mentor iOS engineers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Swift, Objective-C (optional)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "iOS SDK, SwiftUI",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "REST APIs, mobile security",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD for iOS",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 11,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "25"
+  }
+}

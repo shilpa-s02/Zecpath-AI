@@ -1,0 +1,18 @@
+40. DevOps Technical Lead 
+Role Overview 
+The DevOps Technical Lead drives automation, CI/CD, and DevOps culture to enable fast, 
+reliable, and secure software delivery. 
+Key Responsibilities 
+• Design and manage CI/CD pipelines 
+• Automate infrastructure and application deployments 
+• Lead DevOps best practices and tooling standards 
+• Integrate security into pipelines (DevSecOps) 
+• Improve release reliability and deployment frequency 
+Required Skills & Technologies 
+• CI/CD tools (Jenkins, GitHub Actions, GitLab) 
+• Infrastructure as Code 
+• Containers and orchestration (Docker, Kubernetes) 
+• Monitoring and logging platforms 
+Experience & Qualifications 
+• 7–12 years of experience 
+• Strong background in automation and DevOps

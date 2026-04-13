@@ -1,0 +1,54 @@
+{
+  "job_title": "Big Data Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Big Data Technical Lead leads high-volume, high-velocity data processing systems for large-scale analytics and real-time insights.",
+  "responsibilities": [
+    "Design and optimize big data processing frameworks",
+    "Lead distributed data processing and storage solutions",
+    "Ensure fault tolerance and scalability",
+    "Manage performance tuning and cost optimization",
+    "Guide teams on best practices for big data ecosystems"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Hadoop ecosystem, Spark, Hive",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Distributed storage systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Streaming and batch processing frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud-based big data platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 15,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "46"
+  }
+}

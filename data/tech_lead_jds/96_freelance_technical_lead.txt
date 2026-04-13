@@ -1,0 +1,23 @@
+96. Freelance Technical Lead 
+Role Overview 
+The Freelance Technical Lead provides short- to medium-term technical leadership for 
+projects, startups, or client engagements, delivering architecture, execution guidance, and 
+team mentorship. 
+Key Responsibilities 
+• Lead system design and technical execution for assigned projects 
+• Review code, architecture, and technical decisions 
+• Guide teams on best practices and delivery standards 
+• Resolve complex technical challenges 
+• Collaborate with product owners and stakeholders 
+• Deliver outcomes within agreed timelines and scope 
+Required Skills 
+• Strong hands-on engineering and architecture 
+• Ability to quickly understand existing systems 
+• Independent decision-making 
+• Excellent communication and documentation 
+• Agile and remote collaboration skills 
+Engagement Type 
+• Contract / Project-based / Remote 
+Experience 
+• 8–15 years in software engineering 
+• Proven technical leadership across multiple projects

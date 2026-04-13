@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Job Profile",
+  "type": "object",
+  "properties": {
+    "job_title": { "type": "string" },
+    "company": { "type": "string" },
+    "location": { "type": "string" },
+    "job_type": { "type": "string", "enum": ["Full-time", "Part-time", "Contract", "Internship", "Remote"] },
+    "description": { "type": "string" },
+    "responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "requirements": {
+      "type": "object",
+      "properties": {
+        "skills": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "is_mandatory": { "type": "boolean" },
+              "proficiency_level": { "type": "string", "enum": ["Beginner", "Intermediate", "Expert"] },
+              "min_years": { "type": "number" }
+            },
+            "required": ["name"]
+          }
+        },
+        "experience": {
+          "type": "object",
+          "properties": {
+            "min_years": { "type": "number" },
+            "preferred_years": { "type": "number" },
+            "relevant_industries": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "education": {
+          "type": "object",
+          "properties": {
+            "degree_level": { "type": "string" },
+            "field_of_study": { "type": "string" },
+            "is_required": { "type": "boolean" }
+          }
+        },
+        "certifications": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "benefits": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "posting_date": { "type": "string", "format": "date-time" },
+        "source": { "type": "string" },
+        "internal_id": { "type": "string" }
+      }
+    }
+  },
+  "required": ["job_title", "company", "description", "requirements"]
+}

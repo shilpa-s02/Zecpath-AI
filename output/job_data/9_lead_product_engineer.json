@@ -1,0 +1,49 @@
+{
+  "job_title": "Lead Product Engineer",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Lead Product Engineer bridges product vision and engineering execution, ensuring customer-focused, high-quality product development.",
+  "responsibilities": [
+    "Translate product requirements into technical solutions",
+    "Lead feature design and implementation",
+    "Collaborate closely with product managers and UX teams",
+    "Ensure rapid iteration and continuous improvement",
+    "Balance technical excellence with time-to-market"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Full-stack development expertise",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Strong understanding of product lifecycle and UX",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Agile product development experience",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "9"
+  }
+}

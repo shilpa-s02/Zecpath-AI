@@ -1,0 +1,60 @@
+{
+  "job_title": "Responsible AI Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Responsible AI Technical Lead ensures ethical, transparent, and compliant design and deployment of AI and GenAI systems.",
+  "responsibilities": [
+    "Define responsible AI frameworks and practices",
+    "Ensure fairness, explainability, and bias mitigation",
+    "Implement AI governance and auditability",
+    "Collaborate with legal, compliance, and ethics teams",
+    "Monitor AI systems for unintended outcomes",
+    "Guide teams on ethical AI design"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "AI ethics and governance",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Model explainability and bias detection",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Regulatory compliance for AI systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Data privacy and security",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cross-functional collaboration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "106"
+  }
+}

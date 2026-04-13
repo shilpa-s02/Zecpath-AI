@@ -1,0 +1,108 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Candidate Profile",
+  "type": "object",
+  "properties": {
+    "personal_info": {
+      "type": "object",
+      "properties": {
+        "full_name": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "location": { "type": "string" },
+        "linkedin_url": { "type": "string", "format": "uri" },
+        "portfolio_url": { "type": "string", "format": "uri" }
+      },
+      "required": ["full_name"]
+    },
+    "summary": { "type": "string" },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "category": { "type": "string", "enum": ["Technical", "Soft", "Domain", "Tool"] },
+          "proficiency": { "type": "string", "enum": ["Beginner", "Intermediate", "Expert"] },
+          "years_of_experience": { "type": "number" }
+        },
+        "required": ["name"]
+      }
+    },
+    "experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "job_title": { "type": "string" },
+          "company": { "type": "string" },
+          "location": { "type": "string" },
+          "start_date": { "type": "string" },
+          "end_date": { "type": "string" },
+          "is_current": { "type": "boolean" },
+          "description": { "type": "string" },
+          "key_achievements": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["job_title", "company", "start_date"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": { "type": "string" },
+          "field_of_study": { "type": "string" },
+          "institution": { "type": "string" },
+          "location": { "type": "string" },
+          "completion_date": { "type": "string" },
+          "gpa": { "type": "string" }
+        },
+        "required": ["degree", "institution"]
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "issuing_organization": { "type": "string" },
+          "issue_date": { "type": "string" },
+          "expiration_date": { "type": "string" },
+          "credential_id": { "type": "string" }
+        },
+        "required": ["name"]
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "technologies": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "link": { "type": "string", "format": "uri" },
+          "role": { "type": "string" }
+        },
+        "required": ["name"]
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "extraction_date": { "type": "string", "format": "date-time" },
+        "source_file": { "type": "string" },
+        "confidence_score": { "type": "number" }
+      }
+    }
+  },
+  "required": ["personal_info", "skills", "experience"]
+}

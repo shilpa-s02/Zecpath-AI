@@ -1,0 +1,60 @@
+{
+  "job_title": "Project Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Project Technical Lead is responsible for technical execution of a specific project, ensuring architecture, delivery timelines, and quality align with project goals.",
+  "responsibilities": [
+    "Own technical planning and execution for assigned projects",
+    "Translate business requirements into technical solutions",
+    "Coordinate tasks across multiple engineers",
+    "Ensure adherence to project timelines and scope",
+    "Identify technical risks and mitigation strategies",
+    "Support project management activities"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "System design and implementation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Project-based delivery experience",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Risk management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile / Waterfall methodologies",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Stakeholder coordination",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "83"
+  }
+}

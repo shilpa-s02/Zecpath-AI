@@ -1,0 +1,19 @@
+76. HealthTech Technical Lead 
+Role Overview 
+The HealthTech Technical Lead is responsible for building compliant, secure, and scalable 
+healthcare platforms such as EHR, telemedicine, and health analytics systems. 
+Key Responsibilities 
+• Lead architecture of healthcare applications 
+• Ensure compliance with healthcare regulations 
+• Integrate medical devices and health data platforms 
+• Oversee data security, privacy, and interoperability 
+• Collaborate with clinicians, product, and compliance teams 
+Required Skills 
+• Healthcare systems (EHR, EMR, HIS) 
+• HL7, FHIR standards 
+• Java / Python / .NET 
+• Cloud security and encryption 
+• HIPAA, GDPR compliance 
+Experience 
+• 7–10 years in healthcare IT 
+• 3+ years in technical leadership roles

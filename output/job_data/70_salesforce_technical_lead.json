@@ -1,0 +1,60 @@
+{
+  "job_title": "Salesforce Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Salesforce Technical Lead drives design, development, and customization of Salesforce solutions aligned with business goals.",
+  "responsibilities": [
+    "Lead Salesforce architecture and development",
+    "Customize Salesforce using Apex, LWC, and Flows",
+    "Integrate Salesforce with external systems",
+    "Ensure security, scalability, and performance",
+    "Support DevOps pipelines and CI/CD",
+    "Mentor Salesforce developers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Salesforce Apex, LWC, Visualforce",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Salesforce APIs & integrations",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Sales Cloud, Service Cloud, Experience Cloud",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Salesforce security model",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile/Scrum",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "70"
+  }
+}

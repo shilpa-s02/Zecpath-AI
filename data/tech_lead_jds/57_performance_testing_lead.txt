@@ -1,0 +1,18 @@
+57. Performance Testing Lead 
+Role Overview 
+The Performance Testing Lead ensures applications meet performance, scalability, and 
+reliability requirements under real-world load. 
+Key Responsibilities 
+• Define performance testing strategy and benchmarks 
+• Design load, stress, and endurance tests 
+• Analyze performance bottlenecks and system behavior 
+• Collaborate with developers and infrastructure teams 
+• Provide performance recommendations and reports 
+Required Skills & Technologies 
+• JMeter, LoadRunner, Gatling 
+• Performance monitoring and APM tools 
+• System and network performance analysis 
+• Capacity planning 
+Experience & Qualifications 
+• 7–13 years of performance testing experience 
+• Expertise in large-scale systems

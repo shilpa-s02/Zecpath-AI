@@ -1,0 +1,18 @@
+21. Angular Technical Lead 
+Role Overview 
+The Angular Technical Lead is responsible for leading enterprise-scale Angular applications, 
+focusing on modularity, performance, and maintainability. 
+Key Responsibilities 
+• Lead Angular application architecture 
+• Guide teams on RxJS, NgRx, and Angular best practices 
+• Ensure secure and scalable frontend solutions 
+• Review code and mentor developers 
+• Collaborate with backend and DevOps teams 
+Required Skills & Technologies 
+• Angular, TypeScript 
+• RxJS, NgRx 
+• Angular Material 
+• CI/CD and testing frameworks 
+Experience & Qualifications 
+• 6–11 years of frontend experience 
+• Enterprise Angular project leadership

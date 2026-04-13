@@ -1,0 +1,59 @@
+{
+  "job_title": "Gaming Platform Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Gaming Platform Technical Lead leads development of scalable, real-time gaming platforms supporting multiplayer, matchmaking, and monetization systems.",
+  "responsibilities": [
+    "Architect high-performance gaming backends",
+    "Optimize low-latency real-time systems",
+    "Integrate game engines and backend services",
+    "Implement player data, leaderboards, and analytics",
+    "Ensure scalability for global traffic"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Real-time systems & multiplayer architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "C++ / C# / Node.js",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Game engines (Unity, Unreal)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "WebSockets, gRPC",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud scaling & performance tuning",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "80"
+  }
+}

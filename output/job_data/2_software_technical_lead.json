@@ -1,0 +1,49 @@
+{
+  "job_title": "Software Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Software Technical Lead oversees end-to-end software development, ensuring design quality, maintainability, and alignment with business goals.",
+  "responsibilities": [
+    "Own software architecture and technical roadmap",
+    "Lead development activities across backend, frontend, and integrations",
+    "Drive coding standards, testing strategies, and documentation",
+    "Coordinate with QA, DevOps, and product teams",
+    "Ensure secure, scalable, and high-performance software delivery"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Expertise in software engineering principles and design patterns",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Experience with modern frameworks and cloud-native development",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD, automated testing, and version control",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "2"
+  }
+}

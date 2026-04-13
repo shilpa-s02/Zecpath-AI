@@ -1,0 +1,20 @@
+69. SAP Technical Lead 
+Role Overview 
+The SAP Technical Lead leads SAP system development, customization, and integration 
+across modules while ensuring performance, compliance, and scalability. 
+Key Responsibilities 
+• Design SAP technical architecture (ECC / S/4HANA) 
+• Lead ABAP, Fiori, BTP, and integration development 
+• Manage SAP enhancements, workflows, and reports 
+• Coordinate with SAP functional leads (FI, CO, MM, SD, HCM) 
+• Ensure system security and compliance 
+• Support SAP upgrades and migrations 
+Required Skills 
+• SAP ABAP, CDS Views, OData 
+• SAP Fiori/UI5 
+• SAP BTP, PI/PO, CPI 
+• S/4HANA migration experience 
+• Strong debugging and performance tuning skills 
+Experience 
+• 8–15 years in SAP environments 
+• 4+ years as SAP Technical Lead

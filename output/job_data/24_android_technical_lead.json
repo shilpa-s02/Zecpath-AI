@@ -1,0 +1,54 @@
+{
+  "job_title": "Android Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Android Technical Lead leads development of native Android applications with focus on performance, stability, and modern Android architecture.",
+  "responsibilities": [
+    "Architect Android applications using modern frameworks",
+    "Guide teams on Kotlin, Jetpack components",
+    "Ensure best practices in app performance and security",
+    "Review code and mentor developers",
+    "Collaborate with backend and product teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Kotlin, Java",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Android SDK, Jetpack",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "MVVM, Clean Architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD and Play Store deployment",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 11,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "24"
+  }
+}

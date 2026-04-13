@@ -1,0 +1,20 @@
+81. Banking Systems Technical Lead 
+Role Overview 
+The Banking Systems Technical Lead leads development and modernization of core banking, 
+digital banking, and financial transaction systems. 
+Key Responsibilities 
+• Lead architecture of core banking platforms 
+• Ensure transaction consistency and security 
+• Integrate regulatory and reporting systems 
+• Modernize legacy banking applications 
+• Collaborate with compliance, audit, and business teams 
+Required Skills 
+• Core banking systems 
+• Java / COBOL / .NET 
+• High-availability transaction systems 
+• Security and compliance standards 
+• API and integration platforms 
+Experience 
+• 8–15 years in banking IT 
+• 4+ years as a technical lead 
+Delivery, Team & Project-Oriented Technical Leads

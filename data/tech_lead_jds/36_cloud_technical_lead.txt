@@ -1,0 +1,19 @@
+36. Cloud Technical Lead 
+Role Overview 
+The Cloud Technical Lead is responsible for defining and leading cloud architecture, 
+migration, and optimization strategies across applications and infrastructure. 
+Key Responsibilities 
+• Design and govern cloud architecture across platforms 
+• Lead cloud migration and modernization initiatives 
+• Define cloud security, networking, and cost-optimization standards 
+• Collaborate with development, DevOps, and security teams 
+• Ensure high availability, scalability, and disaster recovery 
+• Mentor cloud engineers and review designs 
+Required Skills & Technologies 
+• Public cloud platforms (AWS/Azure/GCP) 
+• Cloud networking, IAM, and security best practices 
+• Infrastructure as Code (Terraform, ARM, CloudFormation) 
+• Monitoring and cost management tools 
+Experience & Qualifications 
+• 8–14 years of IT experience 
+• 3+ years in cloud architecture or technical leadership

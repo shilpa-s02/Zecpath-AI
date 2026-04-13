@@ -1,0 +1,18 @@
+31. Application Architecture Lead 
+Role Overview 
+The Application Architecture Lead defines the structure, patterns, and standards for 
+application-level architecture, ensuring maintainable and scalable applications. 
+Key Responsibilities 
+• Design application architecture and module structure 
+• Define coding standards and application frameworks 
+• Guide teams on application scalability and security 
+• Review application design and implementation 
+• Ensure alignment with enterprise architecture principles 
+Required Skills & Technologies 
+• Application design patterns (MVC, Clean Architecture) 
+• Backend and frontend architecture expertise 
+• Security, performance, and maintainability best practices 
+• Application lifecycle management 
+Experience & Qualifications 
+• 8–13 years of application development experience 
+• Experience leading large application portfolios

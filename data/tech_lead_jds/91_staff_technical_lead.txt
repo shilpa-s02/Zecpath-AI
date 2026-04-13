@@ -1,0 +1,20 @@
+91. Staff Technical Lead 
+Role Overview 
+The Staff Technical Lead is a highly experienced hands-on leader who solves the most 
+complex technical problems while guiding teams through influence rather than authority. 
+Key Responsibilities 
+• Design and implement critical system components 
+• Provide technical leadership across teams 
+• Influence architecture and coding standards 
+• Troubleshoot and resolve system-wide issues 
+• Coach engineers through technical excellence 
+• Contribute to long-term platform evolution 
+Required Skills 
+• Expert-level coding and design skills 
+• Cross-team collaboration and influence 
+• Deep debugging and performance tuning 
+• Cloud-native and distributed systems 
+• Strong documentation and design communication 
+Experience 
+• 10–16 years in engineering 
+• Recognized as technical expert within organization

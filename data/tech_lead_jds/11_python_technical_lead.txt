@@ -1,0 +1,18 @@
+11. Python Technical Lead 
+Role Overview 
+The Python Technical Lead leads backend systems, automation, and data-driven platforms 
+using Python, ensuring clean architecture and efficient delivery. 
+Key Responsibilities 
+• Design and develop scalable Python applications and services 
+• Lead teams using Django, Flask, or FastAPI frameworks 
+• Define coding standards, testing strategies, and documentation 
+• Oversee integrations with data pipelines, APIs, and cloud services 
+• Mentor developers and conduct technical reviews 
+Required Skills & Technologies 
+• Python, Django/Flask/FastAPI 
+• REST APIs, asynchronous programming 
+• SQL/NoSQL databases 
+• Cloud platforms and CI/CD pipelines 
+Experience & Qualifications 
+• 6–11 years of Python development experience 
+• Leadership experience in backend or platform teams

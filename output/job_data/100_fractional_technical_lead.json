@@ -1,0 +1,70 @@
+{
+  "job_title": "Fractional Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Fractional Technical Lead provides part-time or on-demand technical leadership, typically for startups or growing organizations that need senior expertise without full-time commitment.",
+  "responsibilities": [
+    "Define technical direction and architecture",
+    "Mentor in-house engineering teams",
+    "Review code, systems, and technical decisions",
+    "Support hiring and team scaling",
+    "Guide technology roadmap and priorities",
+    "Provide executive-level technical advice"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Broad technical and architectural expertise",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Startup and scaling experience",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strategic and hands-on leadership",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong communication with founders and executives",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Flexible and outcome-driven mindset",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Engagement Type",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Part-time / Advisory / Retainer-based",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 12,
+      "preferred_years": 20,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "100"
+  }
+}

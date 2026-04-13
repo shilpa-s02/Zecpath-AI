@@ -1,0 +1,20 @@
+106. Responsible AI Technical Lead 
+Role Overview 
+The Responsible AI Technical Lead ensures ethical, transparent, and compliant design and 
+deployment of AI and GenAI systems. 
+Key Responsibilities 
+• Define responsible AI frameworks and practices 
+• Ensure fairness, explainability, and bias mitigation 
+• Implement AI governance and auditability 
+• Collaborate with legal, compliance, and ethics teams 
+• Monitor AI systems for unintended outcomes 
+• Guide teams on ethical AI design 
+Required Skills 
+• AI ethics and governance 
+• Model explainability and bias detection 
+• Regulatory compliance for AI systems 
+• Data privacy and security 
+• Cross-functional collaboration 
+Experience 
+• 8–14 years in AI or data systems 
+• 3+ years in AI governance or leadership roles

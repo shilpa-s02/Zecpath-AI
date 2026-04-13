@@ -1,0 +1,62 @@
+{
+  "job_title": "Low-Code / No-Code Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Low-Code / No-Code Technical Lead governs and scales enterprise low-code platforms while ensuring security, quality, and maintainability.",
+  "responsibilities": [
+    "Lead low-code/no-code platform strategy",
+    "Define governance, standards, and guardrails",
+    "Integrate low-code solutions with core systems",
+    "Enable citizen developers while managing risk",
+    "Monitor performance, security, and scalability",
+    "Mentor teams on platform best practices"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Low-code platforms (Power Platform, Mendix, OutSystems)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Integration and API design",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security and governance frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Platform enablement",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Change management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 12,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "103"
+  }
+}

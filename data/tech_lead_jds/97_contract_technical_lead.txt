@@ -1,0 +1,22 @@
+97. Contract Technical Lead 
+Role Overview 
+The Contract Technical Lead is engaged for a fixed duration to lead technical delivery, 
+architecture, and quality for specific programs or initiatives. 
+Key Responsibilities 
+• Own technical direction for contract engagements 
+• Lead development teams and technical planning 
+• Ensure quality, performance, and security standards 
+• Coordinate with delivery managers and clients 
+• Manage technical risks and dependencies 
+• Support onboarding and handover at contract end 
+Required Skills 
+• Full-stack or platform expertise 
+• Delivery and execution focus 
+• Team leadership under timelines 
+• Cloud, DevOps, and CI/CD knowledge 
+• Strong stakeholder management 
+Engagement Type 
+• Fixed-term contract / Onsite / Remote 
+Experience 
+• 7–12 years in engineering 
+• 3+ years in lead or contract roles

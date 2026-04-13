@@ -1,0 +1,19 @@
+30. Solution Design Lead 
+Role Overview 
+The Solution Design Lead translates business requirements into end-to-end technical 
+solutions, ensuring feasibility, scalability, and alignment with enterprise architecture. 
+Key Responsibilities 
+• Analyze business and functional requirements 
+• Design complete technical solutions across systems 
+• Create solution architecture diagrams and documentation 
+• Coordinate with enterprise architects and delivery teams 
+• Evaluate risks, trade-offs, and cost implications 
+• Support pre-sales, RFPs, and client discussions 
+Required Skills & Technologies 
+• Solution architecture and system integration 
+• Cloud platforms and enterprise systems 
+• API-led connectivity and integration patterns 
+• Strong stakeholder communication skills 
+Experience & Qualifications 
+• 9–15 years of IT experience 
+• Experience in solution architecture or consulting roles

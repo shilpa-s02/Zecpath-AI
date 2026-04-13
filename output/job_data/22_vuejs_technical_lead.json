@@ -1,0 +1,54 @@
+{
+  "job_title": "Vue.js Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Vue.js Technical Lead leads lightweight, performant frontend applications using Vue.js while ensuring clean and maintainable code.",
+  "responsibilities": [
+    "Design and develop Vue.js application architecture",
+    "Guide teams on Vue 3, Composition API",
+    "Implement state management and reusable components",
+    "Optimize performance and SEO",
+    "Mentor frontend developers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Vue.js, JavaScript/TypeScript",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Vuex / Pinia",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "REST APIs, frontend build tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Testing and CI/CD",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "22"
+  }
+}

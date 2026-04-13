@@ -1,0 +1,20 @@
+1. Technical Lead (Tech Lead) 
+Role Overview 
+The Technical Lead is responsible for leading the technical direction of projects, mentoring 
+developers, ensuring code quality, and translating business requirements into scalable 
+technical solutions. 
+Key Responsibilities 
+• Lead system design, architecture decisions, and technical planning 
+• Review code, enforce best practices, and maintain high engineering standards 
+• Mentor and guide development team members 
+• Collaborate with product managers, architects, and stakeholders 
+• Troubleshoot complex technical issues and ensure timely delivery 
+• Ensure performance, scalability, security, and reliability of systems 
+Required Skills & Technologies 
+• Strong expertise in one or more programming languages 
+• Solid understanding of system design, databases, and APIs 
+• Experience with cloud platforms and DevOps practices 
+• Knowledge of Agile/Scrum methodologies 
+Experience & Qualifications 
+• 6–10 years of software development experience 
+• Prior experience leading small to mid-sized teams

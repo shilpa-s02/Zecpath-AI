@@ -1,0 +1,18 @@
+33. Integration Technical Lead 
+Role Overview 
+The Integration Technical Lead is responsible for designing and managing system 
+integrations across internal and external platforms. 
+Key Responsibilities 
+• Design integration architectures and data exchange models 
+• Lead API, event-driven, and middleware integrations 
+• Ensure data consistency, security, and reliability 
+• Troubleshoot complex integration issues 
+• Coordinate with third-party vendors and partners 
+Required Skills & Technologies 
+• API management platforms 
+• Messaging systems (Kafka, RabbitMQ) 
+• ESB, iPaaS, and middleware solutions 
+• Security and data governance 
+Experience & Qualifications 
+• 8–14 years of integration experience 
+• Leadership in enterprise integration projects

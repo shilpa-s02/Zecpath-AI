@@ -1,0 +1,59 @@
+{
+  "job_title": "CRM Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The CRM Technical Lead leads the design and development of CRM systems that support sales, marketing, and customer service operations.",
+  "responsibilities": [
+    "Design CRM technical architecture",
+    "Customize CRM workflows and automations",
+    "Manage integrations with ERP, analytics, and marketing tools",
+    "Ensure data integrity and security",
+    "Mentor CRM developers and administrators"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "CRM platforms (Salesforce, Dynamics, Zoho, HubSpot)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "API integrations",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Automation and workflow tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SQL and data modeling",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security best practices",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "74"
+  }
+}

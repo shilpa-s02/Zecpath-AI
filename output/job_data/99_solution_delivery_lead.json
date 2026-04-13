@@ -1,0 +1,70 @@
+{
+  "job_title": "Solution Delivery Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Solution Delivery Lead owns end-to-end technical delivery of client solutions, ensuring alignment between solution design, execution, and business outcomes.",
+  "responsibilities": [
+    "Lead solution architecture and delivery execution",
+    "Coordinate cross-functional teams and vendors",
+    "Ensure solutions meet functional and non-functional requirements",
+    "Manage delivery risks, dependencies, and escalations",
+    "Track delivery metrics and client satisfaction",
+    "Support solution rollout and post-delivery stabilization"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Solution architecture and delivery management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Client engagement and communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Integration and deployment expertise",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Agile and hybrid delivery models",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong problem-solving skills",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Engagement Type",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Project-based / Client-facing",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 8,
+      "preferred_years": 14,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "99"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "job_title": "Platform Governance Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Platform Governance Lead ensures consistency, security, compliance, and scalability across shared technology platforms.",
+  "responsibilities": [
+    "Define platform governance frameworks",
+    "Establish standards, policies, and controls",
+    "Monitor compliance and platform usage",
+    "Balance developer autonomy with governance",
+    "Collaborate with security, compliance, and platform teams",
+    "Drive continuous governance improvement"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Platform engineering",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Governance and compliance frameworks",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Security and risk management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Metrics and reporting",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cross-team influence",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 9,
+      "preferred_years": 15,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "105"
+  }
+}

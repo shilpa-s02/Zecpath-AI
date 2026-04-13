@@ -1,0 +1,20 @@
+87. Offshore Technical Lead 
+Role Overview 
+The Offshore Technical Lead leads offshore engineering teams, ensuring productivity, 
+quality, and alignment with onsite and client expectations. 
+Key Responsibilities 
+• Lead offshore technical teams 
+• Translate client requirements into technical tasks 
+• Ensure code quality and delivery timelines 
+• Coordinate with onsite leads and delivery managers 
+• Mentor offshore engineers 
+• Manage dependencies and technical risks 
+Required Skills 
+• Distributed team leadership 
+• Strong hands-on technical skills 
+• Agile development practices 
+• Communication across time zones 
+• Quality assurance and review processes 
+Experience 
+• 7–12 years in software development 
+• 3+ years leading offshore teams

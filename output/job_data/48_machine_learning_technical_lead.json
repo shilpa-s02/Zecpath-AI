@@ -1,0 +1,54 @@
+{
+  "job_title": "Machine Learning Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Machine Learning Technical Lead oversees end-to-end ML systems, from feature engineering to production deployment and monitoring.",
+  "responsibilities": [
+    "Design ML architectures and feature pipelines",
+    "Guide model selection, training, and evaluation",
+    "Ensure scalability, performance, and explainability",
+    "Lead model deployment and monitoring strategies",
+    "Mentor ML engineers and data scientists"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "ML algorithms and evaluation metrics",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Python, Scikit-learn, TensorFlow, PyTorch",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Feature stores and model monitoring tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud-based ML platforms",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "48"
+  }
+}

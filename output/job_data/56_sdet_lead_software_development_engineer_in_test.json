@@ -1,0 +1,54 @@
+{
+  "job_title": "SDET Lead (Software Development Engineer in Test)",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The SDET Lead blends software engineering and testing to build scalable, maintainable test systems and ensure product quality.",
+  "responsibilities": [
+    "Develop automated test frameworks and utilities",
+    "Collaborate closely with developers on testability",
+    "Lead shift-left testing and test-driven approaches",
+    "Perform code reviews for test and production code",
+    "Mentor SDETs and QA engineers"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Strong programming skills (Java, Python, JavaScript)",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      },
+      {
+        "name": "Test frameworks and automation tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD integration and test data management",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Debugging and code analysis",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "56"
+  }
+}

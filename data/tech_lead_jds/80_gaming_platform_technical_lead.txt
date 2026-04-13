@@ -1,0 +1,19 @@
+80. Gaming Platform Technical Lead 
+Role Overview 
+The Gaming Platform Technical Lead leads development of scalable, real-time gaming 
+platforms supporting multiplayer, matchmaking, and monetization systems. 
+Key Responsibilities 
+• Architect high-performance gaming backends 
+• Optimize low-latency real-time systems 
+• Integrate game engines and backend services 
+• Implement player data, leaderboards, and analytics 
+• Ensure scalability for global traffic 
+Required Skills 
+• Real-time systems & multiplayer architecture 
+• C++ / C# / Node.js 
+• Game engines (Unity, Unreal) 
+• WebSockets, gRPC 
+• Cloud scaling & performance tuning 
+Experience 
+• 7–12 years in gaming or real-time systems 
+• 3+ years in platform leadership

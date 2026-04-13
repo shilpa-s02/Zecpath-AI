@@ -1,0 +1,59 @@
+{
+  "job_title": "EdTech Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The EdTech Technical Lead leads development of scalable learning platforms, digital classrooms, assessment systems, and AI-driven education tools.",
+  "responsibilities": [
+    "Architect LMS and learning platforms",
+    "Lead backend, frontend, and mobile teams",
+    "Implement content delivery and assessment systems",
+    "Integrate video streaming, analytics, and AI tools",
+    "Ensure platform scalability during peak usage"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "LMS platforms, content delivery systems",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "JavaScript, React, Node.js, Python",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Cloud scaling & CDN",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Data analytics & AI integration",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Agile product development",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 6,
+      "preferred_years": 10,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "77"
+  }
+}

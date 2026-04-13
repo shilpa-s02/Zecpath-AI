@@ -1,0 +1,18 @@
+14. PHP Technical Lead 
+Role Overview 
+The PHP Technical Lead oversees development of web and backend systems using PHP, 
+ensuring maintainability, performance, and secure coding practices. 
+Key Responsibilities 
+• Lead PHP application development and architecture 
+• Guide teams on Laravel, Symfony, or CodeIgniter 
+• Review code and ensure best practices 
+• Optimize application performance and scalability 
+• Coordinate with frontend, QA, and DevOps teams 
+Required Skills & Technologies 
+• PHP 7/8, Laravel/Symfony 
+• RESTful APIs, MVC architecture 
+• MySQL/PostgreSQL 
+• CI/CD and cloud hosting platforms 
+Experience & Qualifications 
+• 6–11 years of PHP development experience 
+• Experience leading web application teams

@@ -1,0 +1,20 @@
+90. Principal Technical Lead 
+Role Overview 
+The Principal Technical Lead provides cross-team technical leadership, defining architecture 
+direction and influencing long-term technology strategy. 
+Key Responsibilities 
+• Own architecture across multiple products or platforms 
+• Define technical vision, standards, and best practices 
+• Lead design reviews and architectural governance 
+• Drive innovation and adoption of new technologies 
+• Mentor senior engineers and technical leads 
+• Partner with leadership on technical strategy 
+Required Skills 
+• Distributed systems and large-scale architecture 
+• Technology evaluation and roadmap planning 
+• Cross-team technical influence 
+• Performance, security, and scalability expertise 
+• Executive-level communication 
+Experience 
+• 12–18 years in engineering 
+• 5+ years in senior/principal roles

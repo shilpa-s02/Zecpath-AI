@@ -1,0 +1,56 @@
+{
+  "job_title": "NLP Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The NLP Technical Lead designs and deploys natural language processing systems for search, chatbots, and language understanding.",
+  "responsibilities": [
+    "Architect NLP pipelines and language models",
+    "Lead model training, fine-tuning, and evaluation",
+    "Implement text analytics, search, and conversational AI",
+    "Ensure model performance and fairness",
+    "Collaborate with GenAI and product teams"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "NLP techniques and language models",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Transformers, LLMs",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Python, NLP libraries",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Model evaluation and deployment tools",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 13,
+      "relevant_industries": [
+        "Enterprise"
+      ]
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "53"
+  }
+}

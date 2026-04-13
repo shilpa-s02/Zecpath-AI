@@ -1,0 +1,60 @@
+{
+  "job_title": "Client Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Client Technical Lead serves as the primary technical point of contact for clients, ensuring solutions meet business and technical expectations.",
+  "responsibilities": [
+    "Act as technical liaison between client and internal teams",
+    "Understand client requirements and propose technical solutions",
+    "Lead technical discussions, demos, and reviews",
+    "Ensure alignment between delivery and client expectations",
+    "Manage change requests and technical escalations",
+    "Support pre-sales and solution design activities"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Client-facing communication",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Solution architecture",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Technical documentation",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Presentation and negotiation skills",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Strong domain knowledge",
+        "is_mandatory": true,
+        "proficiency_level": "Expert"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "85"
+  }
+}

@@ -1,0 +1,20 @@
+104. Digital Transformation Technical Lead 
+Role Overview 
+The Digital Transformation Technical Lead drives modernization initiatives, enabling 
+organizations to adopt cloud, AI, automation, and agile delivery models. 
+Key Responsibilities 
+• Lead modernization and transformation programs 
+• Migrate legacy systems to modern architectures 
+• Enable cloud-native and AI-driven solutions 
+• Align technology with business transformation goals 
+• Drive DevOps, automation, and agile adoption 
+• Measure and report transformation outcomes 
+Required Skills 
+• Legacy modernization 
+• Cloud and platform engineering 
+• Automation and AI adoption 
+• Enterprise architecture 
+• Change and transformation leadership 
+Experience 
+• 10–18 years in engineering 
+• 5+ years in transformation programs

@@ -1,0 +1,55 @@
+{
+  "job_title": "Java Technical Lead",
+  "company": "Zecpath AI (Default)",
+  "location": "Remote / Not Specified",
+  "job_type": "Full-time",
+  "description": "The Java Technical Lead is responsible for designing, developing, and leading enterprise grade Java applications, ensuring scalability, security, and high performance while mentoring development teams.",
+  "responsibilities": [
+    "Lead architecture and design of Java-based applications",
+    "Guide teams on Spring, Spring Boot, and microservices architecture",
+    "Review code and enforce Java coding standards and best practices",
+    "Optimize application performance and scalability",
+    "Collaborate with product, QA, DevOps, and architecture teams",
+    "Troubleshoot complex production issues"
+  ],
+  "requirements": {
+    "skills": [
+      {
+        "name": "Core Java, Java 8+, Spring Boot, Hibernate/JPA",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "Microservices, RESTful APIs, messaging systems (Kafka/RabbitMQ)",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "SQL/NoSQL databases",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      },
+      {
+        "name": "CI/CD, Docker, Kubernetes",
+        "is_mandatory": true,
+        "proficiency_level": "Intermediate"
+      }
+    ],
+    "experience": {
+      "min_years": 7,
+      "preferred_years": 12,
+      "relevant_industries": []
+    },
+    "education": {
+      "degree_level": "",
+      "field_of_study": "",
+      "is_required": false
+    },
+    "certifications": []
+  },
+  "benefits": [],
+  "meta": {
+    "source": "Text Extraction",
+    "internal_id": "10"
+  }
+}

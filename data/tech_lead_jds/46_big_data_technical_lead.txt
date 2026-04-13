@@ -1,0 +1,18 @@
+46. Big Data Technical Lead 
+Role Overview 
+The Big Data Technical Lead leads high-volume, high-velocity data processing systems for 
+large-scale analytics and real-time insights. 
+Key Responsibilities 
+• Design and optimize big data processing frameworks 
+• Lead distributed data processing and storage solutions 
+• Ensure fault tolerance and scalability 
+• Manage performance tuning and cost optimization 
+• Guide teams on best practices for big data ecosystems 
+Required Skills & Technologies 
+• Hadoop ecosystem, Spark, Hive 
+• Distributed storage systems 
+• Streaming and batch processing frameworks 
+• Cloud-based big data platforms 
+Experience & Qualifications 
+• 8–15 years of big data experience 
+• Expertise in large-scale distributed systems

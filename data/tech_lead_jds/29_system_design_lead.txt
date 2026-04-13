@@ -1,0 +1,19 @@
+29. System Design Lead 
+Role Overview 
+The System Design Lead focuses on designing highly scalable, reliable, and fault-tolerant 
+systems, often for high-traffic or mission-critical environments. 
+Key Responsibilities 
+• Design scalable system architectures and data flows 
+• Define service boundaries and communication models 
+• Conduct capacity planning and performance modeling 
+• Lead architecture reviews and design discussions 
+• Ensure fault tolerance, high availability, and disaster recovery 
+• Mentor teams on system design principles 
+Required Skills & Technologies 
+• Large-scale distributed system design 
+• Load balancing, caching, and concurrency 
+• Databases (SQL/NoSQL) and data modeling 
+• Cloud infrastructure and observability tools 
+Experience & Qualifications 
+• 8–14 years of system design experience 
+• Proven background in high-scale systems

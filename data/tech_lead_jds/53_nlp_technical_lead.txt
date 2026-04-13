@@ -1,0 +1,18 @@
+53. NLP Technical Lead 
+Role Overview 
+The NLP Technical Lead designs and deploys natural language processing systems for 
+search, chatbots, and language understanding. 
+Key Responsibilities 
+• Architect NLP pipelines and language models 
+• Lead model training, fine-tuning, and evaluation 
+• Implement text analytics, search, and conversational AI 
+• Ensure model performance and fairness 
+• Collaborate with GenAI and product teams 
+Required Skills & Technologies 
+• NLP techniques and language models 
+• Transformers, LLMs 
+• Python, NLP libraries 
+• Model evaluation and deployment tools 
+Experience & Qualifications 
+• 7–13 years of NLP experience 
+• Leadership in enterprise NLP solutions

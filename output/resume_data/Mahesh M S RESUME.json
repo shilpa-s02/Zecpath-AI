@@ -4,7 +4,20 @@
   },
   "summary": "2021 -2024\nBA HINDI\nTo construct my career as a respected\nteam member of a professioanal\nKearla university Palayam\norganization contributing to its progress\nby using knowledge,work experiance etc..\n2019 - 2021\nHIGHER SECONDARY\nGovt HSS Balaramapram\nSkill\nContact Troubleshooting\nDomain management\n+91 9072746148\nTechnical Support\nmaheshmanohranc1@gmail.com\nCommunication\nBalaramapuram,\nThiruvananthapuram,\n695501\nWORK",
   "experience": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "category": "soft",
+      "confidence": 0.72,
+      "found_in": "experience"
+    },
+    {
+      "name": "Communication",
+      "category": "soft",
+      "confidence": 0.56,
+      "found_in": "summary"
+    }
+  ],
   "education": [],
   "projects": [],
   "raw_sections": {

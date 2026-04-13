@@ -1,0 +1,99 @@
+{
+  "Python": {
+    "category": "technical",
+    "synonyms": ["python3", "py"],
+    "priority": 1.0
+  },
+  "JavaScript": {
+    "category": "technical",
+    "synonyms": ["js", "javascript.js", "es6"],
+    "priority": 1.0
+  },
+  "React": {
+    "category": "technical",
+    "synonyms": ["react.js", "reactjs"],
+    "priority": 1.0
+  },
+  "Node.js": {
+    "category": "technical",
+    "synonyms": ["nodejs", "node"],
+    "priority": 1.0
+  },
+  "MongoDB": {
+    "category": "technical",
+    "synonyms": ["mongo", "mongodb"],
+    "priority": 1.0
+  },
+  "Express.js": {
+    "category": "technical",
+    "synonyms": ["express", "expressjs"],
+    "priority": 1.0
+  },
+  "MERN Stack": {
+    "category": "technical",
+    "stack": ["MongoDB", "Express.js", "React", "Node.js"],
+    "synonyms": ["mern"],
+    "priority": 1.2
+  },
+  "MEAN Stack": {
+    "category": "technical",
+    "stack": ["MongoDB", "Express.js", "Angular", "Node.js"],
+    "synonyms": ["mean"],
+    "priority": 1.2
+  },
+  "Project Management": {
+    "category": "business",
+    "synonyms": ["pm", "project mgmt"],
+    "priority": 1.0
+  },
+  "Agile": {
+    "category": "business",
+    "synonyms": ["scrum", "agile methodology"],
+    "priority": 1.0
+  },
+  "User Interface Design": {
+    "category": "creative",
+    "synonyms": ["ui design", "ui"],
+    "priority": 1.0
+  },
+  "User Experience Design": {
+    "category": "creative",
+    "synonyms": ["ux design", "ux"],
+    "priority": 1.0
+  },
+  "Communication": {
+    "category": "soft",
+    "synonyms": ["verbal communication", "written communication"],
+    "priority": 0.8
+  },
+  "Leadership": {
+    "category": "soft",
+    "synonyms": ["team leadership", "management"],
+    "priority": 0.9
+  },
+  "AWS": {
+    "category": "technical",
+    "synonyms": ["amazon web services"],
+    "priority": 1.0
+  },
+  "Docker": {
+    "category": "technical",
+    "synonyms": ["containerization"],
+    "priority": 1.0
+  },
+  "SQL": {
+    "category": "technical",
+    "synonyms": ["mysql", "postgresql", "sql server"],
+    "priority": 1.0
+  },
+  "Java": {
+    "category": "technical",
+    "synonyms": ["java8", "j2ee"],
+    "priority": 1.0
+  },
+  "Machine Learning": {
+    "category": "technical",
+    "synonyms": ["ml", "deep learning", "ai"],
+    "priority": 1.0
+  }
+}

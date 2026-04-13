@@ -6,13 +6,22 @@
   "experience": [],
   "skills": [
     {
-      "name": "Python"
+      "name": "Python",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "SQL"
+      "name": "AWS",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "AWS"
+      "name": "SQL",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     }
   ],
   "education": [],

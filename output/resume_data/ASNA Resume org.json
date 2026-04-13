@@ -6,61 +6,40 @@
   "experience": [],
   "skills": [
     {
-      "name": "Programming: Python"
+      "name": "Python",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "JavaScript"
+      "name": "Machine Learning",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "SQL\nData Science: Pandas"
+      "name": "JavaScript",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "NumPy"
+      "name": "SQL",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "Matplotlib"
+      "name": "Leadership",
+      "category": "soft",
+      "confidence": 0.9,
+      "found_in": "skills"
     },
     {
-      "name": "Seaborn"
-    },
-    {
-      "name": "Machine Learning"
-    },
-    {
-      "name": "Deep Learning"
-    },
-    {
-      "name": "NLP"
-    },
-    {
-      "name": "Computer Vision"
-    },
-    {
-      "name": "OpenCV\nWeb: Django"
-    },
-    {
-      "name": "Django ORM\nVisualization: Power BI"
-    },
-    {
-      "name": "Tableau"
-    },
-    {
-      "name": "Excel\nTools: GitHub"
-    },
-    {
-      "name": "Microsoft Word"
-    },
-    {
-      "name": "PowerPoint\nfrom job descriptions using basic NLP techniques.\nClassified jobs by domain and clustered regions using machine learning.\nVisualized job trends and skill demand using charts and dashboards.\n3. Multi-Shop E-Commerce Web Application\nDeveloped a Django-based multi-vendor e-commerce platform with user authentication and role-based\naccess.\nImplemented product listing"
-    },
-    {
-      "name": "category management"
-    },
-    {
-      "name": "shopping cart"
-    },
-    {
-      "name": "and order workflows using Django\nORM.\nDesigned backend logic and database models with relational database support for buyers and sellers.\nBuilt core e-commerce functionalities aligned with real-world online shopping systems"
+      "name": "Communication",
+      "category": "soft",
+      "confidence": 0.56,
+      "found_in": "summary"
     }
   ],
   "education": [],

@@ -6,49 +6,40 @@
   "experience": [],
   "skills": [
     {
-      "name": "Programming: Python"
+      "name": "Machine Learning",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "JavaScript"
+      "name": "Python",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "SQL\nData Science: Pandas"
+      "name": "JavaScript",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "NumPy"
+      "name": "SQL",
+      "category": "technical",
+      "confidence": 1.0,
+      "found_in": "skills"
     },
     {
-      "name": "Machine Learning"
+      "name": "Leadership",
+      "category": "soft",
+      "confidence": 0.63,
+      "found_in": "projects"
     },
     {
-      "name": "Deep Learning"
-    },
-    {
-      "name": "NLP"
-    },
-    {
-      "name": "Computer Vision"
-    },
-    {
-      "name": "OpenCV Web:\nDjango\nVisualization: Power BI"
-    },
-    {
-      "name": "Tableau"
-    },
-    {
-      "name": "Excel"
-    },
-    {
-      "name": "Matplotlib"
-    },
-    {
-      "name": "Seaborn Tools:\nGitHub"
-    },
-    {
-      "name": "MS Office"
-    },
-    {
-      "name": "Visual Studio"
+      "name": "Communication",
+      "category": "soft",
+      "confidence": 0.56,
+      "found_in": "projects"
     }
   ],
   "education": [],

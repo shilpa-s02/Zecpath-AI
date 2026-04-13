@@ -4,6 +4,7 @@ from typing import Dict, Any
 from parsers.pdf_parser import extract_text_from_pdf
 from parsers.docx_parser import extract_text_from_docx
 from parsers.section_classifier import SectionClassifier
+from parsers.skill_extractor import SkillExtractor
 from utils.text_cleaner import clean_text
 from utils.logger import log
 
@@ -17,6 +18,7 @@ class ResumeParser:
     
     def __init__(self):
         self.classifier = SectionClassifier()
+        self.skill_extractor = SkillExtractor()
 
     def parse_file(self, file_path: str) -> Dict[str, Any]:
         """
@@ -59,12 +61,8 @@ class ResumeParser:
             }
         }
 
-        # Populate structured lists if keys exist in raw_sections
-        # Note: This is a bridge. Full parsing logic will follow in other turns.
-        if "skills" in structured_sections:
-            # Simple split for now as a demonstration
-            skills_list = [s.strip() for s in structured_sections["skills"].split(',') if s.strip()]
-            resume_data["skills"] = [{"name": s} for s in skills_list]
+        # Extract Skills using the dedicated engine
+        resume_data["skills"] = self.skill_extractor.extract_skills(structured_sections)
 
         return resume_data
 

@@ -33,8 +33,8 @@
       "min_years": 7,
       "preferred_years": 12,
       "relevant_industries": [
-        "Enterprise",
-        "SaaS"
+        "SaaS",
+        "Enterprise"
       ]
     },
     "education": {

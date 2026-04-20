@@ -1,6 +1,7 @@
 import os
 import re
 import json
+from datetime import datetime
 from typing import Dict, Any, List
 from parsers.pdf_parser import extract_text_from_pdf
 from parsers.docx_parser import extract_text_from_docx
@@ -74,6 +75,7 @@ class JDParser:
             },
             "benefits": [],
             "meta": {
+                "posting_date": datetime.now().isoformat(),
                 "source": "Text Extraction",
                 "internal_id": ""
             }

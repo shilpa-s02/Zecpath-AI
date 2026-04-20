@@ -1,32 +1,29 @@
 {
   "personal_info": {
-    "full_name": "Mahesh M S Resume"
+    "full_name": "Mahesh M S Resume",
+    "email": "maheshmanohranc1@gmail.com",
+    "phone": "9072746148"
   },
   "summary": "2021 -2024\nBA HINDI\nTo construct my career as a respected\nteam member of a professioanal\nKearla university Palayam\norganization contributing to its progress\nby using knowledge,work experiance etc..\n2019 - 2021\nHIGHER SECONDARY\nGovt HSS Balaramapram\nSkill\nContact Troubleshooting\nDomain management\n+91 9072746148\nTechnical Support\nmaheshmanohranc1@gmail.com\nCommunication\nBalaramapuram,\nThiruvananthapuram,\n695501\nWORK",
   "experience": [],
   "skills": [
     {
       "name": "Leadership",
-      "category": "soft",
-      "confidence": 0.72,
-      "found_in": "experience"
+      "category": "Soft",
+      "proficiency": "Intermediate",
+      "years_of_experience": 0
     },
     {
       "name": "Communication",
-      "category": "soft",
-      "confidence": 0.56,
-      "found_in": "summary"
+      "category": "Soft",
+      "proficiency": "Beginner",
+      "years_of_experience": 0
     }
   ],
   "education": [],
   "projects": [],
-  "raw_sections": {
-    "personal_info": "--- Page 1 ---\nMAHESH M S\nSystem Engineer",
-    "education": "",
-    "summary": "2021 -2024\nBA HINDI\nTo construct my career as a respected\nteam member of a professioanal\nKearla university Palayam\norganization contributing to its progress\nby using knowledge,work experiance etc..\n2019 - 2021\nHIGHER SECONDARY\nGovt HSS Balaramapram\nSkill\nContact Troubleshooting\nDomain management\n+91 9072746148\nTechnical Support\nmaheshmanohranc1@gmail.com\nCommunication\nBalaramapuram,\nThiruvananthapuram,\n695501\nWORK",
-    "experience": "Language\nIT SERVICE ENGINEER (2025-2026)\nMalayalam\nOP EXE\nVENJARAMOODU,TRIVANDRUM\nEnglish Micro enterprise for IT and Network Services with 50+ employees\nand partnered with banking firm.\nHindi\nCollaborated with 500+ staff membersin 49 branchesto reduce\nthe IT support budget by 70% standardizing technical support\neffectively via remote desktop and network management.\nStreamlined the data retrieval byimplementing best server\nmanagement protocols available,which reduced 43% of network\ntraffic and boosted throughput by 33%."
-  },
   "metadata": {
-    "source_file": "Mahesh M S RESUME.pdf"
+    "source_file": "Mahesh M S RESUME.pdf",
+    "extraction_date": "2026-04-20T11:57:17.554825"
   }
 }

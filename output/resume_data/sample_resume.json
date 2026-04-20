@@ -1,37 +1,48 @@
 {
   "personal_info": {
-    "full_name": "Sample Resume"
+    "full_name": "Sample Resume",
+    "email": "unknown@example.com",
+    "phone": "000-000-0000"
   },
   "summary": "",
-  "experience": [],
+  "experience": [
+  {
+    "role": "Software Engineer",
+    "company": "Google",
+    "start_date": "Jan 2020",
+    "end_date": "Mar 2023"
+  },
+  {
+    "role": "Backend Developer",
+    "company": "Amazon",
+    "start_date": "Apr 2023",
+    "end_date": "Present"
+  }
+],
   "skills": [
     {
       "name": "Python",
-      "category": "technical",
-      "confidence": 1.0,
-      "found_in": "skills"
+      "category": "Technical",
+      "proficiency": "Expert",
+      "years_of_experience": 0
     },
     {
       "name": "AWS",
-      "category": "technical",
-      "confidence": 1.0,
-      "found_in": "skills"
+      "category": "Technical",
+      "proficiency": "Expert",
+      "years_of_experience": 0
     },
     {
       "name": "SQL",
-      "category": "technical",
-      "confidence": 1.0,
-      "found_in": "skills"
+      "category": "Technical",
+      "proficiency": "Expert",
+      "years_of_experience": 0
     }
   ],
   "education": [],
   "projects": [],
-  "raw_sections": {
-    "personal_info": "John Doe",
-    "skills": "Python, SQL, AWS",
-    "experience": "[TABLE]\nCompany | Role\nTechCorp | Engineer\n[/TABLE]"
-  },
   "metadata": {
-    "source_file": "sample_resume.docx"
+    "source_file": "sample_resume.docx",
+    "extraction_date": "2026-04-20T11:57:19.354368"
   }
 }

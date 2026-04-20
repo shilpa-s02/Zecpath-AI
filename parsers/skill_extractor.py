@@ -82,12 +82,16 @@ class SkillExtractor:
                     # For now, we take the highest score if found in multiple sections
                     score = round(base_priority * weight, 2)
                     
-                    if skill_name not in extracted or score > extracted[skill_name]["confidence"]:
+                    # Map confidence to proficiency
+                    proficiency = "Expert" if score >= 0.9 else "Intermediate" if score >= 0.6 else "Beginner"
+                    
+                    if skill_name not in extracted or score > extracted[skill_name].get("_score", 0):
                         extracted[skill_name] = {
                             "name": skill_name,
-                            "category": info.get("category", "unknown"),
-                            "confidence": score,
-                            "found_in": section_name
+                            "category": info.get("category", "Technical"),
+                            "proficiency": proficiency,
+                            "years_of_experience": 0, # Placeholder
+                            "_score": score # Internal helper for deduplication
                         }
                     
                     # Expand stacks
@@ -97,19 +101,23 @@ class SkillExtractor:
                                 sub_info = self.skills_dict[sub_skill]
                                 # Sub-skills from stacks get a slight penalty (0.9) to denote they were inferred
                                 sub_score = round(sub_info.get("priority", 1.0) * weight * 0.9, 2)
+                                sub_proficiency = "Expert" if sub_score >= 0.9 else "Intermediate" if sub_score >= 0.6 else "Beginner"
                                 
-                                if sub_skill not in extracted or sub_score > extracted[sub_skill]["confidence"]:
+                                if sub_skill not in extracted or sub_score > extracted[sub_skill].get("_score", 0):
                                     extracted[sub_skill] = {
                                         "name": sub_skill,
-                                        "category": sub_info.get("category", "unknown"),
-                                        "confidence": sub_score,
-                                        "found_in": section_name,
-                                        "inferred_from": skill_name
+                                        "category": sub_info.get("category", "Technical"),
+                                        "proficiency": sub_proficiency,
+                                        "years_of_experience": 0,
+                                        "inferred_from": skill_name,
+                                        "_score": sub_score
                                     }
 
-        # Convert dictionary to sorted list by confidence
+        # Convert dictionary to sorted list by score, then remove internal score
         result = list(extracted.values())
-        result.sort(key=lambda x: x["confidence"], reverse=True)
+        result.sort(key=lambda x: x["_score"], reverse=True)
+        for item in result:
+            item.pop("_score", None)
         return result
 
     def normalize_name(self, skill_variant: str) -> str:

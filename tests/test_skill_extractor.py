@@ -36,14 +36,16 @@ def test_stack_expansion(extractor):
     assert "React" in names
     assert "Node.js" in names
 
-def test_confidence_scoring(extractor):
+def test_proficiency_scoring(extractor):
     sections_high = {"skills": "Python"}
     sections_low = {"summary": "Python"}
     
-    score_high = extractor.extract_skills(sections_high)[0]["confidence"]
-    score_low = extractor.extract_skills(sections_low)[0]["confidence"]
+    prof_high = extractor.extract_skills(sections_high)[0]["proficiency"]
+    prof_low = extractor.extract_skills(sections_low)[0]["proficiency"]
     
-    assert score_high > score_low
+    # Weight 1.0 -> Expert, Weight 0.7 -> Intermediate
+    assert prof_high == "Expert"
+    assert prof_low == "Intermediate"
 
 def test_normalization(extractor):
     assert extractor.normalize_name("JS") == "JavaScript"

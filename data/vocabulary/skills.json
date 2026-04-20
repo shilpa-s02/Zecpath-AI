@@ -1,98 +1,98 @@
 {
   "Python": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["python3", "py"],
     "priority": 1.0
   },
   "JavaScript": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["js", "javascript.js", "es6"],
     "priority": 1.0
   },
   "React": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["react.js", "reactjs"],
     "priority": 1.0
   },
   "Node.js": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["nodejs", "node"],
     "priority": 1.0
   },
   "MongoDB": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["mongo", "mongodb"],
     "priority": 1.0
   },
   "Express.js": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["express", "expressjs"],
     "priority": 1.0
   },
   "MERN Stack": {
-    "category": "technical",
+    "category": "Technical",
     "stack": ["MongoDB", "Express.js", "React", "Node.js"],
     "synonyms": ["mern"],
     "priority": 1.2
   },
   "MEAN Stack": {
-    "category": "technical",
+    "category": "Technical",
     "stack": ["MongoDB", "Express.js", "Angular", "Node.js"],
     "synonyms": ["mean"],
     "priority": 1.2
   },
   "Project Management": {
-    "category": "business",
+    "category": "Domain",
     "synonyms": ["pm", "project mgmt"],
     "priority": 1.0
   },
   "Agile": {
-    "category": "business",
+    "category": "Domain",
     "synonyms": ["scrum", "agile methodology"],
     "priority": 1.0
   },
   "User Interface Design": {
-    "category": "creative",
+    "category": "Tool",
     "synonyms": ["ui design", "ui"],
     "priority": 1.0
   },
   "User Experience Design": {
-    "category": "creative",
+    "category": "Tool",
     "synonyms": ["ux design", "ux"],
     "priority": 1.0
   },
   "Communication": {
-    "category": "soft",
+    "category": "Soft",
     "synonyms": ["verbal communication", "written communication"],
     "priority": 0.8
   },
   "Leadership": {
-    "category": "soft",
+    "category": "Soft",
     "synonyms": ["team leadership", "management"],
     "priority": 0.9
   },
   "AWS": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["amazon web services"],
     "priority": 1.0
   },
   "Docker": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["containerization"],
     "priority": 1.0
   },
   "SQL": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["mysql", "postgresql", "sql server"],
     "priority": 1.0
   },
   "Java": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["java8", "j2ee"],
     "priority": 1.0
   },
   "Machine Learning": {
-    "category": "technical",
+    "category": "Technical",
     "synonyms": ["ml", "deep learning", "ai"],
     "priority": 1.0
   }

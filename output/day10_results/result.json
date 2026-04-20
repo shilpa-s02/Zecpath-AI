@@ -1,0 +1,22 @@
+{
+  "total_experience": 6.16,
+  "overall_relevance": 0.17,
+  "roles": [
+    {
+      "role": "Software Engineer",
+      "company": "Google",
+      "start_date": "Jan 2020",
+      "end_date": "Mar 2023",
+      "duration": 3.16,
+      "relevance_score": 0.17
+    },
+    {
+      "role": "Backend Developer",
+      "company": "Amazon",
+      "start_date": "Apr 2023",
+      "end_date": "Present",
+      "duration": 3.0,
+      "relevance_score": 0.17
+    }
+  ]
+}

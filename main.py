@@ -5,6 +5,7 @@ from parsers.jd_parser import JDParser, save_jd_json
 from parsers.resume_parser import ResumeParser, save_resume_json
 from utils.text_cleaner import clean_text
 from utils.file_handler import get_resume_files, save_processed_text
+from utils.aggregator import aggregate_resume_results
 from utils.logger import log
 
 def run_jd_pipeline(jd_dir="data/tech_lead_jds", output_dir="output/job_data"):
@@ -101,6 +102,10 @@ if __name__ == "__main__":
     
     # 2. Run Job Description Extraction Pipeline
     jd_count = run_jd_pipeline()
+
+    # 3. Aggregate results into summary JSON
+    aggregate_resume_results("output/resume_data", "output/day10_results/result.json")
+    log.info("Aggregated results into output/day10_results/result.json")
     
     log.info("=== ZECPATH AI PIPELINE SUMMARY ===")
     log.success(f"Processed Resumes: {res_count}")

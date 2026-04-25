@@ -15,19 +15,17 @@ def clean_text(text: str) -> str:
     # 1. Normalize line endings and whitespace
     text = text.replace('\r', '\n')
     
-    # 2. Identify common resume headings and standardize them
+    # 2. Identify common resume headings and standardize them (DISABLED: too aggressive)
     # Example: "S K I L L S" or "EXPERIENCE:" -> "SKILLS", "EXPERIENCE"
-    headings = ["SKILLS", "EXPERIENCE", "EDUCATION", "SUMMARY", "CERTIFICATIONS", "LANGUAGES", "PROJECTS", "PERSONAL INFO"]
-    for heading in headings:
-        # Regex to find heading with varying spaces and potential colon at end
-        # Matches "S K I L L S", "Skills:", "SKILLS   "
-        pattern = r'(?i)\b' + r'\s*'.join(list(heading)) + r'\s*[:\-]*'
-        text = re.sub(pattern, f"\n\n{heading}\n", text)
+    # headings = ["SKILLS", "EXPERIENCE", "EDUCATION", "SUMMARY", "CERTIFICATIONS", "LANGUAGES", "PROJECTS", "PERSONAL INFO"]
+    # for heading in headings:
+    #     pattern = r'(?i)\b' + r'\s*'.join(list(heading)) + r'\s*[:\-]*'
+    #     text = re.sub(pattern, f"\n\n{heading}\n", text)
 
-    # 3. Remove non-printable characters
-    printable = set(string.printable)
-    text = ''.join(filter(lambda x: x in printable, text))
-
+    # 3. Remove truly non-printable characters (less aggressive)
+    # We keep most Unicode characters to avoid mangling symbols and bullets
+    text = "".join(ch for ch in text if ch.isprintable() or ch in "\n\r\t")
+    
     # 4. Normalize multiple newlines into double newlines for paragraph separation
     text = re.sub(r'\n{3,}', '\n\n', text)
     

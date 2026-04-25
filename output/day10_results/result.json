@@ -1,22 +1,28 @@
 {
   "total_experience": 6.16,
-  "overall_relevance": 0.17,
+  "overall_relevance": 0.08,
   "roles": [
     {
-      "role": "Software Engineer",
-      "company": "Google",
-      "start_date": "Jan 2020",
-      "end_date": "Mar 2023",
-      "duration": 3.16,
-      "relevance_score": 0.17
-    },
-    {
-      "role": "Backend Developer",
-      "company": "Amazon",
+      "role": "Senior Software Engineer - Amazon ( - )",
+      "company": "Company",
       "start_date": "Apr 2023",
       "end_date": "Present",
+      "responsibilities": [
+        "Developed scalable microservices using Python and FastAPI Improved API performance by 30% Integrated CI/CD pipelines"
+      ],
       "duration": 3.0,
-      "relevance_score": 0.17
+      "relevance_score": 0.08
+    },
+    {
+      "role": "Software Engineer - Google ( - )",
+      "company": "Integrated CI/CD pipelines",
+      "start_date": "Jan 2020",
+      "end_date": "Mar 2023",
+      "responsibilities": [
+        "Built REST APIs for high-traffic applications Optimized PostgreSQL queries Worked on large-scale backend systems"
+      ],
+      "duration": 3.16,
+      "relevance_score": 0.09
     }
   ]
 }

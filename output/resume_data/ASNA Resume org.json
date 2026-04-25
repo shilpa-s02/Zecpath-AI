@@ -4,8 +4,36 @@
     "email": "asnaraseena02@gmail.com",
     "phone": "9207510369"
   },
-  "summary": "Electronics and Communication Engineering graduate with strong hands-on",
-  "experience": [],
+  "summary": "Electronics and Communication Engineering graduate with strong hands-on experience in Python, data science,\nand Django-based web development. Skilled in data analysis, machine learning, and building end-to-end\napplications that combine backend logic, data processing, and visualization. Actively seeking entry-level roles in\nData Science, Python Development, or Software Engineering.",
+  "experience": [
+    {
+      "role": "Python with IoT - Intern",
+      "company": "KELTRON",
+      "start_date": "N/A",
+      "end_date": "Present",
+      "responsibilities": [
+        "Worked on Python-based IoT applications involving sensors and real-time data processing."
+      ],
+      "duration": 0.0
+    },
+    {
+      "role": "LEADERSHIP",
+      "company": "Company",
+      "start_date": "22-2024",
+      "end_date": "Present",
+      "responsibilities": [],
+      "duration": 0.0
+    },
+    {
+      "role": "University Union Council 20 \u2022",
+      "company": "LEADERSHIP",
+      "start_date": "22-2024",
+      "end_date": "Present",
+      "responsibilities": [],
+      "duration": 0.0
+    }
+  ],
+  "total_experience_years": 0.0,
   "skills": [
     {
       "name": "Python",
@@ -34,7 +62,7 @@
     {
       "name": "Leadership",
       "category": "Soft",
-      "proficiency": "Expert",
+      "proficiency": "Intermediate",
       "years_of_experience": 0
     },
     {
@@ -48,6 +76,6 @@
   "projects": [],
   "metadata": {
     "source_file": "ASNA Resume org.pdf",
-    "extraction_date": "2026-04-20T11:57:17.010281"
+    "extraction_date": "2026-04-22T13:10:13.974446"
   }
 }

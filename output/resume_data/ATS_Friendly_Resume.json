@@ -1,0 +1,69 @@
+{
+  "personal_info": {
+    "full_name": "Ats Friendly Resume",
+    "email": "john.doe@email.com",
+    "phone": "000-000-0000"
+  },
+  "summary": "Results-oriented Professional with over 5 years of experience in project management and team leadership.\nProven track record of streamlining operations, reducing costs by 15%, and improving client satisfaction\nscores. Expert in cross-functional collaboration and agile methodologies.",
+  "experience": [
+    {
+      "role": "Senior Project Manager",
+      "company": "ABC Corporation  -",
+      "start_date": "Jan 2020",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led a team of 10 to successfully deliver 5 high-priority software projects ahead of schedule.",
+        "Implemented a new automated reporting system that saved the department 20 hours of manual work per week.",
+        "Collaborated with executive leadership to define project roadmaps and resource allocation.",
+        "Managed a cumulative budget of $2M with 100% adherence to financial constraints."
+      ],
+      "duration": 6.25
+    },
+    {
+      "role": "Operations Specialist",
+      "company": "XYZ Solutions  -",
+      "start_date": "June 2017",
+      "end_date": "Dec 2019",
+      "responsibilities": [
+        "Optimized supply chain logistics, resulting in a 12% reduction in shipping delays.",
+        "Analyzed operational data to identify bottlenecks and proposed solutions adopted company-wide.",
+        "Trained 15+ new hires on internal software and compliance protocols.",
+        "Facilitated weekly status meetings to ensure alignment between sales and production teams."
+      ],
+      "duration": 2.5
+    }
+  ],
+  "total_experience_years": 8.75,
+  "skills": [
+    {
+      "name": "Project Management",
+      "category": "Domain",
+      "proficiency": "Expert",
+      "years_of_experience": 0
+    },
+    {
+      "name": "Agile",
+      "category": "Domain",
+      "proficiency": "Expert",
+      "years_of_experience": 0
+    },
+    {
+      "name": "Leadership",
+      "category": "Soft",
+      "proficiency": "Expert",
+      "years_of_experience": 0
+    },
+    {
+      "name": "SQL",
+      "category": "Technical",
+      "proficiency": "Beginner",
+      "years_of_experience": 0
+    }
+  ],
+  "education": [],
+  "projects": [],
+  "metadata": {
+    "source_file": "ATS_Friendly_Resume.pdf",
+    "extraction_date": "2026-04-22T13:10:14.258513"
+  }
+}

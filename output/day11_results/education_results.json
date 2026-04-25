@@ -1,0 +1,30 @@
+{
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "field": "Computer Science",
+      "institution": "ABC University",
+      "graduation_year": "2019"
+    },
+    {
+      "degree": "Master's",
+      "field": "Data Science from XYZ University",
+      "institution": "XYZ University",
+      "graduation_year": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "category": "Cloud"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "category": "Management"
+    },
+    {
+      "name": "Google Data Analytics Certificate",
+      "category": "Data/AI"
+    }
+  ]
+}

@@ -1,27 +1,54 @@
 {
   "personal_info": {
     "full_name": "Sample Resume",
-    "email": "unknown@example.com",
-    "phone": "000-000-0000"
+    "email": "john.doe@gmail.com",
+    "phone": "555-123-4567"
   },
-  "summary": "",
+  "summary": "Results-driven Software Engineer with 6+ years of experience in backend development, scalable\nsystems, and API design.",
   "experience": [
-  {
-    "role": "Software Engineer",
-    "company": "Google",
-    "start_date": "Jan 2020",
-    "end_date": "Mar 2023"
-  },
-  {
-    "role": "Backend Developer",
-    "company": "Amazon",
-    "start_date": "Apr 2023",
-    "end_date": "Present"
-  }
-],
+    {
+      "role": "Senior Software Engineer - Amazon ( - )",
+      "company": "Company",
+      "start_date": "Apr 2023",
+      "end_date": "Present",
+      "responsibilities": [
+        "Developed scalable microservices using Python and FastAPI Improved API performance by 30% Integrated CI/CD pipelines"
+      ],
+      "duration": 3.0
+    },
+    {
+      "role": "Software Engineer - Google ( - )",
+      "company": "Integrated CI/CD pipelines",
+      "start_date": "Jan 2020",
+      "end_date": "Mar 2023",
+      "responsibilities": [
+        "Built REST APIs for high-traffic applications Optimized PostgreSQL queries Worked on large-scale backend systems"
+      ],
+      "duration": 3.16
+    }
+  ],
+  "total_experience_years": 6.16,
   "skills": [
     {
       "name": "Python",
+      "category": "Technical",
+      "proficiency": "Expert",
+      "years_of_experience": 0
+    },
+    {
+      "name": "SQL",
+      "category": "Technical",
+      "proficiency": "Expert",
+      "years_of_experience": 0
+    },
+    {
+      "name": "JavaScript",
+      "category": "Technical",
+      "proficiency": "Expert",
+      "years_of_experience": 0
+    },
+    {
+      "name": "MongoDB",
       "category": "Technical",
       "proficiency": "Expert",
       "years_of_experience": 0
@@ -33,7 +60,7 @@
       "years_of_experience": 0
     },
     {
-      "name": "SQL",
+      "name": "Java",
       "category": "Technical",
       "proficiency": "Expert",
       "years_of_experience": 0
@@ -42,7 +69,7 @@
   "education": [],
   "projects": [],
   "metadata": {
-    "source_file": "sample_resume.docx",
-    "extraction_date": "2026-04-20T11:57:19.354368"
+    "source_file": "sample_resume.pdf",
+    "extraction_date": "2026-04-22T13:10:15.077917"
   }
 }

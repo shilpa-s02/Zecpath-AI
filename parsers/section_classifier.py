@@ -35,7 +35,7 @@ class SectionClassifier:
         SectionType.WORK_EXPERIENCE: [
             r"experience", r"work experience", r"professional experience", 
             r"employment history", r"career history", r"professional background",
-            r"work history", r"relevant experience"
+            r"work history", r"relevant experience", r"internships?", r"training"
         ],
         SectionType.EDUCATION: [
             r"education", r"academic background", r"academic profile", 
@@ -64,7 +64,8 @@ class SectionClassifier:
         # Compile keywords into regex for faster matching
         self.header_patterns = {}
         for section, keywords in self.SECTION_KEYWORDS.items():
-            pattern = r'^(?:' + '|'.join(keywords) + r'):?$'
+            # Allow for optional trailing colon and some trailing whitespace
+            pattern = r'^\s*(?:' + '|'.join(keywords) + r')\s*[:\-]*\s*$'
             self.header_patterns[section] = re.compile(pattern, re.IGNORECASE)
 
     def classify_text(self, text: str) -> List[ResumeSection]:

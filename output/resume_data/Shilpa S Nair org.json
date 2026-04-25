@@ -5,7 +5,27 @@
     "phone": "9061070735"
   },
   "summary": "Postgraduate Computer Science student with a BSc in Physics and Computer Applications and a Diploma in\nData Science and AI. Eager to learn, adapt, and apply data science and machine learning concepts in a practical\nenvironment through an internship or entry-level role.",
-  "experience": [],
+  "experience": [
+    {
+      "role": "environment through an internship or entry-level role.",
+      "company": "Company",
+      "start_date": "N/A",
+      "end_date": "Present",
+      "responsibilities": [],
+      "duration": 0.0
+    },
+    {
+      "role": "Master of Science in Computer Science 2025 -",
+      "company": "EDUCATION",
+      "start_date": "present",
+      "end_date": "Present",
+      "responsibilities": [
+        "Kerala University , Thiruvananthapuram , Kerala Bachelor of Science in Physics and Computer Application 2020 - 2023 Kerala University , Thiruvananthapuram , Kerala"
+      ],
+      "duration": 0.0
+    }
+  ],
+  "total_experience_years": 0.0,
   "skills": [
     {
       "name": "Machine Learning",
@@ -48,6 +68,6 @@
   "projects": [],
   "metadata": {
     "source_file": "Shilpa S Nair org.pdf",
-    "extraction_date": "2026-04-20T11:57:19.078444"
+    "extraction_date": "2026-04-22T13:10:15.588317"
   }
 }

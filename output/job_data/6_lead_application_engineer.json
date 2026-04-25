@@ -33,8 +33,8 @@
       "min_years": 7,
       "preferred_years": 12,
       "relevant_industries": [
-        "SaaS",
-        "Enterprise"
+        "Enterprise",
+        "SaaS"
       ]
     },
     "education": {
@@ -46,7 +46,7 @@
   },
   "benefits": [],
   "meta": {
-    "posting_date": "2026-04-20T11:57:21.367146",
+    "posting_date": "2026-04-22T13:10:15.874275",
     "source": "Text Extraction",
     "internal_id": "6"
   }

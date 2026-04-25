@@ -49,15 +49,23 @@ def extract_text_from_pdf(pdf_path: str) -> str:
                     if abs(word['top'] - current_top) < 3:
                         current_line.append(word['text'])
                     else:
-                        lines.append(" ".join(current_line))
+                        line_text = " ".join(current_line)
+                        # Add extra spacing for blocks that look like experience dates
+                        if any(month in line_text for month in ["Jan", "Feb", "Mar", "Apr", "May", "Jun", 
+                                                              "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Present"]):
+                            lines.append("\n" + line_text + "\n")
+                        else:
+                            lines.append(line_text)
+                            
                         current_line = [word['text']]
                         current_top = word['top']
                 
                 # Add the last line
                 if current_line:
-                    lines.append(" ".join(current_line))
+                    line_text = " ".join(current_line)
+                    lines.append(line_text)
                 
-                page_text = "\n".join(lines)
+                page_text = "\n\n".join(lines)
                 
                 # 3. Concatenate table and text
                 full_text.append(f"--- Page {page_num + 1} ---\n{page_text}\n\n{table_text}")
